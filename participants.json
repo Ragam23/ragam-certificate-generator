@@ -3,8 +3,8 @@
     "ALFIYA S": {
         "name": "Alfiya S",
         "college": "Indira gandhi Institute of Polytechnic and Engineering",
-        "workshop": "PRODUCT DESIGN USING AR",
-        "date": "11/03/2023"
+        "workshops": ["PRODUCT DESIGN USING AR","NO CODE AI"],
+        "dates": ["11/03/2023","11/03/2023"]
     },
     "LAKSHMI C P": {
         "name": "Lakshmi C P",
