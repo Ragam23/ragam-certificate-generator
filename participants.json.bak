@@ -1,0 +1,75 @@
+
+{
+    "ALFIYA S": {
+        "name": "Alfiya S",
+        "college": "Indira gandhi Institute of Polytechnic and Engineering",
+        "workshops": ["PRODUCT DESIGN USING AR","NO CODE AI"],
+        "dates": ["11/03/2023","11/03/2023"]
+    },
+    "LAKSHMI C P": {
+        "name": "Lakshmi C P",
+        "college": "Indira gandhi Institute of Polytechnic and Engineering",
+        "workshop": "PRODUCT DESIGN USING AR",
+        "date": "11/03/2023"
+    },
+    "NOUFI JAMAL": {
+        "name": "Noufi Jamal",
+        "college": "Indira gandhi Institute of Polytechnic and Engineering",
+        "workshop": "PRODUCT DESIGN USING AR",
+        "date": "11/03/2023"
+    },
+    "R JAGANMAYAN SHARMA": {
+        "name": "R Jaganmayan Sharma",
+        "college": "Indira gandhi Institute of Polytechnic and Engineering",
+        "workshop": "PRODUCT DESIGN USING AR",
+        "date": "11/03/2023"
+    },
+    "M HOSNI VAHAB": {
+        "name": "M Hosni Vahab",
+        "college": "Indira gandhi Institute of Polytechnic and Engineering",
+        "workshop": "PRODUCT DESIGN USING AR",
+        "date": "11/03/2023"
+    },
+    "ANJANA S": {
+        "name": "Anjana S",
+        "college": "Indira gandhi Institute of Polytechnic and Engineering",
+        "workshop": "PRODUCT DESIGN USING AR",
+        "date": "11/03/2023"
+    },
+    "AMEENA SADIK": {
+        "name": "Ameena Sadik",
+        "college": "Indira gandhi Institute of Polytechnic and Engineering",
+        "workshop": "PRODUCT DESIGN USING AR",
+        "date": "11/03/2023"
+    },
+    "AMANA SADIKK": {
+        "name": "Amana Sadikk",
+        "college": "Indira gandhi Institute of Polytechnic and Engineering",
+        "workshop": "PRODUCT DESIGN USING AR",
+        "date": "11/03/2023"
+    },
+    "THASLEENA NAZAR": {
+        "name": "Thasleena Nazar",
+        "college": "Indira gandhi Institute of Polytechnic and Engineering",
+        "workshop": "PRODUCT DESIGN USING AR",
+        "date": "11/03/2023"
+    },
+    "ARCHA AJITH V": {
+        "name": "Archa Ajith V",
+        "college": "Indira gandhi Institute of Polytechnic and Engineering",
+        "workshop": "PRODUCT DESIGN USING AR",
+        "date": "11/03/2023"
+    },
+    "MEERA PRAKASH": {
+        "name": "Meera Prakash",
+        "college": "Indira gandhi Institute of Polytechnic and Engineering",
+        "workshop": "PRODUCT DESIGN USING AR",
+        "date": "11/03/2023"
+    },
+    "SABIN SAJU": {
+        "name": "Sabin Saju",
+        "college": "VKCET",
+        "workshop": "NO CODE AI",
+        "date": "11/03/2023"
+    }
+}

@@ -14,20 +14,22 @@
 </head>
 <body>
     <div class="App">
-        <div class="logos">
-            <!-- <img src="/static/img/fosscell-logo.png" alt="FOSSCell Logo"> -->
-            <img src="/static/img/ragam_logo.svg" height="100" width="100"/>
-            <!-- <img src="/static/img/csea-logo.jpg" alt="CSEA Logo"> -->
+        <div class="wrapper">
+            <div class="logos">
+                <!-- <img src="/static/img/fosscell-logo.png" alt="FOSSCell Logo"> -->
+                <img src="/static/img/ragam_logo_white.svg" height="100" width="100"/>
+                <!-- <img src="/static/img/csea-logo.jpg" alt="CSEA Logo"> -->
+            </div>
+            <h1>Ragam'23 Certificates</h1>
+            <form id="form">
+                <input class="form-control" type='text' id='ID' placeholder="Ragam ID"></input>
+                <button type='submit' id='button'>Submit</button>
+            </form>
+            <main role="main" class="main-container">
+                <h3 class="error">Invalid Ragam ID</h3>
+                <main class="main"></main>
+            </main>
         </div>
-        <h1>Ragam'23 Certificates</h1>
-        <form id="form">
-            <input class="form-control" type='text' id='ID' placeholder="Ragam ID"></input>
-            <button type='submit' id='button'>Submit</button>
-        </form>
-        <main role="main" class="main-container">
-            <h3 class="error">Invalid Ragam ID</h3>
-            <main class="main"></main>
-        </main>
     </div>
     
     <script src="./index.js"></script>

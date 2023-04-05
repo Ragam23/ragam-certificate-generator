@@ -128,20 +128,20 @@ const generateRagamPDF = async (user, workshop, i) => {
   
       firstPg.drawText(date, opts);
   
-      // var qr = new QRious({
-      //   value: window.location.href,
-      //   foreground: certificate.qrCode.foreground,
-      //   background: certificate.qrCode.background,
-      // });
-      // qr = qr.toDataURL();
-      // const qrImage = await pdfDoc.embedPng(qr);
+      var qr = new QRious({
+        value: window.location.href,
+        foreground: certificate.qrCode.foreground,
+        background: certificate.qrCode.background,
+      });
+      qr = qr.toDataURL();
+      const qrImage = await pdfDoc.embedPng(qr);
   
-      // firstPg.drawImage(qrImage, {
-      //   x: certificate.qrCode.x,
-      //   y: certificate.qrCode.y,
-      //   width: 100,
-      //   height: 100,
-      // });
+      firstPg.drawImage(qrImage, {
+        x: certificate.qrCode.x,
+        y: certificate.qrCode.y,
+        width: 100,
+        height: 100,
+      });
   
       const uri = await pdfDoc.saveAsBase64({ dataUri: true });
   
@@ -151,7 +151,11 @@ const generateRagamPDF = async (user, workshop, i) => {
       // elem.setAttribute("height", "40");
       // elem.setAttribute("width", "40");
 
-      var elem = document.createElement("span");
+      var confirm = document.createElement("span");
+      confirm.innerHTML = "This is to certify that " + titleCase(user.name.trim()) + " has attended the following workshops during Ragam'23. Click on the buttons below to download the certificates."
+      // confirm.style.width='50%'
+
+      var elem = document.createElement("button");
       elem.setAttribute("id", "download-button");
       elem.innerHTML=workshop
       // elem.setAttribute("src", "./static/img/download-icon.svg");
@@ -162,6 +166,7 @@ const generateRagamPDF = async (user, workshop, i) => {
       anchor.href = uri;
       anchor.download = "Ragam'23 Certificate.pdf";
       anchor.appendChild(elem);
+      main.appendChild(confirm)
       main.appendChild(anchor);
       // var enter = document.createElement("br");
       // main.appendChild(enter);

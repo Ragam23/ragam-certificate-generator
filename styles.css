@@ -1,25 +1,42 @@
 :root {
-  --orange: #ff7700;
+  --gold: #d4844b;
+}
+
+body > *{
+  box-sizing: border-box;
 }
 
 .App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
   width: 100%;
-  height: 60%;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
+  height: 100vh;
+  background-image: url(static/img/workshop_banner.jpeg);
+  background-size: cover;
 }
 
 * {
   margin: 0;
   padding: 0;
-  color: black;
+  color: white;
   font-family: "JetBrains Mono";
   text-align: center;
+}
+
+.wrapper{
+  background-color: rgba(128, 128, 128, 0.45);
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(3px);
+
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
 }
 
 img {
@@ -55,7 +72,8 @@ form {
   padding: 12px 20px;
   margin: 30px 0;
   box-sizing: border-box;
-  background-color: var(--gray);
+  background-color: white;
+  color: black;
   border: none;
   border-radius: 8px;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
@@ -69,14 +87,14 @@ form {
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
 }
 
-input:focus::placeholder{
+/* input:focus::placeholder{
   color: transparent;
-}
+} */
 
 button {
   align-items: center;
   background-clip: padding-box;
-  background-color: var(--orange);
+  background-color: var(--gold);
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
   box-sizing: border-box;
   color: white;
@@ -86,7 +104,7 @@ button {
   transition: all 250ms;
   user-select: none;
   touch-action: manipulation;
-  height: 45px;
+  min-height: 45px;
   padding: 0 25px;
   border: none;
   border-radius: 8px;
@@ -97,7 +115,7 @@ button {
 
 button:hover,
 button:focus {
-  background-color: #fb8332;
+  background-color: #b96e3a;
   box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
 }
 
@@ -109,13 +127,17 @@ button:active {
 .main-container{
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
+  align-items: center;
+  width: 50%;
 }
 
 .main{
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   gap: 25px;
+  width: 100%;
 }
 
 a{
@@ -126,12 +148,13 @@ a{
   color: white;
   padding: 15px;
   margin-top: 20px;
-  background-color: var(--orange);
+  background-color: var(--gold);
   border-radius: 5px;
   transition: all ease-in-out 250ms;
   /* height: 40px; */
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
-  width: 40px;
+  min-width: 60px;
+  max-width: 100%;
 }
 #download-button:hover,
 #download-button:focus {
@@ -139,7 +162,6 @@ a{
 }
 
 h1 {
-  color: black;
   margin: 30px 0px 10px 0px;
 }
 
@@ -150,4 +172,17 @@ h1 {
 
 .show{
   opacity: 100%;
+}
+
+@media(max-width: 600px){
+  .wrapper{
+    padding: 10px;
+    width: 85%;
+  }
+  h1{
+    font-size: 1rem;
+  }
+  .main-container{
+    width: 95%
+  }
 }
