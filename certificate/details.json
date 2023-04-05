@@ -1,0 +1,52 @@
+{
+  "name": {
+    "fontName": "GreatVibes-Regular.ttf",
+    "fontSize": 20,
+    "fontColor": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "x": 145,
+    "y": 332
+  },
+  "college": {
+    "fontSize": 11,
+    "fontColor": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "x": 125,
+    "y": 305
+  },
+
+  "workshop": {
+    "fontSize": 17,
+    "fontColor": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "x": 190,
+    "y": 275
+  },
+
+  "date": {
+    "fontSize": 17,
+    "fontColor": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "x": 120,
+    "y": 215
+  },
+
+  "qrCode": {
+    "x": 650,
+    "y": 35,
+    "foreground": "#3B3837",
+    "background": "#ffffff"
+  }
+}

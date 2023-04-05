@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="certificates/static/img/favicon.png" />
+    <link rel="stylesheet" href="styles.css">
+    <link href='https://fonts.googleapis.com/css?family=JetBrains Mono' rel='stylesheet'>
+    <title>Ragam'23 Certificates</title>
+    <style>
+
+    </style>
+</head>
+<body>
+    <div class="App">
+        <div class="logos">
+            <!-- <img src="/static/img/fosscell-logo.png" alt="FOSSCell Logo"> -->
+            <img src="/static/img/ragam_logo.svg" height="100" width="100"/>
+            <!-- <img src="/static/img/csea-logo.jpg" alt="CSEA Logo"> -->
+        </div>
+        <h1>Ragam'23 Certificates</h1>
+        <form id="form">
+            <input class="form-control" type='text' id='ID' placeholder="Ragam ID"></input>
+            <button type='submit' id='button'>Submit</button>
+        </form>
+        <main role="main" class="main">
+            <h3 class="error">Invalid Ragam ID</h3>
+        </main>
+    </div>
+    
+    <script src="./index.js"></script>
+    <script src="https://unpkg.com/pdf-lib/dist/pdf-lib.min.js"></script>
+    <script src="https://unpkg.com/@pdf-lib/fontkit@0.0.4"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js"></script>
+</body>
+</html>
