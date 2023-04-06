@@ -1,5 +1,5 @@
 :root {
-  --gold: #d4844b;
+  --gold: #b16833;
 }
 
 body > *{
@@ -114,15 +114,13 @@ button {
 }
 
 button:hover,
-button:focus {
-  background-color: #b96e3a;
+button:focus,
+button:active{
+  background-color: #a45e2c;
   box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
 }
 
-button:active {
-  background-color: #c85000;
-  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
-}
+
 
 .main-container{
   display: flex;
@@ -158,7 +156,7 @@ a{
 }
 #download-button:hover,
 #download-button:focus {
-  background-color: #fb8332;
+  background-color: #a45e2c;
 }
 
 h1 {

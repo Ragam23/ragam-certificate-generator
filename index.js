@@ -100,7 +100,7 @@ const generateRagamPDF = async (user, workshop, i) => {
   
       opts = {
         // size: certificate.name.fontSize,
-        x: certificate.workshop.x,
+        x: workshop.length<35?certificate.workshop.x:180,
         y: certificate.workshop.y,
         color: rgb(
           certificate.workshop.fontColor.r,
@@ -152,7 +152,7 @@ const generateRagamPDF = async (user, workshop, i) => {
       // elem.setAttribute("width", "40");
 
       var confirm = document.createElement("span");
-      confirm.innerHTML = "This is to certify that " + titleCase(user.name.trim()) + " has attended the following workshops during Ragam'23. Click on the buttons below to download the certificates."
+      confirm.innerHTML = "This is to certify that " + titleCase(user.name.trim()) + " has attended the following workshops during Ragam'23. Download the certificates below."
       // confirm.style.width='50%'
 
       var elem = document.createElement("button");
