@@ -81,7 +81,7 @@ const generateRagamPDF = async (user, workshop, i) => {
   
       firstPg.drawText(name, opts);
   
-      let college = user.college;
+      let college = user.college.toUpperCase().trim();
       opts = {
         x: certificate.college.x,
         y: certificate.college.y,
