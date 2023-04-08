@@ -6876,13 +6876,13 @@
   },
   "R23-PAONK": {
     "name": "ARCHANAMOL LALU",
-    "college": "Amal Jyothi College of Engineering ",
+    "college": "Amal Jyothi College of Engineering",
     "workshops": ["FULL STACK WEB DEVELOPMENT"] ,
     "dates": ["12/03/2023"]
   },
   "R23-IRMNU": {
     "name": "Gopika G Pillai",
-    "college": "Providence College of Engineering ",
+    "college": "Providence College of Engineering",
     "workshops": ["IOT WITH AWS"]  ,
     "dates": ["12/03/2023"]
   },
@@ -10708,7 +10708,7 @@
   },
   "R23-QOJKZ": {
     "name": "P V Gopika Ganeshan ",
-    "college": "SCMS School of engineering and technology ",
+    "college": "SCMS School of engineering and technology",
     "workshops": ["FLUTTER APP DEVELOPMENT"] ,
     "dates": ["12/03/2023"]
   },
@@ -21475,19 +21475,19 @@
     "dates": ["12/03/2023"]
   },
   "R23-SRROD": {
-    "name": "gopikagbkm@gmail.com",
+    "name": "Gopika G",
     "college": "TKM COLLEGE OF ENGINEERING KARIKODE KOLLAM",
     "workshops": ["FULL STACK WEB DEVELOPMENT"] ,
     "dates": ["12/03/2023"]
   },
   "R23-GAIPV": {
     "name": "Shinusha K",
-    "college": "T K M College of Engineering Kollam",
+    "college": "TKM College of Engineering Kollam",
     "workshops": ["PRODUCT DESIGN USING AR"],
     "dates": ["11/03/2023"]
   },
   "R23-XNFHD": {
-    "name": "Gopika Ps",
+    "name": "Gopika P S",
     "college": "Federal institute of science and technology ",
     "workshops": ["PRODUCT DESIGN USING AR"]  ,
     "dates": ["12/03/2023"]
@@ -21500,15 +21500,33 @@
   },
   "R23-HPBAY": {
     "name": "Kavya Raj P ",
-    "college": "Saint Gits college of engineering  Kottayam ",
+    "college": "Saint Gits college of engineering Kottayam ",
     "workshops": ["NFT AND METAVERSE"],
     "dates": ["10/03/2023"]
+  },
+  "R23-ABVMR": {
+    "name": "Abhiram D S",
+    "college": "ACE college of engineering",
+    "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-JGQVW": {
+    "name": "Sreeraj R Nair",
+    "college": "VKCET Paripally",
+    "workshops": ["ETHICAL HACKING"],
+    "dates": ["12/03/2023"]
   },
   "R23-IUJJW": {
     "name": "Arjun Anil Pillai",
     "college": "Providence College of Engineering ",
     "workshops": ["NFT AND METAVERSE"],
     "dates": ["10/03/2023"]
+  },
+  "R23-GALXD": {
+    "name": "Arjun Krishna J",
+    "college": "Saint Gits college of engineering",
+    "workshops": ["Basics of IC Engine and ECU Tuning"],
+    "dates": ["12/03/2023"]
   },
   "R23-LMWNU": {
     "name": "Sanjay Pathiyil",
