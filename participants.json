@@ -21480,6 +21480,48 @@
     "workshops": ["FULL STACK WEB DEVELOPMENT"] ,
     "dates": ["12/03/2023"]
   },
+  "R23-UDYPA": {
+    "name": "ABHIJITH ANAND",
+    "college": "TKM COLLEGE OF ENGINEERING",
+    "workshops": ["PYTHON"] ,
+    "dates": ["10/03/2023"]
+  },
+  "R23-AGYRE": {
+    "name": "Gayathri R Krishnan",
+    "college": "Saint Gits college of engineering",
+    "workshops": ["PCB DESIGN"] ,
+    "dates": ["10/03/2023"]
+  },
+  "R23-HUAYR": {
+    "name": "Nuhma Shibin",
+    "college": "TKM INSTITUTE OF TECHNOLOGY",
+    "workshops": ["PYTHON"] ,
+    "dates": ["10/03/2023"]
+  },
+  "R23-PAURE": {
+    "name": "Muhamed Faheem Shamsudeen ",
+    "college": "Government Engineering college Idukki",
+    "workshops": ["ROBOTICS"] ,
+    "dates": ["11/03/2023"]
+  },
+  "R23-WMIUA": {
+    "name": "Yaqub Moosa Mohamed",
+    "college": "TKM College of Engineering",
+    "workshops": ["ROBOTICS"] ,
+    "dates": ["12/03/2023"]
+  },
+  "R23-THATP": {
+    "name": "Simon Joseph T",
+    "college": "College of Engineering Trivandrum",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"] ,
+    "dates": ["11/03/2023"]
+  },
+  "R23-FRTER": {
+    "name": "Ninan Tony",
+    "college": "College of Engineering Trivandrum",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"] ,
+    "dates": ["11/03/2023"]
+  },
   "R23-GAIPV": {
     "name": "Shinusha K",
     "college": "TKM College of Engineering Kollam",
