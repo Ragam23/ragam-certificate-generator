@@ -151,10 +151,6 @@ const generateRagamPDF = async (user, workshop, i) => {
       // elem.setAttribute("height", "40");
       // elem.setAttribute("width", "40");
 
-      var confirm = document.createElement("span");
-      confirm.innerHTML = "This is to certify that " + titleCase(user.name.trim()) + " has attended the following workshops during Ragam'23. Download the certificates below."
-      // confirm.style.width='50%'
-
       var elem = document.createElement("button");
       elem.setAttribute("id", "download-button");
       elem.innerHTML=workshop
@@ -166,7 +162,6 @@ const generateRagamPDF = async (user, workshop, i) => {
       anchor.href = uri;
       anchor.download = "Ragam'23 Certificate.pdf";
       anchor.appendChild(elem);
-      main.appendChild(confirm)
       main.appendChild(anchor);
       // var enter = document.createElement("br");
       // main.appendChild(enter);
@@ -190,6 +185,12 @@ window.onload = async (event) => {
     verifyUser(regID).then((user) => {
       if (user) {
         document.getElementById("form").style.display = "none";
+
+      let main = document.querySelector(".main");
+      var confirm = document.createElement("span");
+      confirm.innerHTML = "This is to certify that " + titleCase(user.name.trim()) + " has attended the following workshops during Ragam'23. Download the certificates below."
+      main.appendChild(confirm)
+
         user.workshops.forEach((workshop, i) => generateRagamPDF(user, workshop, i))
       } else {
         document.getElementsByClassName("error")[0].classList.add("show");

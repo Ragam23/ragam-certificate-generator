@@ -3296,9 +3296,9 @@
   },
   "R23-ICDDC": {
     "name": "Ajin vinayak",
-    "college": "Vkcet paripally",
+    "college": "VKCET paripally",
     "workshops": ["DATA SCIENCE"],
-    "dates": ["11/03/2023"]
+    "dates": ["12/03/2023"]
   },
   "R23-ZGISP": {
     "name": "Archa Udayan.A",
@@ -17271,7 +17271,7 @@
     "dates": ["11/03/2023"]
   },
   "R23-ROMJO": {
-    "name": "Alan",
+    "name": "Alan Jomon Cyriac",
     "college": "Toch Institute of science and technology",
     "workshops": ["IOT WITH AWS"],
     "dates": ["12/03/2023"]
@@ -34874,5 +34874,503 @@
     "college": "TKM COLLEGE OF ENGINEERING KOLLAM",
     "workshops": ["SOLIDWORKS"],
     "dates": ["10/03/2023"]
+  },
+  "R23-PCEFG": {
+    "name": "Hiba Fathima M N",
+    "college": "Adi Shankara Institute of Engineering and Technology Kalady",
+    "workshops": ["DANCE WORKSHOP"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-DGVEL": {
+    "name": "Nimitha Joy",
+    "college": "St Joseph's College of engineering and technology Palai",
+    "workshops": ["FLUTTER APP DEVELOPMENT"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-JVRHC": {
+    "name": "Yaqoob Moosa Mohamed",
+    "college": "TKM College of Engineering",
+    "workshops": ["PYTHON"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-PGHNC": {
+    "name": "Mohamed Shafaf C P",
+    "college": "TKM College of Engineering",
+    "workshops": ["ROBOTICS"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-XNWLD": {
+    "name": "Muhammed Mehlaj K T",
+    "college": "TKM College of Engineering",
+    "workshops": ["PYTHON"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-SRTEM": {
+    "name": "Anandhu Anil",
+    "college": "College of Engineering Kidangoor",
+    "workshops": ["FULL STACK WEB DEVELOPMENT", "PYTHON", "SOFTWARE TESTING"],
+    "dates": ["12/03/2023", "10/03/2023", "11/03/2023"]
+  },
+  "R23-AEMLK": {
+    "name": "Vivek M Nair",
+    "college": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-BZDTC": {
+    "name": "SREEDEV HARIKRISHNA",
+    "college": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-CTQNK": {
+    "name": "Arjun krishna j",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-DSWJF": {
+    "name": "Vyshnav R",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-ETRUI": {
+    "name": "John Thomas Vaidyan",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-FGKOP": {
+    "name": "Diyan Reji Alex",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-HXVNM": {
+    "name": "Adhil Muhammed CA",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-IJLYB": {
+    "name": "Muhammed Roshan A",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-JQWAR": {
+    "name": "Melvin Abraham",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-KNFBZ": {
+    "name": "TEJASKRISHNA S",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-LGTHD": {
+    "name": "Muhammed Amin N",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-MVCXS": {
+    "name": "Ihsaan Nasar",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-NROPE": {
+    "name": "Janadathan K",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-OXZUY": {
+    "name": "GANESH M PILLAI",
+    "college": "TKM INSTITUTE OF TECHNOLOGY",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-PFADI": {
+    "name": "Jithin J",
+    "college": "TKM INSTITUTE OF TECHNOLOGY",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-QEWKS": {
+    "name": "Nirmal M Nair",
+    "college": "BISHOP JEROME INSTITUTE",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-RAZXB": {
+    "name": "Noel Anand Jacob",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-SVLNU": {
+    "name": "Deepu C P",
+    "college": "VALIA KOONAMBAIKULATHAMMA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-TYCJH": {
+    "name": "Ajay Krishna S",
+    "college": "VALIA KOONAMBAIKULATHAMMA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-UJMPG": {
+    "name": "Athul. S",
+    "college": "VALIA KOONAMBAIKULATHAMMA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-VHKRI": {
+    "name": "Jyothish kumar j",
+    "college": "VALIA KOONAMBAIKULATHAMMA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-WXBNL": {
+    "name": "AKHIL AL",
+    "college": "VALIA KOONAMBAIKULATHAMMA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-XQOEF": {
+    "name": "Unnimaya.k",
+    "college": "NSS COLLEGE OF ENGINEERING",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-YADTZ": {
+    "name": "Nandana Biju",
+    "college": "PROVIDENCE COLLEGE OF ENGINEERING",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-ZELJC": {
+    "name": "Theertha santhosh",
+    "college": "NSS COLLEGE OF ENGINEERING",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-AWQXY": {
+    "name": "Lakshmi MG",
+    "college": "NSS COLLEGE OF ENGINEERING",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-BNPKR": {
+    "name": "Niyas Mohammed Nowshad",
+    "college": "RAJADHANI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-CMDZV": {
+    "name": "Ram S Madhav",
+    "college": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-DFJSG": {
+    "name": "FEBIN S S",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-EPHOU": {
+    "name": "Anjima l s",
+    "college": "MGM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-FGTWI": {
+    "name": "VAISHNAV S",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-HVLNX": {
+    "name": "Ashik. N",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-IGKMY": {
+    "name": "K.SUJITH",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-JRACE": {
+    "name": "AJMAL M",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-KBQFD": {
+    "name": "S RAHUL SUNDAR",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-LUZSJ": {
+    "name": "Karthik. A",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-MWTOY": {
+    "name": "Abhin as",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-NAIPX": {
+    "name": "SIVA U",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-OGHEB": {
+    "name": "NIKHILSHAJI",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-PYVRC": {
+    "name": "PS Devanadh",
+    "college": "MGM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-QNKJZ": {
+    "name": "Aswin T",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-RBTDW": {
+    "name": "JISHNU J NAIR",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-SZMVF": {
+    "name": "Daniel Fredy",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-TULXG": {
+    "name": "Alen k s kumar",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-VCJYN": {
+    "name": "Arjun. K",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-WIKPA": {
+    "name": "Nasih .N",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-XRBNQ": {
+    "name": "AKHIL S S",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-YEGOT": {
+    "name": "Jyothish SS",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-ZLUDH": {
+    "name": "Aswin.A",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-AFJQK": {
+    "name": "SREYAS S S",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-BPIML": {
+    "name": "Midhun. M",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-COZTX": {
+    "name": "SUMI MS",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-DNRSW": {
+    "name": "Ashik.m.s",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-EUYVI": {
+    "name": "SOORAJ.M",
+    "college": "MGM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-FLHDC": {
+    "name": "A S AkHIL",
+    "college": "MGM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-GJKNB": {
+    "name": "JISHNU. S",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-HTQAE": {
+    "name": "Helen Susan Paul",
+    "college": "MUTHOOT INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-IEZFX": {
+    "name": "Malavika P S",
+    "college": "MUTHOOT INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-JMUYG": {
+    "name": "Nandana.B",
+    "college": "MUTHOOT INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-KVWLR": {
+    "name": "Sooryanarayanan",
+    "college": "OTHER",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-LBTZO": {
+    "name": "Joyal Reji",
+    "college": "MANGALAM COLLEGE OF ENGINEERING",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-MRXNJ": {
+    "name": "LAKSHMIPRIYA K.A",
+    "college": "MUTHOOT INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-NSDYP": {
+    "name": "Meenakshi Jayachandran",
+    "college": "MUTHOOT INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-OGAIC": {
+    "name": "Muhammad nafih hamza cp",
+    "college": "COLLEGE OF ENGINEERING VADAKARA",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-PFVKU": {
+    "name": "Muhammed abdulla k",
+    "college": "COLLEGE OF ENGINEERING VADAKARA",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-QJWXB": {
+    "name": "ABUHUSAIN AS",
+    "college": "MGM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-RHYTM": {
+    "name": "Shredha Prasad",
+    "college": "MUTHOOT INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-SIKDP": {
+    "name": "Gouri Suresh",
+    "college": "MUTHOOT INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-TLNOZ": {
+    "name": "ANNA SAJU",
+    "college": "MUTHOOT INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-UMXFC": {
+    "name": "Fathima Shifana V N",
+    "college": "MUTHOOT INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-VSRYJ": {
+    "name": "AFSANA M ALIYAR",
+    "college": "MUTHOOT INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-WGTHP": {
+    "name": "Devadathan vs",
+    "college": "MANGALAM COLLEGE OF ENGINEERING",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-XEQUZ": {
+    "name": "Sarath. S",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-YPCNB": {
+    "name": "Pranav. G",
+    "college": "MGM POLYTECHNIC COLLEGE KILIMANOOR, TRIVANDRUM",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-ZODVI": {
+    "name": "Jishnu vasu",
+    "college": "MANGALAM COLLEGE OF ENGINEERING",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-AAPOI": {
+    "name": "S Madhuri Sivan",
+    "college": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-IOPUA": {
+    "name": "Abheeshek A",
+    "college": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
+    "dates": ["11/03/2023"]
   }
 }
