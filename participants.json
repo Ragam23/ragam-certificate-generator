@@ -14071,7 +14071,7 @@
   },
   "R23-TOZON": {
     "name": "Krishnendu P S",
-    "college": "Government Engineering College Sreekrishnapuram Palakkad",
+    "college": "Government Engineering College Palakkad",
     "workshops": ["DATA SCIENCE"],
     "dates": ["11/03/2023"]
   },
@@ -22277,7 +22277,7 @@
   },
   "R23-AXJZY": {
     "name": "Krishnendu B U",
-    "college": "LBS INSTITUTE OF TECHNOLOGY FOR WOMEN'S POOJAPURA TRIVANDRUM",
+    "college": "LBS INSTITUTE OF TECHNOLOGY FOR WOMEN'S TRIVANDRUM",
     "workshops": ["CORPORATE TRAINING"],
     "dates": ["11/03/2023"]
   },
@@ -33691,10 +33691,9 @@
     "name": "KRISHNENDU KS",
     "college": "COLLEGE OF ENGINEERING ADOOR",
     "workshops": [
-      "BASICS OF IC ENGINE AND ECU TUNING",
       "BASICS OF IC ENGINE AND ECU TUNING"
     ],
-    "dates": ["11/03/2023", "11/03/2023"]
+    "dates": ["11/03/2023"]
   },
   "R23-ANHZU": {
     "name": "Marvin Varghese Mathew",
