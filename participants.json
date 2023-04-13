@@ -35515,5 +35515,23 @@
     "college": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
     "workshops": ["AUTONOMOUS DRIVING SYSTEM & MACHINE LEARNING"],
     "dates": ["11/03/2023"]
+  },
+  "R23-ZZZZZ": {
+    "name": "Amna P P",
+    "college": "Government Engineering College Kozhikode",
+    "workshops": ["DATA SCIENCE"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-ZZZZY": {
+    "name": "Aravind Ratheesh",
+    "college": "KMEA Engineering College",
+    "workshops": ["CYBERSECURITY"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-ZZZZX": {
+    "name": "Mohamed Shafi",
+    "college": "Model Engineering College",
+    "workshops": ["IOT WITH AWS","AUTOCAD"],
+    "dates": ["11/03/2023"]
   }
 }
