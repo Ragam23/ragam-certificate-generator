@@ -33504,6 +33504,144 @@
     "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
     "dates": ["11/03/2023"]
   },
+  "R23-SLSEX": {
+    "name": "Alan D Augustine",
+    "college": "Amal Jyothi College of Engineering",
+    "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-LXJTJ": {
+    "name": "Abhijith Deepak",
+    "college": "SCT COLLEGE OF ENGINEERING",
+    "workshops": ["IOT WITH AWS"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-PQVDP": {
+    "name": "Abhiram A",
+    "college": "Amrita college of engineering",
+    "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
+    "dates": ["11/03/2023"]
+  },
+  "Nil": {
+    "name": "Elroy C.J",
+    "college": "Fisat",
+    "workshops": ["CRYPTOCURRENCY AND BLOCKCHAIN"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-AMFAK": {
+    "name": "Theertha santhosh",
+    "college": "NSS ENGINEERING COLLEGE, PALAKKAD",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-SYZKX": {
+    "name": "Lakshmi MG",
+    "college": "Nss college of engineering Palakkad",
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-IVYTS": {
+    "name": "ARUNKUMAR A",
+    "college": "College of engineering Adoor",
+    "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-EAFVA": {
+    "name": "Nandana Anil",
+    "college": "Saintgits college of engineering",
+    "workshops": ["DATA SCIENCE"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-OZBMX": {
+    "name": "SRUTHI B NAIR",
+    "college": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
+    "workshops": ["ROBOTICS"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-KLMXD": {
+    "name": "ALEESHA THOMAS",
+    "college": "Viswajyothi college of engineering and technology",
+    "workshops": ["SOFTWARE TESTING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-DNVBY": {
+    "name": "Nandhagopal V",
+    "college": "Amal Jyothi College of Engineering",
+    "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-KCDOB ": {
+    "name": "Samudhra Manoj",
+    "college": "Amal Jyothi College of engineering",
+    "workshops": ["DIGITAL MARKETING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-TJTPQ ": {
+    "name": "Sreya Anna Joseph",
+    "college": "Saint gits college of engineering, Pathamuttom, Kottayam",
+    "workshops": ["NO CODE AI"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-OFAEB": {
+    "name": "UTHARA SYAMDEV",
+    "college": "TKM COLLEGE OF ENGINEERING",
+    "workshops": ["DATA SCIENCE"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-ZHFLH": {
+    "name": "Devika S S",
+    "college": "College of engineering perumon",
+    "workshops": ["ETHICAL HACKING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-WBYAR": {
+    "name": "Aiswarya.S.R",
+    "college": "Government Engineering College Barton Hill Thiruvananthapuram",
+    "workshops": ["AUTOCAD", "AUTOCAD"],
+    "dates": ["12/03/2023", "12/03/2023"]
+  },
+  "R23-WDUZG": {
+    "name": "SAMUEL KOSHY VILANILAM",
+    "college": "SAINTGITS COLLEGE OF ENGINEERING",
+    "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-AZHQJ": {
+    "name": "Tejas Jayachandran",
+    "college": "Saintgits College of Engineering",
+    "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23- YKLHI": {
+    "name": "Hafis Habeeb",
+    "college": "Rajagiri school of engineering and technology",
+    "workshops": ["PYTHON"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-LRWKK ": {
+    "name": "Faiza Shahma T A",
+    "college": "University College of Engineering Thodupuzha",
+    "workshops": ["IOT WITH AWS"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-LVZNX": {
+    "name": "Meelha els asaji",
+    "college": "Amal jyothi college of engineering",
+    "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-APXVB": {
+    "name": "Mehthab Ahmed",
+    "college": "Tkm it",
+    "workshops": ["DATA SCIENCE"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-MERMR": {
+    "name": "Alif Sulthan",
+    "college": "St Thomas institute of science and technology",
+    "workshops": ["CYBERSECURITY"],
+    "dates": ["11/03/2023"]
+  },
   "R23-YRXAE": {
     "name": "Vyshnavi K B",
     "college": "College of engineering kidangoor",

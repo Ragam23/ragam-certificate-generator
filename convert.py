@@ -24,22 +24,22 @@ with open(file) as csv_file:
             continue
 
         # Get the Ragam id for the current row
-        ragam_id = row['Ragam id']
+        ragam_id = row['RAGAM ID']
 
         # If this Ragam id isn't already in the JSON data, create a new object for it
         if ragam_id not in json_data:
             json_data[ragam_id] = {
-                'name': row['Name'].strip(),
-                'college': row['College'].strip(),
+                'name': row['FULL NAME'].strip(),
+                'college': row['COLLEGE NAME'].strip(),
                 'workshops': [],
                 'dates': []
             }
 
         # Append the workshop and date to the appropriate arrays in the JSON data
-        json_data[ragam_id]['workshops'].append(row['Workshop'].upper().strip())
+        json_data[ragam_id]['workshops'].append(row['TOPIC OF WORKSHOP'].upper().strip())
 
-        date = row['Date'].split()
-        json_data[ragam_id]['dates'].append(date[0]+'/03/2023')
+        date = row['DATE ON WHICH YOU HAD ATTENDED THE WORKSHOP'].split()
+        json_data[ragam_id]['dates'].append(date[0])
 
 # Save the JSON data to a file
     with open('output.json', 'w') as output_file:
