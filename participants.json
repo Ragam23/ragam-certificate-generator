@@ -17039,6 +17039,12 @@
     "workshops": ["IOT WITH AWS"],
     "dates": ["11/03/2023"]
   },
+  "R23-HSSZM": {
+    "name": "Lekshmi Murukan",
+    "college": "Saint Gits College of Engineering ",
+    "workshops": ["CORPORATE TRAINING"],
+    "dates": ["12/03/2023"]
+  },
   "R23-QKWFY": {
     "name": "Richa Rolland",
     "college": "Saintgits college of engineering",
@@ -33421,7 +33427,7 @@
     "dates": ["11/03/2023"]
   },
   "R23-EGQUZ": {
-    "name": "Albin Joy",
+    "name": "Ans Maria Jomy",
     "college": "Viswajyothi college of engineering and technology",
     "workshops": ["FLUTTER APP DEVELOPMENT"],
     "dates": ["12/03/2023"]
