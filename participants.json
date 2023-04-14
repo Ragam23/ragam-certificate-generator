@@ -7050,7 +7050,7 @@
   },
   "R23-JQBVT": {
     "name": "Risha Hafis Riyad",
-    "college": "Government Engineering College Sreekrishnapuram Palakkad",
+    "college": "Government Engineering College palakkad",
     "workshops": ["BEATBOXING"],
     "dates": ["12/03/2023"]
   },
@@ -29898,7 +29898,7 @@
   },
   "R23-VKFFV": {
     "name": "Navaneeth A U",
-    "college": "Government Engineering College Sreekrishnapuram Palakkad",
+    "college": "Government Engineering College palakkad",
     "workshops": ["PCB DESIGN"],
     "dates": ["10/03/2023"]
   },
@@ -33522,11 +33522,17 @@
     "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
     "dates": ["11/03/2023"]
   },
-  "Nil": {
+  "R23-PTIOM": {
     "name": "Elroy C.J",
     "college": "Fisat",
     "workshops": ["CRYPTOCURRENCY AND BLOCKCHAIN"],
     "dates": ["12/03/2023"]
+  },
+  "R23-KPCPE": {
+    "name": "Ramu B",
+    "college": "TKM College of Engineering Kollam",
+    "workshops": ["PYTHON"],
+    "dates": ["10/03/2023"]
   },
   "R23-AMFAK": {
     "name": "Theertha santhosh",
@@ -34081,7 +34087,7 @@
   },
   "R23-MYMBF": {
     "name": "Mirshana.k",
-    "college": "government engineering college sreekrishnapuram palakkad",
+    "college": "government engineering college palakkad",
     "workshops": ["CORPORATE TRAINING"],
     "dates": ["12/03/2023"]
   },
