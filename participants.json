@@ -34546,7 +34546,7 @@
   },
   "R23-OUPIC": {
     "name": "Adeeba.s",
-    "college": "Vidya academy of science and technology technical campus kilimanoor",
+    "college": "Vidya academy of science and technology technical campus",
     "workshops": ["SOLIDWORKS"],
     "dates": ["10/03/2023"]
   },
@@ -34672,7 +34672,7 @@
   },
   "R23-YGTKR": {
     "name": "Bincy R L",
-    "college": "St.Thomas Institute for science and technology kattaikonam trivandrum",
+    "college": "St.Thomas Institute for science and technology trivandrum",
     "workshops": ["ROBOTICS"],
     "dates": ["11/03/2023"]
   },
@@ -34786,7 +34786,7 @@
   },
   "R23-XHWSU": {
     "name": "KRISHNAPRIYA KV",
-    "college": "INDIRA GANDHI INSTITUTE OF POLYTECHNIC AND ENGINEERING NELLIKUZHI",
+    "college": "INDIRA GANDHI INSTITUTE OF POLYTECHNIC AND ENGINEERING",
     "workshops": ["DATA SCIENCE"],
     "dates": ["12/03/2023"]
   },

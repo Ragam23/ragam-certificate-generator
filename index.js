@@ -100,7 +100,8 @@ const generateRagamPDF = async (user, workshop, i) => {
   
       opts = {
         // size: certificate.name.fontSize,
-        x: workshop.length<35?certificate.workshop.x:180,
+        // x: workshop.length<35?certificate.workshop.x:180,
+        x: certificate.workshop.x,
         y: certificate.workshop.y,
         color: rgb(
           certificate.workshop.fontColor.r,
