@@ -24168,6 +24168,24 @@
     "workshops": ["CRYPTOCURRENCY AND BLOCKCHAIN"],
     "dates": ["12/03/2023"]
   },
+  "R23-ZBTBX": {
+    "name": "ANANDHU S",
+    "college": "SREE BUDDHA COLLEGE OF ENGINEERING",
+    "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-MLKVI": {
+    "name": "PRANAV P KUMAR",
+    "college": "SREE BUDDHA COLLEGE OF ENGINEERING",
+    "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-ICZAO": {
+    "name": "Muhammed Shamnas K",
+    "college": "Rajagiri School of engineering and technology",
+    "workshops": ["PYTHON"],
+    "dates": ["10/03/2023"]
+  },
   "R23-GIVJF": {
     "name": "Anandhu Anil Kumar",
     "college": "Marian Engineering College",
@@ -33576,13 +33594,13 @@
     "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"],
     "dates": ["10/03/2023"]
   },
-  "R23-KCDOB ": {
+  "R23-KCDOB": {
     "name": "Samudhra Manoj",
     "college": "Amal Jyothi College of engineering",
     "workshops": ["DIGITAL MARKETING"],
     "dates": ["12/03/2023"]
   },
-  "R23-TJTPQ ": {
+  "R23-TJTPQ": {
     "name": "Sreya Anna Joseph",
     "college": "Saint gits college of engineering, Pathamuttom, Kottayam",
     "workshops": ["NO CODE AI"],
@@ -33624,7 +33642,7 @@
     "workshops": ["PYTHON"],
     "dates": ["10/03/2023"]
   },
-  "R23-LRWKK ": {
+  "R23-LRWKK": {
     "name": "Faiza Shahma T A",
     "college": "University College of Engineering Thodupuzha",
     "workshops": ["IOT WITH AWS"],
