@@ -9656,6 +9656,12 @@
     "workshops": ["PUBLIC SPEAKING", "AUTOCAD"],
     "dates": ["11/03/2023", "12/03/2023"]
   },
+  "R23-CDMOU2": {
+    "name": "Ephraim Kanjikkal Joji",
+    "college": "St Joseph's College of Engineering and Technology Palai",
+    "workshops": ["AUTOCAD"],
+    "dates": ["12/03/2023"]
+  },
   "R23-RRDOH": {
     "name": "Aaron Jayaprakash",
     "college": "TKM COLLEGE OF ENGINEERING KOLLAM",
@@ -17039,6 +17045,12 @@
     "workshops": ["IOT WITH AWS"],
     "dates": ["11/03/2023"]
   },
+  "R23-IPFXB": {
+    "name": "Juhi P Jiju",
+    "college": "VKCET",
+    "workshops": ["DIGITAL MARKETING"],
+    "dates": ["12/03/2023"]
+  },
   "R23-HSSZM": {
     "name": "Lekshmi Murukan",
     "college": "Saint Gits College of Engineering ",
@@ -18889,7 +18901,7 @@
   },
   "R23-IOHEH": {
     "name": "Sandra Sajeev",
-    "college": "VKCET Chavaracode Parippali Thiruvananthapuram",
+    "college": "VKCET Thiruvananthapuram",
     "workshops": ["ROBOTICS"],
     "dates": ["11/03/2023"]
   },
@@ -24473,6 +24485,30 @@
     "college": "Amal Jyoti College Of Engineering",
     "workshops": ["NO CODE AI"],
     "dates": ["12/03/2023"]
+  },
+  "R23-QXLNA": {
+    "name": "Amrith Krishna B",
+    "college": "Vidya Academy Of Science and Technology, Technical Campus, Kilimanoor, Trivandrum",
+    "workshops": ["SOLIDWORKS"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-RAZRL": {
+    "name": "Anderson Abraham",
+    "college": "Viswajyothi College of Engineering",
+    "workshops": ["IOT WITH AWS"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-QWXHD": {
+    "name": "Kiran Biju",
+    "college": "TKM College of Engineering, Kollam",
+    "workshops": ["SOFTWARE TESTING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-HRIUZ": {
+    "name": "Goury TJ",
+    "college": "Collage of engineering Muttathara",
+    "workshops": ["CREATIVE WRITING"],
+    "dates": ["11/03/2023"]
   },
   "R23-VAQXM": {
     "name": "Gautham krishna",
