@@ -4929,6 +4929,12 @@
     "workshops": ["ETHICAL HACKING"],
     "dates": ["12/03/2023"]
   },
+  "R23-PFUFY": {
+    "name": "Roshni S R",
+    "college": "Marian Engineering college",
+    "workshops": ["PYTHON"],
+    "dates": ["10/03/2023"]
+  },
   "R23-LNEMH": {
     "name": "Vismaya Raju",
     "college": "Providence College of engineering chengannor",
@@ -22077,6 +22083,36 @@
     "workshops": ["DIGITAL MARKETING"],
     "dates": ["11/03/2023"]
   },
+  "R23-PCKUK": {
+    "name": "Malavika C M",
+    "college": "Amal jyothi college of engineering Kanjirapally",
+    "workshops": ["CORPORATE TRAINING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-AZJOZ": {
+    "name": "M. POORNA SNEHA",
+    "college": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
+    "workshops": ["PRODUCT DESIGN USING AR"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-VQNQQ": {
+    "name": "Albin joshy",
+    "college": "St Joseph college of engineering and technology",
+    "workshops": ["NO CODE AI"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-UVPLN": {
+    "name": "Reesha Fathimma",
+    "college": "Saintgits college of engineering Kottayam",
+    "workshops": ["CORPORATE TRAINING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-PEVFJ": {
+    "name": "Minha Mujeeb",
+    "college": "Amal Jyothi College of engineering",
+    "workshops": ["DIGITAL MARKETING"],
+    "dates": ["12/03/2023"]
+  },
   "R23-JGNCF": {
     "name": "Albin Jose Mathew",
     "college": "Mar baselios christian college of engineering and technology",
@@ -24488,7 +24524,7 @@
   },
   "R23-QXLNA": {
     "name": "Amrith Krishna B",
-    "college": "Vidya Academy Of Science and Technology, Technical Campus, Kilimanoor, Trivandrum",
+    "college": "Vidya Academy Of Science and Technology Trivandrum",
     "workshops": ["SOLIDWORKS"],
     "dates": ["10/03/2023"]
   },
