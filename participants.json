@@ -35635,5 +35635,17 @@
     "college": "Model Engineering College",
     "workshops": ["IOT WITH AWS","AUTOCAD"],
     "dates": ["11/03/2023","12/03/2023"]
+  },
+  "R23-ZZZZW": {
+    "name": "Adithya Sajeev Warrior",
+    "college": "St Joseph's College of Engineering Pala",
+    "workshops": ["CYBERSECURITY"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-ZZZZV": {
+    "name": "Malavika S Nair",
+    "college": "Sree Chitra Thirunal College of Engineering Papanamcode",
+    "workshops": ["CYBERSECURITY"],
+    "dates": ["11/03/2023"]
   }
 }
