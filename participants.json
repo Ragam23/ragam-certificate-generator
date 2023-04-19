@@ -35647,5 +35647,11 @@
     "college": "Sree Chitra Thirunal College of Engineering Papanamcode",
     "workshops": ["CYBERSECURITY"],
     "dates": ["11/03/2023"]
+  },
+  "R23-TNHWE": {
+    "name": "Nabeel Manjalamkuzhi",
+    "college": "College of Engineering Trivandrum",
+    "workshops": ["PYTHON"],
+    "dates": ["10/03/2023"]
   }
 }
