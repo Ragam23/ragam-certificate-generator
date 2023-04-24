@@ -1373,6 +1373,24 @@
     "workshops": ["PCB DESIGN"],
     "dates": ["10/03/2023"]
   },
+  "R23-COLQF": {
+    "name": "ROSHNI S R",
+    "college": "Marian Engineering college",
+    "workshops": ["PYTHON"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-BLVDK ": {
+    "name": "Arjun Biju",
+    "college": "Toch Institute of science and technology",
+    "workshops": ["BEATBOXING"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-XZRDY": {
+    "name": "Jeswin Krishna C V",
+    "college": "College of engineering Adoor Pathanamthitta",
+    "workshops": ["CORPORATE TRAINING"],
+    "dates": ["11/03/2023"]
+  },
   "R23-WFTQX": {
     "name": "Abhishek.R",
     "college": "Sree bhudha college of engineering",
