@@ -30208,6 +30208,42 @@
     "workshops": ["BLENDER"],
     "dates": ["10/03/2023"]
   },
+  "R23-NTLES00": {
+    "name": "Senajit Hari",
+    "college": "TKM Institute of Technology",
+    "workshops": ["BLENDER"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-NTLES01": {
+    "name": "Muhammed Asif S",
+    "college": "TKM Institute of Technology",
+    "workshops": ["BLENDER"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-NTLES02": {
+    "name": "Praveen Francis",
+    "college": "TKM Institute of Technology",
+    "workshops": ["BLENDER"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-NTLES03": {
+    "name": "Joyesh R Samuel",
+    "college": "TKM Institute of Technology",
+    "workshops": ["BLENDER"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-NTLES04": {
+    "name": "Tharakjith",
+    "college": "TKM Institute of Technology",
+    "workshops": ["BLENDER"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-NTLES05": {
+    "name": "Vipin H",
+    "college": "TKM Institute of Technology",
+    "workshops": ["BLENDER"],
+    "dates": ["10/03/2023"]
+  },
   "R23-KBIWE": {
     "name": "Ananya Raj",
     "college": "TKM College of Engineering Kollam",
