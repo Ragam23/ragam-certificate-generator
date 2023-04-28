@@ -1379,7 +1379,7 @@
     "workshops": ["PYTHON"],
     "dates": ["10/03/2023"]
   },
-  "R23-BLVDK ": {
+  "R23-BLVDK": {
     "name": "Arjun Biju",
     "college": "Toch Institute of science and technology",
     "workshops": ["BEATBOXING"],
@@ -7518,12 +7518,6 @@
     "college": "College of Engineering Trivandrum",
     "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
     "dates": ["12/03/2023"]
-  },
-  "R23-FHJEL": {
-    "name": "NIRANJANA S R",
-    "college": "SCT COLLEGE OF ENGINEERING",
-    "workshops": ["SOFTWARE TESTING"],
-    "dates": ["11/03/2023"]
   },
   "R23-TVQWS": {
     "name": "Aswathy M",
@@ -30254,6 +30248,36 @@
     "name": "Aromal",
     "college": "Tkmit",
     "workshops": ["CYBERSECURITY"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-NYCUF": {
+    "name": "Akshara S Baiju",
+    "college": "VKCET Parippally",
+    "workshops": ["PRODUCT DESIGN USING AR"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-KUMDA": {
+    "name": "Sabari S",
+    "college": "TKM college of engineering",
+    "workshops": ["PCB DESIGN"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-NTFVU": {
+    "name": "Abhirami BS",
+    "college": "VKCET",
+    "workshops": ["PRODUCT DESIGN USING AR"],
+    "dates": ["12/03/2023"]
+  },
+  "R23-FHJEL": {
+    "name": "FARIS",
+    "college": "SCT College of Engineering",
+    "workshops": ["SOFTWARE TESTING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-FQXEL": {
+    "name": "Fathima Nahan K",
+    "college": "Model Engineering College Thrikkakara",
+    "workshops": ["ETHICAL HACKING"],
     "dates": ["11/03/2023"]
   },
   "R23-CTHSX": {
