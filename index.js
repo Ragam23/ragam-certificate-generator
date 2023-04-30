@@ -34,21 +34,9 @@ const titleCase = (str) => {
   return str.join(" ");
 };
 
-const generateRagamPDF = async (user, workshop, i) => {
-  let main = document.querySelector(".main");
-
-  certificate = await fetch("./certificate/details.json").then((res) => {
-    return res.json();
-  });
+async function drawPDF(user, certificate, i, workshop, exBytes, exFont, isEvent) {
   const { PDFDocument, rgb } = PDFLib;
-
-  const exBytes = await fetch("./certificate/certificate.pdf").then((res) => {
-    return res.arrayBuffer();
-  });
-
-  const exFont = await fetch("./fonts/Montserrat-Bold.otf").then((res) => {
-    return res.arrayBuffer();
-  });
+  let main = document.querySelector(".main");
 
   const pdfDoc = await PDFDocument.load(exBytes);
 
@@ -58,29 +46,49 @@ const generateRagamPDF = async (user, workshop, i) => {
   const pages = pdfDoc.getPages();
   const firstPg = pages[0];
 
-  try{
+  try {
     if (user != null) {
-      let name = user.name.trim();
-      name = titleCase(name);
+      if(isEvent){
+        let name = user.name.trim();
+        name = titleCase(name);
   
-      let opts = {
-        size: certificate.name.fontSize,
-        x: certificate.name.x,
-        y: certificate.name.y,
-        color: rgb(
-          certificate.name.fontColor.r,
-          certificate.name.fontColor.g,
-          certificate.name.fontColor.b
-        ),
-        font: myFont,
-      };
+        let textSize = name.length > 24 ? 25:35;
+        const textWidth = myFont.widthOfTextAtSize(name, textSize);
+        const textHeight = myFont.heightAtSize(textSize);
   
-      // name.length > 18 ?
-      //   opts.size = 25 :
-      //   opts.size = 35
   
-      firstPg.drawText(name, opts);
-  
+        let opts = {
+          size: textSize,
+          x: firstPg.getWidth() / 2 - textWidth / 2,
+          y: firstPg.getHeight() / 2 - textHeight / 2 - 15,
+          color: rgb(
+            certificate.name.fontColor.r,
+            certificate.name.fontColor.g,
+            certificate.name.fontColor.b
+          ),
+          font: myFont,
+        };
+        firstPg.drawText(name, opts);
+      }else{
+        let name = user.name.trim();
+        name = titleCase(name);
+
+        let opts = {
+          size: certificate.name.fontSize,
+          x: certificate.name.x,
+          y: certificate.name.y,
+          color: rgb(
+            certificate.name.fontColor.r,
+            certificate.name.fontColor.g,
+            certificate.name.fontColor.b
+          ),
+          font: myFont,
+        };
+        firstPg.drawText(name, opts);
+      }
+
+
+
       let college = user.college.toUpperCase().trim();
       opts = {
         x: certificate.college.x,
@@ -93,84 +101,119 @@ const generateRagamPDF = async (user, workshop, i) => {
         font: myFont,
         size: certificate.college.fontSize,
       };
-  
+
       college.length < 10 ? (opts.size = 17) : "";
-  
+
       firstPg.drawText(college, opts);
-  
-      opts = {
-        // size: certificate.name.fontSize,
-        // x: workshop.length<35?certificate.workshop.x:180,
-        x: certificate.workshop.x,
-        y: certificate.workshop.y,
-        color: rgb(
-          certificate.workshop.fontColor.r,
-          certificate.workshop.fontColor.g,
-          certificate.workshop.fontColor.b
-        ),
-        font: myFont,
-        size: certificate.workshop.fontSize,
-      };
-  
-      firstPg.drawText(workshop, opts);
-  
-      let date = user.dates[i];
-      opts = {
-        x: certificate.date.x,
-        y: certificate.date.y,
-        color: rgb(
-          certificate.date.fontColor.r,
-          certificate.date.fontColor.g,
-          certificate.date.fontColor.b
-        ),
-        font: myFont,
-        size: certificate.date.fontSize,
-      };
-  
-      firstPg.drawText(date, opts);
-  
-      var qr = new QRious({
-        value: window.location.href,
-        foreground: certificate.qrCode.foreground,
-        background: certificate.qrCode.background,
-      });
-      qr = qr.toDataURL();
-      const qrImage = await pdfDoc.embedPng(qr);
-  
-      firstPg.drawImage(qrImage, {
-        x: certificate.qrCode.x,
-        y: certificate.qrCode.y,
-        width: 100,
-        height: 100,
-      });
-  
-      const uri = await pdfDoc.saveAsBase64({ dataUri: true });
-  
-      // var elem = document.createElement("img");
-      // elem.setAttribute("id", "download-button");
-      // elem.setAttribute("src", "./static/img/download-icon.svg");
-      // elem.setAttribute("height", "40");
-      // elem.setAttribute("width", "40");
 
-      var elem = document.createElement("button");
-      elem.setAttribute("id", "download-button");
-      elem.innerHTML=workshop
-      // elem.setAttribute("src", "./static/img/download-icon.svg");
-      // elem.setAttribute("height", "40");
-      // elem.setAttribute("width", "40");
-  
-      var anchor = document.createElement("a");
-      anchor.href = uri;
-      anchor.download = "Ragam'23 Certificate.pdf";
-      anchor.appendChild(elem);
-      main.appendChild(anchor);
-      // var enter = document.createElement("br");
-      // main.appendChild(enter);
+      if (!isEvent) {
+        opts = {
+          // size: certificate.name.fontSize,
+          // x: workshop.length<35?certificate.workshop.x:180,
+          x: certificate.workshop.x,
+          y: certificate.workshop.y,
+          color: rgb(
+            certificate.workshop.fontColor.r,
+            certificate.workshop.fontColor.g,
+            certificate.workshop.fontColor.b
+          ),
+          font: myFont,
+          size: certificate.workshop.fontSize,
+        };
+
+        firstPg.drawText(workshop, opts);
+
+        let date = user.dates[i];
+        opts = {
+          x: certificate.date.x,
+          y: certificate.date.y,
+          color: rgb(
+            certificate.date.fontColor.r,
+            certificate.date.fontColor.g,
+            certificate.date.fontColor.b
+          ),
+          font: myFont,
+          size: certificate.date.fontSize,
+        };
+
+        firstPg.drawText(date, opts);
+
+        var qr = new QRious({
+          value: window.location.href,
+          foreground: certificate.qrCode.foreground,
+          background: certificate.qrCode.background,
+        });
+        qr = qr.toDataURL();
+        const qrImage = await pdfDoc.embedPng(qr);
+
+        firstPg.drawImage(qrImage, {
+          x: certificate.qrCode.x,
+          y: certificate.qrCode.y,
+          width: 100,
+          height: 100,
+        });
+      }
     }
-  }catch(err){
-    console.log(err)
-  }
+    if(isEvent){
+      let event = user.events[i];
+          opts = {
+            x: certificate.event.x,
+            y: certificate.event.y,
+            color: rgb(
+              certificate.event.fontColor.r,
+              certificate.event.fontColor.g,
+              certificate.event.fontColor.b
+            ),
+            font: myFont,
+            size: certificate.event.fontSize,
+          };
+  
+          firstPg.drawText(event, opts);  
+    }
 
+    const uri = await pdfDoc.saveAsBase64({ dataUri: true });
+    var elem = document.createElement("button");
+    elem.setAttribute("id", "download-button");
+    elem.innerHTML = workshop;
+
+    var anchor = document.createElement("a");
+    anchor.href = uri;
+    anchor.download = "Ragam'23 Certificate.pdf";
+    anchor.appendChild(elem);
+    main.appendChild(anchor);
+  } catch (err) {
+    console.log(err);
+  }
+}
+
+const generateRagamPDF = async (user, workshop, i, isEvent) => {
+  const exFont = await fetch("./fonts/Montserrat-Bold.otf").then((res) => {
+    return res.arrayBuffer();
+  });
+
+  if (!isEvent) {
+    const certificate = await fetch("./certificate/details.json").then((res) => {
+      return res.json();
+    });
+
+    const exBytes = await fetch("./certificate/certificate.pdf").then((res) => {
+      return res.arrayBuffer();
+    });
+
+    drawPDF(user, certificate, i, workshop, exBytes, exFont, 0);
+  } else {
+    const certificate = await fetch("./certificate/details2.json").then((res) => {
+      return res.json();
+    });
+
+    const exBytes = await fetch("./certificate/certificate2.pdf").then(
+      (res) => {
+        return res.arrayBuffer();
+      }
+    );
+      
+    drawPDF(user, certificate, i, workshop, exBytes, exFont, 1);
+  }
 };
 
 var button = document.getElementById("button");
@@ -187,12 +230,23 @@ window.onload = async (event) => {
       if (user) {
         document.getElementById("form").style.display = "none";
 
-      let main = document.querySelector(".main");
-      var confirm = document.createElement("span");
-      confirm.innerHTML = "This is to certify that " + titleCase(user.name.trim()) + " has attended the following workshops during Ragam'23. Download the certificates below."
-      main.appendChild(confirm)
-
-        user.workshops.forEach((workshop, i) => generateRagamPDF(user, workshop, i))
+        let main = document.querySelector(".main");
+        var confirm = document.createElement("span");
+        confirm.innerHTML =
+          "This is to certify that " +
+          titleCase(user.name.trim()) +
+          " has participated in the following workshops/events during Ragam'23. Download the certificates below.";
+        main.appendChild(confirm);
+        if (user.workshops){
+          user.workshops.forEach((workshop, i) =>
+          generateRagamPDF(user, workshop, i, 0)
+          );
+        }
+        if (user.events){
+          user.events.forEach((event, i) =>
+            generateRagamPDF(user, event, i, 1)
+          );
+        }
       } else {
         document.getElementsByClassName("error")[0].classList.add("show");
         setTimeout(

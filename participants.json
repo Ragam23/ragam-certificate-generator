@@ -177,7 +177,8 @@
     "name": "VIJAY",
     "college": "Amrita School of Engineering",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Quiz Open General"]
   },
   "R23-ZGJND": {
     "name": "Adithyan D",
@@ -717,7 +718,8 @@
     "name": "Rahul K Benny",
     "college": "Mar Athanasius College of Engineering Kothamangalam",
     "workshops": ["IOT WITH AWS", "DIGITAL MARKETING"],
-    "dates": ["11/03/2023", "12/03/2023"]
+    "dates": ["11/03/2023", "12/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-ZUSQP": {
     "name": "Angelina Kanjooparambil Joseph",
@@ -1281,7 +1283,8 @@
     "name": "MUHAMMAD DANIS K",
     "college": "College of engineering Attingal",
     "workshops": ["ETHICAL HACKING"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-QUOGJ": {
     "name": "Nandana Nambiar",
@@ -1323,7 +1326,8 @@
     "name": "MUGILVARSHAN M",
     "college": "Amrita Vishwa Vidyapeetham",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Quiz College Sports"]
   },
   "R23-BQUMG": {
     "name": "Nandana s",
@@ -2884,7 +2888,8 @@
     "name": "Devadarshan R",
     "college": "College of Engineering Trivandrum",
     "workshops": ["AUTOCAD"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-QFFFK": {
     "name": "Vighnesh",
@@ -3286,7 +3291,8 @@
     "name": "Jijo",
     "college": "NIT",
     "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["Alfaz"]
   },
   "R23-FSSTD": {
     "name": "ADHITHYA R",
@@ -4057,7 +4063,8 @@
     "name": "Kevin Mathew",
     "college": "Amal Jyothi College of Engineering",
     "workshops": ["DIGITAL MARKETING"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Pixel"]
   },
   "R23-NXGLN": {
     "name": "Sojin.B",
@@ -4747,7 +4754,8 @@
     "name": "RION JOHN POVIL",
     "college": "Mangalam College of Engineering Ettumanoor",
     "workshops": ["BLENDER"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["Quiz College General", "Quiz College General"]
   },
   "R23-EHJQZ": {
     "name": "Gayathri Sajeev",
@@ -5251,13 +5259,36 @@
     "name": "Muhammed Hashim",
     "college": "FEDERAL INSTITUTE OF SCIENCE AND TECHNOLOGY",
     "workshops": ["AUTOCAD"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Quiz Open General"]
   },
   "R23-FGYFW": {
     "name": "GRS Nikitha",
     "college": "National Institute of Technology Calicut",
     "workshops": ["PCB DESIGN"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": [
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt"
+    ]
   },
   "R23-UTCDD": {
     "name": "MILAN BIJU",
@@ -5581,7 +5612,8 @@
     "name": "Basil Mathew Santhosh",
     "college": "Federal Institute of Science and Technology",
     "workshops": ["FULL STACK WEB DEVELOPMENT"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-GXOHC": {
     "name": "Devadeth S",
@@ -5719,7 +5751,8 @@
     "name": "Aravind Krishna B",
     "college": "TKM College of Engineering Kollam",
     "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-WUUPM": {
     "name": "Muhammed Ashfaaq K P",
@@ -5845,7 +5878,8 @@
     "name": "Parvathy Prakash",
     "college": "Saintgits College Of Engineering Pathamuttom Kottayam",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Mock Court"]
   },
   "R23-KBOIV": {
     "name": "DEVI B R",
@@ -6652,7 +6686,8 @@
     "name": "Muhammed Hasheem",
     "college": "Amal Jyothi College Of Engineering",
     "workshops": ["CRYPTOCURRENCY AND BLOCKCHAIN"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-BAAEO": {
     "name": "Karthik k",
@@ -6688,7 +6723,8 @@
     "name": "Justin joy",
     "college": "Valia Koonambaikulathamma College of Engineering & Technology",
     "workshops": ["DATA SCIENCE"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-XNGHP": {
     "name": "Adil Salim",
@@ -7451,7 +7487,8 @@
     "name": "BHAVANA",
     "college": "Marian Engineering College",
     "workshops": ["NO CODE AI"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["Western Solo"]
   },
   "R23-WISNH": {
     "name": "Salma Sultana T A",
@@ -7703,7 +7740,8 @@
     "name": "MIDHUN MENON",
     "college": "Mangalam college of engineering Ettumanoor",
     "workshops": ["BLENDER"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["Quiz College General"]
   },
   "R23-SMICM": {
     "name": "Athira A",
@@ -7744,10 +7782,7 @@
   "R23-CCBYK": {
     "name": "Meriel Rebecca Koshy",
     "college": "Saintgits college of engineering Kottayam",
-    "workshops": [
-      "FLUTTER APP DEVELOPMENT",
-      "FLUTTER APP DEVELOPMENT"
-    ],
+    "workshops": ["FLUTTER APP DEVELOPMENT", "FLUTTER APP DEVELOPMENT"],
     "dates": ["12/03/2023", "12/03/2023"]
   },
   "R23-WOVGW": {
@@ -7790,7 +7825,8 @@
     "name": "Abel Biju George",
     "college": "Amal jyothi College Of Engineering",
     "workshops": ["ETHICAL HACKING"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Pixel"]
   },
   "R23-SZQVP": {
     "name": "Athuljith N M",
@@ -8249,7 +8285,8 @@
     "name": "Afsal.B",
     "college": "Musliar college of engineering and technology Pathanamthitta",
     "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-TJGOZ": {
     "name": "Architha k raj",
@@ -8849,7 +8886,8 @@
     "name": "JERIN VARGHESE",
     "college": "Saint GITS College of Engineering (Autonomous) Kottayam Kerala",
     "workshops": ["CYBERSECURITY"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-NWOPS": {
     "name": "Gokul Raj",
@@ -9798,7 +9836,8 @@
     "name": "Aromal Krishna B",
     "college": "TKM College of Engineering Kollam",
     "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-ZSKQX": {
     "name": "Arjunkrishna P R",
@@ -10890,7 +10929,8 @@
     "name": "Lijith JC",
     "college": "Vkcet chavarkode PARIPALLY",
     "workshops": ["DATA SCIENCE"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-EJRGZ": {
     "name": "Nikhitha mohan",
@@ -11928,7 +11968,8 @@
     "name": "Abhilash N Pillai",
     "college": "Amrita school of engineering amritapuri",
     "workshops": ["NO CODE AI"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-DCILQ": {
     "name": "Alphin Paul Dcruz",
@@ -12048,7 +12089,8 @@
     "name": "JOSHUA JOHNSON",
     "college": "Younus College of engineering and technology Kollam",
     "workshops": ["AUTOCAD"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Rajan Memorial Light Music Competition"]
   },
   "R23-PNJBO": {
     "name": "Aswathy T G",
@@ -12149,10 +12191,7 @@
   "R23-XURBT": {
     "name": "Gautham J K",
     "college": "GEC Barton Hill",
-    "workshops": [
-      "FLUTTER APP DEVELOPMENT",
-      "FULL STACK WEB DEVELOPMENT"
-    ],
+    "workshops": ["FLUTTER APP DEVELOPMENT", "FULL STACK WEB DEVELOPMENT"],
     "dates": ["12/03/2023", "12/03/2023"]
   },
   "R23-QKLCV": {
@@ -12687,7 +12726,8 @@
     "name": "Benno C Byju",
     "college": "TKM Institute Of Technology",
     "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-DKKKL": {
     "name": "Abhay S",
@@ -13077,7 +13117,8 @@
     "name": "name",
     "college": "college",
     "workshops": ["name"],
-    "dates": ["event_dates_1"]
+    "dates": ["event_dates_1"],
+    "events": ["name"]
   },
   "R23-ACUVD": {
     "name": "Sredha Selvam Pereira",
@@ -13089,7 +13130,8 @@
     "name": "Abinandh Sai",
     "college": "SCMS School of Engineering and Technology",
     "workshops": ["CYBERSECURITY"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-SMTRT": {
     "name": "Rohan Benny",
@@ -13652,79 +13694,79 @@
   "R23-UDYPA": {
     "name": "ABHIJITH ANAND",
     "college": "TKM COLLEGE OF ENGINEERING",
-    "workshops": ["PYTHON"] ,
+    "workshops": ["PYTHON"],
     "dates": ["10/03/2023"]
   },
   "R23-AGYRE": {
     "name": "Gayathri R Krishnan",
     "college": "Saint Gits college of engineering",
-    "workshops": ["PCB DESIGN"] ,
+    "workshops": ["PCB DESIGN"],
     "dates": ["10/03/2023"]
   },
   "R23-HUAYR": {
     "name": "Nuhma Shibin",
     "college": "TKM INSTITUTE OF TECHNOLOGY",
-    "workshops": ["PYTHON"] ,
+    "workshops": ["PYTHON"],
     "dates": ["10/03/2023"]
   },
   "R23-PAURE": {
     "name": "Muhamed Faheem Shamsudeen ",
     "college": "Government Engineering college Idukki",
-    "workshops": ["ROBOTICS"] ,
+    "workshops": ["ROBOTICS"],
     "dates": ["11/03/2023"]
   },
   "R23-WMIUA": {
     "name": "Yaqub Moosa Mohamed",
     "college": "TKM College of Engineering",
-    "workshops": ["ROBOTICS"] ,
+    "workshops": ["ROBOTICS"],
     "dates": ["12/03/2023"]
   },
   "R23-THATP": {
     "name": "Simon Joseph T",
     "college": "College of Engineering Trivandrum",
-    "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"] ,
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"],
     "dates": ["11/03/2023"]
   },
   "R23-FRTER": {
     "name": "Ninan Tony",
     "college": "College of Engineering Trivandrum",
-    "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"] ,
+    "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"],
     "dates": ["11/03/2023"]
   },
   "R23-VETTP": {
     "name": "Albin John",
     "college": "College of Engineering Trivandrum",
-    "workshops": ["SOFTWARE TESTING"] ,
+    "workshops": ["SOFTWARE TESTING"],
     "dates": ["11/03/2023"]
   },
   "R23-MALLIX": {
     "name": "Abhishek V X",
     "college": "Rajagiri School of Engineering and Technology",
-    "workshops": ["SOFTWARE TESTING"] ,
+    "workshops": ["SOFTWARE TESTING"],
     "dates": ["11/03/2023"]
   },
   "R23-KANDM": {
     "name": "Akash Basil",
     "college": "Rajagiri School of Engineering and Technology",
-    "workshops": ["PCB DESIGN"] ,
+    "workshops": ["PCB DESIGN"],
     "dates": ["10/03/2023"]
   },
   "R23-OMKHV": {
     "name": "Albin Rajan",
     "college": "Rajagiri School of Engineering and Technology",
-    "workshops": ["PCB DESIGN"] ,
+    "workshops": ["PCB DESIGN"],
     "dates": ["10/03/2023"]
   },
   "R23-NAANM": {
     "name": "C M Nithin Raj",
     "college": "Rajagiri School of Engineering and Technology",
-    "workshops": ["PCB DESIGN"] ,
+    "workshops": ["PCB DESIGN"],
     "dates": ["10/03/2023"]
   },
   "R23-MAHTH": {
     "name": "Mohammed Shibily P K",
     "college": "MES College of Engineering Kuttipuram",
-    "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"] ,
+    "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"],
     "dates": ["10/03/2023"]
   },
   "R23-CNJOE": {
@@ -13833,7 +13875,8 @@
     "name": "Annapoorna M",
     "college": "Amaljyothi college of engineering",
     "workshops": ["NFT AND METAVERSE"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["Pixel"]
   },
   "R23-XRZQD": {
     "name": "Arun.T.S",
@@ -13863,7 +13906,8 @@
     "name": "Anumodh M",
     "college": "CET",
     "workshops": ["DATA SCIENCE"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-RMHEW": {
     "name": "Abhinand S R",
@@ -14307,7 +14351,8 @@
     "name": "Dilhari H",
     "college": "Saintgits College of Engineering Kottayam",
     "workshops": ["FLUTTER APP DEVELOPMENT"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-EDAYI": {
     "name": "Moses Thomas",
@@ -14325,7 +14370,8 @@
     "name": "Anna Saji",
     "college": "TKM Institution of technology",
     "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["Kavitha Prayanam"]
   },
   "R23-THLKG": {
     "name": "Safiya S",
@@ -15102,7 +15148,8 @@
     "name": "Ajeeb Kunhuty",
     "college": "College of Engineering Thalassery",
     "workshops": ["DATA SCIENCE"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["COD MOBILE"]
   },
   "R23-BSAAH": {
     "name": "Abhinand Asokakumar",
@@ -15156,7 +15203,8 @@
     "name": "Arvind S",
     "college": "College of Engineering Trivandrum",
     "workshops": ["DATA SCIENCE"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-XVVXP": {
     "name": "Rosby Roby",
@@ -16326,7 +16374,8 @@
     "name": "Shiva S Mohan",
     "college": "College of engineering adoor",
     "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-WYTAQ": {
     "name": "Anna Sumey Ajith",
@@ -16674,7 +16723,8 @@
     "name": "NIVED B",
     "college": "Sree Budha College Of Engineering Pattoor",
     "workshops": ["FLUTTER APP DEVELOPMENT", "PYTHON"],
-    "dates": ["12/03/2023", "10/03/2023"]
+    "dates": ["12/03/2023", "10/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-YOJLG": {
     "name": "Arya Rajeev",
@@ -17078,10 +17128,7 @@
   "R23-QKWFY": {
     "name": "Richa Rolland",
     "college": "Saintgits college of engineering",
-    "workshops": [
-      "FLUTTER APP DEVELOPMENT",
-      "FLUTTER APP DEVELOPMENT"
-    ],
+    "workshops": ["FLUTTER APP DEVELOPMENT", "FLUTTER APP DEVELOPMENT"],
     "dates": ["12/03/2023", "12/03/2023"]
   },
   "R23-QZOIQ": {
@@ -17310,7 +17357,8 @@
     "name": "Alan Jomon Cyriac",
     "college": "Toch Institute of science and technology",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["COD MOBILE"]
   },
   "R23-KUJVF": {
     "name": "Aatish Krishnakumar",
@@ -17736,7 +17784,8 @@
     "name": "Aadith Praloj",
     "college": "TKM INSTITUTE OF TECHNOLOGY",
     "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-AMLFY": {
     "name": "Ann Thomas",
@@ -18813,7 +18862,8 @@
     "name": "sriramkumaran s",
     "college": "amrita school of engineering",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Quiz College Sports"]
   },
   "R23-FXYCE": {
     "name": "ABHISHEK K",
@@ -18831,7 +18881,8 @@
     "name": "P S SURYANARAYANAN",
     "college": "Federal Institute of science and technology",
     "workshops": ["CARTOONING"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-SBDEF": {
     "name": "Ashlin Anil",
@@ -19278,7 +19329,8 @@
     "name": "Pooja Dileep",
     "college": "Amrita school of engineering",
     "workshops": ["FULL STACK WEB DEVELOPMENT"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Tangled"]
   },
   "R23-NLFLJ": {
     "name": "Ashin A",
@@ -19452,7 +19504,8 @@
     "name": "Kannan Kannara",
     "college": "Saintgits College of Engineering",
     "workshops": ["PCB DESIGN"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-SLBXH": {
     "name": "Delna Roy",
@@ -19841,11 +19894,7 @@
   "R23-UMQMO": {
     "name": "Noel Varghese Johnson",
     "college": "Providence College of Engineering Chengannur",
-    "workshops": [
-      "FLUTTER APP DEVELOPMENT",
-      "PCB DESIGN",
-      "DIGITAL MARKETING"
-    ],
+    "workshops": ["FLUTTER APP DEVELOPMENT", "PCB DESIGN", "DIGITAL MARKETING"],
     "dates": ["12/03/2023", "10/03/2023", "11/03/2023"]
   },
   "R23-WBIUD": {
@@ -19864,7 +19913,8 @@
     "name": "Abhishek S",
     "college": "Sree Buddha College Of Engineering Pattoor",
     "workshops": ["PYTHON"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-KXAKF": {
     "name": "Thomin K Sajeev",
@@ -20014,7 +20064,8 @@
     "name": "Prajith",
     "college": "Sree Buddha College of Engineering Pattoor",
     "workshops": ["CARTOONING"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-HJATO": {
     "name": "Karthik dev",
@@ -20260,7 +20311,8 @@
     "name": "M S SIDHARTH",
     "college": "TKMCE",
     "workshops": ["AUTOCAD"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-LJVEF": {
     "name": "Meera Krishna.C.R",
@@ -20272,7 +20324,8 @@
     "name": "ABHINAND B",
     "college": "COLLEGE OF ENGINEERING THIRUVANANTHAPURAM",
     "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-UDFFB": {
     "name": "Nidhin A Varghese",
@@ -20542,7 +20595,8 @@
     "name": "Ajay K",
     "college": "Amrita school of engineering",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Quiz College Sports"]
   },
   "R23-VFZCC": {
     "name": "Rahul Abraham",
@@ -20871,10 +20925,7 @@
   "R23-GBGKG": {
     "name": "Sneha G R",
     "college": "LBS institute of technology for womens poojapura trivandrum",
-    "workshops": [
-      "FULL STACK WEB DEVELOPMENT",
-      "FULL STACK WEB DEVELOPMENT"
-    ],
+    "workshops": ["FULL STACK WEB DEVELOPMENT", "FULL STACK WEB DEVELOPMENT"],
     "dates": ["12/03/2023", "12/03/2023"]
   },
   "R23-COHLU": {
@@ -21010,7 +21061,8 @@
     "name": "Sreenath V R",
     "college": "Mangalam college of engineering ettumanoor",
     "workshops": ["BLENDER"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["Quiz College General"]
   },
   "R23-XHTUR": {
     "name": "Anwitha R B",
@@ -21496,7 +21548,8 @@
     "name": "Muhammad Asheer S",
     "college": "TKM College of Engineering Kollam",
     "workshops": ["AUTONOMOUS DRIVING SYSTEM AND MACHINE LEARNING"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-OGECR": {
     "name": "Geethu JS",
@@ -21555,10 +21608,7 @@
   "R23-HKWWP": {
     "name": "KRISHNASREE K",
     "college": "Federal Institute of Science and Technology",
-    "workshops": [
-      "FULL STACK WEB DEVELOPMENT",
-      "FULL STACK WEB DEVELOPMENT"
-    ],
+    "workshops": ["FULL STACK WEB DEVELOPMENT", "FULL STACK WEB DEVELOPMENT"],
     "dates": ["12/03/2023", "12/03/2023"]
   },
   "R23-HOLOG": {
@@ -21937,7 +21987,8 @@
     "name": "Ananthakrishnan A",
     "college": "Valia Koonambaikulathamma College of Engineering & Technology",
     "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["Quiz College Sports"]
   },
   "R23-MLKFP": {
     "name": "Alan zachariah",
@@ -22014,8 +22065,8 @@
   "R23-KNWRH": {
     "name": "Gowri A",
     "college": "Sree Buddha College of Engineering",
-    "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"],
-    "dates": ["10/03/2023"]
+    "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING","CREATIVE WRITING"],
+    "dates": ["10/03/2023", "11/03/2023"]
   },
   "R23-FRTAL": {
     "name": "Akhila p.c",
@@ -22159,7 +22210,8 @@
     "name": "Abishek Binu",
     "college": "St. Thomas Institute for Science and Technology",
     "workshops": ["CYBERSECURITY"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-PFEGI": {
     "name": "Aadil Mohammed",
@@ -22417,7 +22469,8 @@
     "name": "ALWIN ANTO C",
     "college": "JYOTHI ENGINEERING COLLEGE",
     "workshops": ["DATA SCIENCE"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-ZLQAB": {
     "name": "ARAVIND MS",
@@ -22696,7 +22749,8 @@
     "name": "Firoz Mujeeb",
     "college": "Carmel College Of Engineering & Technology Punnapra Alappuzha",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-GOQTJ": {
     "name": "Abhishek S Nair",
@@ -23278,7 +23332,8 @@
     "name": "Ajimsha N S",
     "college": "Musaliar College of Engineering Chirayinkeezhu",
     "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Standup Comedy"]
   },
   "R23-LVCZV": {
     "name": "MALINI SWATHI M U",
@@ -24430,7 +24485,39 @@
     "name": "Ameya Arul",
     "college": "Government Engineering College Kozhikode",
     "workshops": ["FULL STACK WEB DEVELOPMENT"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": [
+      "Alfaz",
+      "Anthakshari",
+      "Beat Boxing",
+      "Crime Scene Investigation",
+      "Dance off",
+      "Debate",
+      "Dumb Charades",
+      "Eastern Solo",
+      "Face To Face",
+      "Freestyle",
+      "Improv",
+      "Just A Minute",
+      "Kavitha Prayanam",
+      "Mehendi",
+      "Mock Court",
+      "Mr & Ms RAGAM",
+      "Panache",
+      "Rap Battle",
+      "Reporter",
+      "Salt n Pepper",
+      "Slam Poetry",
+      "Spell Bee",
+      "Story Telling",
+      "String Solo",
+      "Tal Se Tal Mila",
+      "Tangled",
+      "Treasure Hunt",
+      "Western Solo",
+      "What's The Good Word",
+      "Word Smith"
+    ]
   },
   "R23-XCZQS": {
     "name": "Binto Aliyas Jomy",
@@ -25141,7 +25228,8 @@
     "name": "Aaron Peter",
     "college": "Rajagiri School of Engineering & Technology",
     "workshops": ["CRYPTOCURRENCY AND BLOCKCHAIN"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["VALORANT"]
   },
   "R23-RPVVJ": {
     "name": "Teffy J Baiju",
@@ -25465,7 +25553,8 @@
     "name": "Mohamed Afsal",
     "college": "Federal institute of science and technology",
     "workshops": ["DATA SCIENCE"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-WDQXZ": {
     "name": "Angel Chacko Joseph",
@@ -26165,7 +26254,8 @@
     "name": "Arun Siva Prasath A",
     "college": "Amrita Vishwa Vidyapeetam Chennai",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Quiz College Sports"]
   },
   "R23-EQYZL": {
     "name": "Sreeja S Jith",
@@ -26393,7 +26483,8 @@
     "name": "Aadhithyan KM",
     "college": "LBSCEK",
     "workshops": ["DATA SCIENCE"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-QRGHX": {
     "name": "Milan Mani",
@@ -26759,7 +26850,8 @@
     "name": "Vaisakh Joseph",
     "college": "Amal jyothi college of engineering kanjirapally",
     "workshops": ["DIGITAL MARKETING"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["COD MOBILE"]
   },
   "R23-RBHFZ": {
     "name": "Mufeez mohammed",
@@ -27161,7 +27253,8 @@
     "name": "ARJUN MANOJ",
     "college": "Amrita Vishwa Vidyapeetham Chennai Campus",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Quiz Open General"]
   },
   "R23-JCMEH": {
     "name": "Dona Mariya Benny",
@@ -27239,7 +27332,8 @@
     "name": "SURUTHI",
     "college": "Amrita vishwa vidyapeetham",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Quiz Open General"]
   },
   "R23-FQIKQ": {
     "name": "Jyothika RJ",
@@ -27484,10 +27578,7 @@
   "R23-HXRUI": {
     "name": "Visal. G. R",
     "college": "Lmcst",
-    "workshops": [
-      "FULL STACK WEB DEVELOPMENT",
-      "FULL STACK WEB DEVELOPMENT"
-    ],
+    "workshops": ["FULL STACK WEB DEVELOPMENT", "FULL STACK WEB DEVELOPMENT"],
     "dates": ["12/03/2023", "12/03/2023"]
   },
   "R23-TZICW": {
@@ -29090,7 +29181,8 @@
     "name": "Ansen Lovejen Thomas",
     "college": "Mar Baselios College of Engineering and Technology",
     "workshops": ["CARTOONING"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["Quiz College General"]
   },
   "R23-AAFEE": {
     "name": "Adithyan B R",
@@ -29324,7 +29416,8 @@
     "name": "Rizan Amani",
     "college": "SCT College of Engineering",
     "workshops": ["ROBOTICS"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["COD MOBILE"]
   },
   "R23-GCEZY": {
     "name": "ARUN BABU RS",
@@ -29882,7 +29975,8 @@
     "name": "Abdul Azeez Azeef",
     "college": "ACE College of Engineering Thiruvananthapuram",
     "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["COD MOBILE"]
   },
   "R23-IYSOM": {
     "name": "Augustin Antony",
@@ -30415,10 +30509,7 @@
   "R23-ZBQVG": {
     "name": "Drishya Sreehari",
     "college": "Lourdes Matha College Of Science And Technology",
-    "workshops": [
-      "FLUTTER APP DEVELOPMENT",
-      "FULL STACK WEB DEVELOPMENT"
-    ],
+    "workshops": ["FLUTTER APP DEVELOPMENT", "FULL STACK WEB DEVELOPMENT"],
     "dates": ["12/03/2023", "12/03/2023"]
   },
   "R23-BOZBK": {
@@ -30886,7 +30977,8 @@
     "name": "Muhammed Adil S",
     "college": "College of engineering attingal",
     "workshops": ["3D PRINTING AND ADDITIVE MANUFACTURING"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-VVHCI": {
     "name": "Fathima N I",
@@ -31227,10 +31319,7 @@
   "R23-MLRWG": {
     "name": "Merin Varghese",
     "college": "Federal Institute of Science and Technology",
-    "workshops": [
-      "FULL STACK WEB DEVELOPMENT",
-      "FULL STACK WEB DEVELOPMENT"
-    ],
+    "workshops": ["FULL STACK WEB DEVELOPMENT", "FULL STACK WEB DEVELOPMENT"],
     "dates": ["12/03/2023", "12/03/2023"]
   },
   "R23-IXKBM": {
@@ -31291,7 +31380,8 @@
     "name": "EBIN SHAJI",
     "college": "TKM COLLEGE OF ENGINEERING",
     "workshops": ["PCB DESIGN"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-FPOCB": {
     "name": "Arjun EP",
@@ -31681,7 +31771,8 @@
     "name": "Sharan m",
     "college": "College of engineering adoor",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-SKWGU": {
     "name": "Muhammad yazeen",
@@ -31693,7 +31784,8 @@
     "name": "Aadil R Varghese",
     "college": "Sree Buddha College Of engineering",
     "workshops": ["PYTHON"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-IPBQI": {
     "name": "Aloka S",
@@ -32167,7 +32259,8 @@
     "name": "Fayaaz muhammed M. I",
     "college": "Adi shankara Institute of engineering and technology kalady",
     "workshops": ["ROBOTICS"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-JWZCD": {
     "name": "FIDA FATHIMA N",
@@ -32461,7 +32554,8 @@
     "name": "Vishnu Rajesh",
     "college": "SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY",
     "workshops": ["BLENDER"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-OJCEY": {
     "name": "Sara Saheer",
@@ -32491,7 +32585,8 @@
     "name": "Joel Reji Mathew",
     "college": "Saintgits College of Engineering",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Quiz College General"]
   },
   "R23-XEBKB": {
     "name": "Akshay M",
@@ -32676,10 +32771,7 @@
   "R23-JWINE": {
     "name": "Maria Nathasha Bijumon",
     "college": "Federal Institute of Science and Technology Angamaly",
-    "workshops": [
-      "FULL STACK WEB DEVELOPMENT",
-      "FULL STACK WEB DEVELOPMENT"
-    ],
+    "workshops": ["FULL STACK WEB DEVELOPMENT", "FULL STACK WEB DEVELOPMENT"],
     "dates": ["12/03/2023", "12/03/2023"]
   },
   "R23-CWKQT": {
@@ -33196,7 +33288,8 @@
     "name": "Amith Sam",
     "college": "College of engineering trivandrum",
     "workshops": ["FULL STACK WEB DEVELOPMENT"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["VALORANT"]
   },
   "R23-BRSJV": {
     "name": "Devanarayan S",
@@ -33310,7 +33403,8 @@
     "name": "Lingeshwaramoorthy E",
     "college": "Amrita Vishwa Vidyapeetham Chennai Campus",
     "workshops": ["IOT WITH AWS"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Quiz Open General"]
   },
   "R23-YHEWJ": {
     "name": "M.Sidharth",
@@ -33676,7 +33770,8 @@
     "name": "Krishnadas Babu",
     "college": "College Of Engineering Trivandrum",
     "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-SLSEX": {
     "name": "Alan D Augustine",
@@ -33784,7 +33879,8 @@
     "name": "SAMUEL KOSHY VILANILAM",
     "college": "SAINTGITS COLLEGE OF ENGINEERING",
     "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
-    "dates": ["12/03/2023"]
+    "dates": ["12/03/2023"],
+    "events": ["Cut Clash"]
   },
   "R23-AZHQJ": {
     "name": "Tejas Jayachandran",
@@ -33820,13 +33916,15 @@
     "name": "Alif Sulthan",
     "college": "St Thomas institute of science and technology",
     "workshops": ["CYBERSECURITY"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-YRXAE": {
     "name": "Vyshnavi K B",
     "college": "College of engineering kidangoor",
     "workshops": ["CREATIVE WRITING"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["Pixel"]
   },
   "R23-FBOUS": {
     "name": "Chesna Johnson",
@@ -33891,10 +33989,7 @@
   "R23-DCJZZ": {
     "name": "H.U AMITHASH CHAITHANYA",
     "college": "Marian engineering college",
-    "workshops": [
-      "CRYPTOCURRENCY AND BLOCKCHAIN",
-      "FLUTTER APP DEVELOPMENT"
-    ],
+    "workshops": ["CRYPTOCURRENCY AND BLOCKCHAIN", "FLUTTER APP DEVELOPMENT"],
     "dates": ["12/03/2023", "12/03/2023"]
   },
   "R23-RKSPS": {
@@ -33907,7 +34002,8 @@
     "name": "Sherin shibu",
     "college": "Sree buddha college of engineering pattoor",
     "workshops": ["CARTOONING"],
-    "dates": ["10/03/2023"]
+    "dates": ["10/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-IDUOK": {
     "name": "Fathima Nezrin.K.N.",
@@ -34014,9 +34110,7 @@
   "R23-ZWBPR": {
     "name": "KRISHNENDU KS",
     "college": "COLLEGE OF ENGINEERING ADOOR",
-    "workshops": [
-      "BASICS OF IC ENGINE AND ECU TUNING"
-    ],
+    "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
     "dates": ["11/03/2023"]
   },
   "R23-ANHZU": {
@@ -34131,7 +34225,8 @@
     "name": "Nilesh B",
     "college": "SBCE pattoor",
     "workshops": ["CREATIVE WRITING"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["E-FOOTBALL"]
   },
   "R23-UGIFX": {
     "name": "Wilson Nevin",
@@ -35016,7 +35111,8 @@
     "name": "Neil Biby Abraham",
     "college": "Amal Jyothi College of Engineering",
     "workshops": ["PRODUCT DESIGN USING AR"],
-    "dates": ["11/03/2023"]
+    "dates": ["11/03/2023"],
+    "events": ["Pixel"]
   },
   "R23-XIOMX": {
     "name": "SANJANA S NAIR",
@@ -35711,8 +35807,8 @@
   "R23-ZZZZX": {
     "name": "Mohamed Shafi",
     "college": "Model Engineering College",
-    "workshops": ["IOT WITH AWS","AUTOCAD"],
-    "dates": ["11/03/2023","12/03/2023"]
+    "workshops": ["IOT WITH AWS", "AUTOCAD"],
+    "dates": ["11/03/2023", "12/03/2023"]
   },
   "R23-ZZZZW": {
     "name": "Adithya Sajeev Warrior",
@@ -35731,5 +35827,5094 @@
     "college": "College of Engineering Trivandrum",
     "workshops": ["PYTHON"],
     "dates": ["10/03/2023"]
+  },
+  "R23-JMSEK": {
+    "name": "Guguloth praveen",
+    "college": "NITC",
+    "events": ["Mr & Ms RAGAM"],
+    "date": ["2023-03-11"]
+  },
+  "R23-YBYPO": {
+    "name": "Ann Maria Thomas",
+    "college": "National Institute of Technology calicut",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-GPOJI": {
+    "name": "Abhishek Mohan S",
+    "college": "NITC",
+    "events": ["Pixel"],
+    "date": ["2023-03-12"]
+  },
+  "R23-RVOXA": {
+    "name": "Anna Teresa Binu",
+    "college": "Nitc",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-CGTQN": {
+    "name": "Adilmajeed",
+    "college": "Kmct college of pharmaceutical science",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-ISQMI": {
+    "name": "SREEPRASAD LS",
+    "college": "ADI SHANKARA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "events": ["Dumb Charades", "Pixel", "Treasure Hunt"],
+    "date": ["2023-03-10", "2023-03-12", "2023-03-11"]
+  },
+  "R23-RGOSZ": {
+    "name": "Shreya Nair",
+    "college": "NIT Calicut",
+    "events": ["Crime Scene Investigation", "Dumb Charades"],
+    "date": ["2023-03-11", "2023-03-10"]
+  },
+  "R23-AIWSL": {
+    "name": "Harishankar R",
+    "college": "College of engineering  Trivandrum",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-KHGQN": {
+    "name": "Jaideep Jayaprakash",
+    "college": "College of Engineering Trivandrum",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-USNUW": {
+    "name": "Muhamed shareeful fazal vs",
+    "college": "Sree chitra thirunal college of engineering",
+    "events": ["Mappilapattu"],
+    "date": ["2023-03-11"]
+  },
+  "R23-CKXEQ": {
+    "name": "Ratiba Sulthana",
+    "college": "NIT Trichy",
+    "events": ["Dumb Charades", "Mono Act", "Treasure Hunt"],
+    "date": ["2023-03-10", "", "2023-03-11"]
+  },
+  "R23-XDGKT": {
+    "name": "Priti gitte",
+    "college": "Nit calicut",
+    "events": ["Treasure Hunt", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-XOVRL": {
+    "name": "Mary Niya Sebastian",
+    "college": "Aisat",
+    "events": [
+      "Anthakshari",
+      "Crime Scene Investigation",
+      "Salt n Pepper",
+      "Slam Poetry",
+      "Spell Bee",
+      "Treasure Hunt",
+      "What's The Good Word",
+      "Word Smith"
+    ],
+    "date": [
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-12",
+      "2023-03-11",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-10",
+      "2023-03-10"
+    ]
+  },
+  "R23-PEWJS": {
+    "name": "Anupriya Krishnakumar",
+    "college": "GEC Thrissur",
+    "events": ["Bharathanatyam", "Mono Act"],
+    "date": ["2023-03-12", ""]
+  },
+  "R23-MHBVK": {
+    "name": "Muhammad Sufyan",
+    "college": "Government Medical College Kozhikode",
+    "events": ["Standup Comedy"],
+    "date": ["2023-03-12"]
+  },
+  "R23-PXUIE": {
+    "name": "Jitin Viji Mandokara",
+    "college": "NITK",
+    "events": ["Improv"],
+    "date": ["2023-03-12"]
+  },
+  "R23-FOLTZ": {
+    "name": "Midatana Sai surya teja",
+    "college": "National institute of technology Calicut",
+    "events": ["Dumb Charades", "Reporter"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-MXMGA": {
+    "name": "Mullapudi Pujitha",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ZWEIF": {
+    "name": "Gautam Lakshman Arun",
+    "college": "CET",
+    "events": ["Just A Minute", "What's The Good Word"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-WEUXE": {
+    "name": "Pranav",
+    "college": "Nil",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-MLUNL": {
+    "name": "Kevin varghese",
+    "college": "Saintgits college of engineering",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-VIHLF": {
+    "name": "Amitha.c",
+    "college": "MES ARTS AND SCIENCE COLLEGE KALLANTHODE",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-CGJBN": {
+    "name": "Muhammed Dilshad c",
+    "college": "HM College",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-PLMST": {
+    "name": "Nagalapuram Sidvilaasa",
+    "college": "Nit Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ZCKRD": {
+    "name": "Reddy Geetha Sahithi",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-LJRDR": {
+    "name": "Muhammed Al faras m s",
+    "college": "Siena college of professional studies",
+    "events": ["Duff Muttu"],
+    "date": ["2023-03-11"]
+  },
+  "R23-IEFGB": {
+    "name": "Jyothilakshmi P",
+    "college": "Saintgits college of engineering",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-ENIMO": {
+    "name": "Gokul S",
+    "college": "NITC",
+    "events": ["Mono Act"],
+    "date": [""]
+  },
+  "R23-TEACG": {
+    "name": "Gabe sakriya cheeran",
+    "college": "NIT CALICUT",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-UZLZO": {
+    "name": "Adilsha S Rehman",
+    "college": "NIT Calicut",
+    "events": ["Kavitha Prayanam", "Slam Poetry"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-ETMFZ": {
+    "name": "Jishi P B",
+    "college": "SCMS school of architecture",
+    "events": ["Panache", "Reporter"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-NJJJY": {
+    "name": "Sana Azmiya",
+    "college": "National Institute of Technology  Karnataka",
+    "events": ["Drama"],
+    "date": ["2023-03-12"]
+  },
+  "R23-MWFHS": {
+    "name": "Balasankar J",
+    "college": "NIT CALICUT",
+    "events": ["Kavitha Prayanam"],
+    "date": ["2023-03-11"]
+  },
+  "R23-SLHOC": {
+    "name": "Abhinav R Narayan",
+    "college": "College of Engineering Pathanapuram",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-GQROM": {
+    "name": "Amarnath P",
+    "college": "St.Joseph's College Devagiri.",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-DALUE": {
+    "name": "Jayanth B Umesh",
+    "college": "RV College of Engineering",
+    "events": ["Dance off"],
+    "date": [""]
+  },
+  "R23-VVSWC": {
+    "name": "Karthik",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-KBWPH": {
+    "name": "N Karthik Karanth",
+    "college": "National Institute of Technology Karnataka",
+    "events": ["Quiz College General", "Quiz Open General"],
+    "date": ["2023-03-11", "2023-03-12"]
+  },
+  "R23-RNARR": {
+    "name": "Mohammad Yaseen",
+    "college": "University college of engineering kariavattom",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-QHBDA": {
+    "name": "Nirmal Mathew",
+    "college": "NITC",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-OCUSQ": {
+    "name": "Charan",
+    "college": "NIT CALICUT",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-EEAFI": {
+    "name": "SUSAN SERAH KOSHY",
+    "college": "College of engineering Chengannur",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ZIJEY": {
+    "name": "Gautham C Mani",
+    "college": "NITC",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-UMWCV": {
+    "name": "Adithya Sidharth",
+    "college": "Symbiosis Law School Nagpur",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-SZBGG": {
+    "name": "YADHU KRISHNAN T N",
+    "college": "NIT calicut",
+    "events": ["Just A Minute", "Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-10", "2023-03-11", "2023-03-11"]
+  },
+  "R23-PWRBC": {
+    "name": "Abhijeet Raj",
+    "college": "Nit Calicut",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-FRVYQ": {
+    "name": "Kathiravan",
+    "college": "Nit Calicut",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-HWIFL": {
+    "name": "S Karthikeyan",
+    "college": "GOVT Engineering College Barton Hill",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-OOITU": {
+    "name": "Ashik Maijo",
+    "college": "Gec Kozhikode",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-TNCCD": {
+    "name": "Shamnad",
+    "college": "Iti chackai",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-NWLSG": {
+    "name": "Sidharth k",
+    "college": "Kmct college of pharmaceutical sciences  kalanthode",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-KSNSU": {
+    "name": "Devaki Nandhana P",
+    "college": "Mohandas College of Engineering and Technology",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-WOCKT": {
+    "name": "Agnivesh",
+    "college": "Mar Ivanios College",
+    "events": ["Standup Comedy"],
+    "date": ["2023-03-12"]
+  },
+  "R23-JOZRB": {
+    "name": "Joseph Maliakkal",
+    "college": "GEC THRISSUR",
+    "events": ["Quiz Open General", "Quiz Open General", "Quiz Open General"],
+    "date": ["2023-03-12", "2023-03-12", "2023-03-12"]
+  },
+  "R23-UIYSI": {
+    "name": "Ameya Jithesh",
+    "college": "SCMS College of Architecture",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-BAWYD": {
+    "name": "MAIDHILI HARI",
+    "college": "FISAT  ANGAMALY",
+    "events": ["Classical Music Solo"],
+    "date": ["2023-03-11"]
+  },
+  "R23-OALTR": {
+    "name": "Christo Martin",
+    "college": "Adi Shankara Institute of Science and Technology  Kalady",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-UNPBQ": {
+    "name": "Sheza Kalappatt",
+    "college": "NITC",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-JBMWM": {
+    "name": "Akshay krishna A",
+    "college": "lourdes matha college of science and technology",
+    "events": [
+      "Crime Scene Investigation",
+      "Mock Court",
+      "Salt n Pepper",
+      "Sketching",
+      "Treasure Hunt"
+    ],
+    "date": [
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-12",
+      "2023-03-12",
+      "2023-03-11"
+    ]
+  },
+  "R23-DYRXE": {
+    "name": "Akhil Hussain",
+    "college": "Sacred Heart College   Thevara",
+    "events": ["Mime"],
+    "date": ["2023-03-11"]
+  },
+  "R23-GHRCB": {
+    "name": "Subhash Madhav Golla",
+    "college": "NIT Calicut",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-GYWXV": {
+    "name": "Sreyas S",
+    "college": "Saintgits College Of Engineering",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-QXYCX": {
+    "name": "Ken Paul BInoj",
+    "college": "Fisat",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-MQGKT": {
+    "name": "Dan Koshy George",
+    "college": "Rajagiri School of Engineering and Technology",
+    "events": ["Standup Comedy", "Story Telling"],
+    "date": ["2023-03-12", "2023-03-12"]
+  },
+  "R23-ECUWT": {
+    "name": "Amal Thomas",
+    "college": "NIT Calicut",
+    "events": [
+      "Eastern Solo",
+      "Rajan Memorial Light Music Competition",
+      "Western Solo"
+    ],
+    "date": ["2023-03-11", "2023-03-10", "2023-03-12"]
+  },
+  "R23-OVXPX": {
+    "name": "Sarath Chandra",
+    "college": "Sastra University  Thanjavur",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-JFWYH": {
+    "name": "Sangeeth K Sadanandan",
+    "college": "MA college Kothamangalam",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-ODGQG": {
+    "name": "L.Abhiram",
+    "college": "Amrita Vishwa Vidyapeetham",
+    "events": ["String Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-IMYRW": {
+    "name": "Harshaa Jaishankar",
+    "college": "NIT Trichy",
+    "events": ["Improv"],
+    "date": ["2023-03-12"]
+  },
+  "R23-JJPJQ": {
+    "name": "Muhammed Shiyas N",
+    "college": "Farook college Calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-TSLSR": {
+    "name": "Adithyan",
+    "college": "Nit Calicut",
+    "events": ["COD MOBILE", "E-FOOTBALL"],
+    "date": ["", ""]
+  },
+  "R23-JXMTD": {
+    "name": "Abhishek R",
+    "college": "YCET",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-IWOQY": {
+    "name": "Ajay Naidu",
+    "college": "NITC",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-TFJIN": {
+    "name": "Vansh Sukhija",
+    "college": "None",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-MQFWZ": {
+    "name": "A.JAYADEV",
+    "college": "Nitc",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-XATQT": {
+    "name": "Sangam Kumar",
+    "college": "national institute of technology Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-SYXOG": {
+    "name": "Hari M K",
+    "college": "St Joseph's College Devagiri",
+    "events": ["Quiz College General", "Quiz College General"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-JRJMH": {
+    "name": "Roshan nasar",
+    "college": "IISER TVM",
+    "events": ["Pixel"],
+    "date": ["2023-03-12"]
+  },
+  "R23-GLRON": {
+    "name": "Thomas Raju",
+    "college": "Jyothi engineering college",
+    "events": ["Story Telling"],
+    "date": ["2023-03-12"]
+  },
+  "R23-VVUGC": {
+    "name": "AKILESH",
+    "college": "KPR INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-ITZDD": {
+    "name": "Karthikeya",
+    "college": "Nitc",
+    "events": ["Just A Minute", "Just A Minute"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-EYIGI": {
+    "name": "Aditya Yerram",
+    "college": "NIT Calicut",
+    "events": ["Mr & Ms RAGAM", "Quiz College General"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-BXEEF": {
+    "name": "Lakshmi K",
+    "college": "National University of Advanced Legal Studies  Kochi",
+    "events": ["Just A Minute", "Kavitha Prayanam", "Mr & Ms RAGAM"],
+    "date": ["2023-03-10", "2023-03-11", "2023-03-11"]
+  },
+  "R23-OOCIV": {
+    "name": "Athulya",
+    "college": "Amal Jyothi College of Engineering",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-AVGVW": {
+    "name": "Shehina Fadusha",
+    "college": "Kmct ayurveda medical college",
+    "events": ["Mono Act"],
+    "date": [""]
+  },
+  "R23-HQHZY": {
+    "name": "Arjun Sukumaran",
+    "college": "Sreechithra thirunal college of engineering",
+    "events": ["Scene Stealers"],
+    "date": [""]
+  },
+  "R23-AIFIM": {
+    "name": "Mahitha",
+    "college": "NitC",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-TRHLV": {
+    "name": "Shashi",
+    "college": "Nit Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-PGCII": {
+    "name": "Athulya O V",
+    "college": "NIT Calicut",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-QGRUF": {
+    "name": "Sankeerth",
+    "college": "NIT Calicut",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-TJOBG": {
+    "name": "Rajnesh B",
+    "college": "NIT Calicut",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-WFMJR": {
+    "name": "Sanivarapu Raghu",
+    "college": "Nitc",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-BGBQE": {
+    "name": "Pratheek Bhat",
+    "college": "National Institute of Technology Karnataka  Surathkal",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-PTHGH": {
+    "name": "D Arjun",
+    "college": "Sree Chitra Thirunal College of Engineering",
+    "events": ["String Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-XQMSE": {
+    "name": "Mohamed Shefin",
+    "college": "UKFCET KOLLAM",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-FXOTL": {
+    "name": "Saurav S",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-IRJUC": {
+    "name": "Nikhita S",
+    "college": "LBS institute of technology for women  Thiruvananthapuram",
+    "events": ["Bharathanatyam", "Mono Act"],
+    "date": ["2023-03-12", ""]
+  },
+  "R23-YCSNO": {
+    "name": "Amth G Kurian",
+    "college": "St.Joseph's College Of Communication  Changanaserry.",
+    "events": ["Acoustics"],
+    "date": ["2023-03-12"]
+  },
+  "R23-MSUKK": {
+    "name": "REAL RAM T S",
+    "college": "NIT Calicut",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-OVVTC": {
+    "name": "Roshan Alex",
+    "college": "College of Engineering Kalloppara",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-HRZHA": {
+    "name": "Anjali Krishna",
+    "college": "Cochin University of Science and Technology",
+    "events": ["Acoustics"],
+    "date": ["2023-03-12"]
+  },
+  "R23-IKWWT": {
+    "name": "Dasari Ravi Teja",
+    "college": "NIT Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-FDZVZ": {
+    "name": "Manu M Johnson",
+    "college": "TKM College of Engineering",
+    "events": ["Improv", "Story Telling"],
+    "date": ["2023-03-12", "2023-03-12"]
+  },
+  "R23-VHTIR": {
+    "name": "Adithya Sai Srinivas Ankam",
+    "college": "NIT Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-BYINU": {
+    "name": "Botcha vishwaja",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-CVKWJ": {
+    "name": "Ritwik Deepa",
+    "college": "Professional",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-ICVEM": {
+    "name": "Aardra Shiwazz",
+    "college": "SCMS School of Architecture",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-FEZRX": {
+    "name": "Garziya Jacob",
+    "college": "college of engineering trivandrum",
+    "events": ["Mr & Ms RAGAM"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ADQLY": {
+    "name": "ABHIRAM S",
+    "college": "NIT Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-OBQOT": {
+    "name": "Thota Gowtham Goud",
+    "college": "NIT Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-EAHRB": {
+    "name": "Joel Sabu George",
+    "college": "Mar ivanios College",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-WBYTJ": {
+    "name": "Sarveshwaran",
+    "college": "Amrita vishwa Vidyapeetham   Coimbatore",
+    "events": ["Pixel"],
+    "date": ["2023-03-12"]
+  },
+  "R23-VGMMN": {
+    "name": "Vasudev Jayachandran",
+    "college": "SCT College of Engineering",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-WMVBK": {
+    "name": "Kevin Johnson",
+    "college": "ASIET KALADY",
+    "events": ["Quiz College General", "Quiz College Sports"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-PNEHC": {
+    "name": "S Sivaram",
+    "college": "Chinmaya College",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-FEGKZ": {
+    "name": "MANJUNATH ROY",
+    "college": "College of Engineering Trivandrum",
+    "events": ["String Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-FACFG": {
+    "name": "Vineetha M Jude",
+    "college": "National College",
+    "events": ["Western Solo", "Western Solo"],
+    "date": ["2023-03-12", "2023-03-12"]
+  },
+  "R23-EBYHR": {
+    "name": "Md Saif ali",
+    "college": "Nitc",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-UPXJC": {
+    "name": "Akhil Vigneswar M",
+    "college": "Nit Calicut",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-YDXXE": {
+    "name": "Shaista",
+    "college": "Nit calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-OZIMD": {
+    "name": "Saurav S",
+    "college": "College of Engineering   Trivandrum (CET)",
+    "events": ["Pixel"],
+    "date": ["2023-03-12"]
+  },
+  "R23-UJXDV": {
+    "name": "Febin Mathew",
+    "college": "College of Engineering  Trivandrum",
+    "events": ["Western Solo", "Western Solo"],
+    "date": ["2023-03-12", "2023-03-12"]
+  },
+  "R23-IHFHE": {
+    "name": "Batchu Gayathri",
+    "college": "Nitc",
+    "events": [
+      "Crime Scene Investigation",
+      "Crime Scene Investigation",
+      "Dumb Charades"
+    ],
+    "date": ["2023-03-11", "2023-03-11", "2023-03-10"]
+  },
+  "R23-UYQHS": {
+    "name": "Fathima Noor shafa N A",
+    "college": "Govt Law college Kozhikode",
+    "events": ["Crime Scene Investigation", "Mock Court", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11", "2023-03-11"]
+  },
+  "R23-VAYFS": {
+    "name": "Vijay Praneeth Nethala",
+    "college": "Nitc",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-VOFQU": {
+    "name": "Muneer A S",
+    "college": "CAPE engineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-QLRRP": {
+    "name": "Rohith Roshan",
+    "college": "Sahrdaya college of advanced studies thrissur",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-YXZAU": {
+    "name": "Aiswarya Suresh",
+    "college": "Saintgits College of Engineering Kottayam",
+    "events": ["Kavitha Prayanam"],
+    "date": ["2023-03-11"]
+  },
+  "R23-DJNEY": {
+    "name": "Manikandan A S",
+    "college": "NIT Calicut",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-QRXCK": {
+    "name": "Adarsh MS",
+    "college": "Mar Ivanios College",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-XBCVH": {
+    "name": "Vadapalli Maheswari Satya",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-EXSHK": {
+    "name": "Prarabdha Chatterjee",
+    "college": "NIT CALICUT",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-KWBEZ": {
+    "name": "GAYATHRI PRADEEP",
+    "college": "St.Joseph\u2019s college (autonomous) devagiri",
+    "events": ["Mr & Ms RAGAM"],
+    "date": ["2023-03-11"]
+  },
+  "R23-NHMQB": {
+    "name": "Jatiram Meena",
+    "college": "NIT Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-UZDSA": {
+    "name": "indrajith",
+    "college": "st thomas",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-FOJBN": {
+    "name": "Addhyan Malhotra",
+    "college": "National Institute of technology Karnataka",
+    "events": ["Alfaz", "Kavitha Prayanam"],
+    "date": ["2023-03-12", "2023-03-11"]
+  },
+  "R23-YJCJP": {
+    "name": "Jayash Sahu",
+    "college": "National institute of technology Calicut",
+    "events": ["Beat Boxing"],
+    "date": ["2023-03-12"]
+  },
+  "R23-WJSWI": {
+    "name": "C Nithin Bhavan",
+    "college": "NATIONAL INSTITUTE OF TECHNOLOGY CALICUT",
+    "events": [
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt"
+    ],
+    "date": [
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11"
+    ]
+  },
+  "R23-THOSE": {
+    "name": "Kathan zula",
+    "college": "Nitc",
+    "events": ["Eastern Solo", "String Solo"],
+    "date": ["2023-03-11", "2023-03-12"]
+  },
+  "R23-NVGIJ": {
+    "name": "Avinash Kumar",
+    "college": "NIT Calicut",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-TEPUN": {
+    "name": "Rosna Shaji",
+    "college": "FISAT",
+    "events": ["Classical Music Solo"],
+    "date": ["2023-03-11"]
+  },
+  "R23-KQRMO": {
+    "name": "Joshua Jose",
+    "college": "VIT Chennai",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-XVDKA": {
+    "name": "Jeswin John Michael",
+    "college": "Toc H Institute of Science and Technology",
+    "events": ["Freestyle", "Tangled"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-KZLFJ": {
+    "name": "Rachel Abees",
+    "college": "Nit Calicut",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-JBHHX": {
+    "name": "Muhammed Ismail a s",
+    "college": "Co operative law college",
+    "events": ["Mono Act"],
+    "date": [""]
+  },
+  "R23-HORSX": {
+    "name": "Libin Joseph",
+    "college": "Saintgits College of Engineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-SASUO": {
+    "name": "Aswin",
+    "college": "oriental collage",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-ZACSP": {
+    "name": "Aditya Sunilkumar",
+    "college": "NITC",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-QQUUJ": {
+    "name": "Arya Shinod",
+    "college": "Amal Jyothi College of Engineering",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-OOECS": {
+    "name": "Gautham Anilkumar",
+    "college": "Saintgits college of engineering",
+    "events": ["Standup Comedy"],
+    "date": ["2023-03-12"]
+  },
+  "R23-DJYAD": {
+    "name": "Akhil R Kurup",
+    "college": "NIT Calicut",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-IJZXA": {
+    "name": "Dhruv Saraswat",
+    "college": "Nit calicut",
+    "events": ["Just A Minute"],
+    "date": ["2023-03-10"]
+  },
+  "R23-XIPGQ": {
+    "name": "Vikaash",
+    "college": "Nit Calicut",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-YKHDW": {
+    "name": "Qurishi",
+    "college": "MA COLLEGE KOTHAMANGALAM",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-NCZPO": {
+    "name": "Aryan",
+    "college": "National institute of technology Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-YFXLR": {
+    "name": "Sreerag N V",
+    "college": "IISER THIRUVANANTHAPURAM",
+    "events": ["Anthakshari", "Kavitha Prayanam"],
+    "date": ["2023-03-10", "2023-03-11"]
+  },
+  "R23-LZRYR": {
+    "name": "Rahul krishnan E K",
+    "college": "College of Engineering Trivandrum",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-NWXBZ": {
+    "name": "Arunima KS",
+    "college": "SCMS School of architecture  Karukutty",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-MNUHT": {
+    "name": "Ritik Gupta",
+    "college": "Nit Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-DRKFP": {
+    "name": "Abishek Nair",
+    "college": "NIT CALICUT",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-UBJPU": {
+    "name": "NEHA. P. K",
+    "college": "St. Joseph's college Devagiri",
+    "events": ["Panache"],
+    "date": ["2023-03-10"]
+  },
+  "R23-HSUJH": {
+    "name": "Rana Faisal",
+    "college": "Mems International",
+    "events": ["Spell Bee", "Spell Bee"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-ZFBTU": {
+    "name": "Akula Jyoshnavi",
+    "college": "Nitc",
+    "events": ["Reporter"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ZOBHJ": {
+    "name": "Athulya Subash",
+    "college": "Government engineering College Thrissur",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-MNJGA": {
+    "name": "Anandu",
+    "college": "SOE  CUSAT",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-UPRIU": {
+    "name": "Ryan Hmar",
+    "college": "IIT Bombay",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-SWAAR": {
+    "name": "Jeanne Elizabeth",
+    "college": "Sacred Heart College",
+    "events": ["Western Solo", "Western Solo"],
+    "date": ["2023-03-12", "2023-03-12"]
+  },
+  "R23-UNUOD": {
+    "name": "SIVAPRIYA MA",
+    "college": "NIT Calicut",
+    "events": ["Kavitha Prayanam"],
+    "date": ["2023-03-11"]
+  },
+  "R23-IZXMJ": {
+    "name": "Rahul D",
+    "college": "Marian Engineering College",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-FOSTN": {
+    "name": "Aromal S",
+    "college": "LMCST",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-NCMZP": {
+    "name": "Ankit S Gokul",
+    "college": "College of engineering Attingal",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-TAUXC": {
+    "name": "Riyush Remju",
+    "college": "Sree Chitra Thirunal College of Engineering",
+    "events": ["String Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-FJBCO": {
+    "name": "Ashbi Johny",
+    "college": "SCMS School of Engineering and Technology  Ernakulam  Kerala  India",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-GWDLD": {
+    "name": "Chimbili Rishimitha Chowdary",
+    "college": "Nitc",
+    "events": [
+      "Alfaz",
+      "Debate",
+      "Mr & Ms RAGAM",
+      "Mr & Ms RAGAM",
+      "Quiz Open General",
+      "Treasure Hunt"
+    ],
+    "date": [
+      "2023-03-12",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-12",
+      "2023-03-11"
+    ]
+  },
+  "R23-MNTGR": {
+    "name": "Kiran Ottur",
+    "college": "Nil",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-NRFND": {
+    "name": "Kommireddy yaswanth",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-MPYVW": {
+    "name": "Gokul G",
+    "college": "College of Engineering Attingal",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-EKMOV": {
+    "name": "Swapnonil Sen",
+    "college": "Netaji Subhash Engineering College",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-DFHFY": {
+    "name": "Chris Godfrey",
+    "college": "College of Engineering Trivandrum",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-XCWVR": {
+    "name": "Akhila ms",
+    "college": "Government engineering college thrissur",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-HAEBD": {
+    "name": "Balachandar Vasan",
+    "college": "National Institute of Technology Karnataka",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-HXMMJ": {
+    "name": "Hayden Soares",
+    "college": "NITK",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-TBNHN": {
+    "name": "Nikhita Krishnadas",
+    "college": "Nitc",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-JLPPH": {
+    "name": "Adabala Jishnu Preethi",
+    "college": "National Institute of Technology Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-TQYME": {
+    "name": "Earnest George",
+    "college": "MACE  Kothamangalam",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-PNIYC": {
+    "name": "Shaun Xavier",
+    "college": "Federal Institute of Science And Technology (FISAT)",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-JZIID": {
+    "name": "ARYAN R NAIR",
+    "college": "The national university of advanced legal studies (NUALS)  Kochi",
+    "events": [
+      "Debate",
+      "What's The Good Word",
+      "What's The Good Word",
+      "What's The Good Word",
+      "What's The Good Word",
+      "What's The Good Word",
+      "Word Smith"
+    ],
+    "date": [
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10"
+    ]
+  },
+  "R23-WAJVN": {
+    "name": "Albin Babu",
+    "college": "Chetana College of Media and Performing Arts  Thrissur  Chiyyaram.",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-KNYRH": {
+    "name": "Kanishka",
+    "college": "SNSCT",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-BOBSA": {
+    "name": "Akshaya Babu",
+    "college": "AISAT",
+    "events": [
+      "Anthakshari",
+      "Crime Scene Investigation",
+      "Spell Bee",
+      "Treasure Hunt",
+      "What's The Good Word",
+      "Word Smith"
+    ],
+    "date": [
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-10",
+      "2023-03-10"
+    ]
+  },
+  "R23-TTEMR": {
+    "name": "Akash Ajay Kumar",
+    "college": "National University of Advanced Legal Studies",
+    "events": [
+      "Debate",
+      "Reporter",
+      "What's The Good Word",
+      "What's The Good Word",
+      "Word Smith"
+    ],
+    "date": [
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10"
+    ]
+  },
+  "R23-ORETT": {
+    "name": "Rachel Ann Saji",
+    "college": "scms school of architecture",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-DAZIJ": {
+    "name": "Mmg",
+    "college": "Saintgits College of Engineering",
+    "events": ["Western Solo", "Western Solo"],
+    "date": ["2023-03-12", "2023-03-12"]
+  },
+  "R23-IDDOG": {
+    "name": "Sourabhi G.S",
+    "college": "Amrita Vishwa Vidyapeetham",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-RWANZ": {
+    "name": "Jobin Paniker",
+    "college": "Younus college of engineering and technology",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ASVRQ": {
+    "name": "AMJITH S B",
+    "college": "Saintgits College of engineering",
+    "events": ["Standup Comedy"],
+    "date": ["2023-03-12"]
+  },
+  "R23-UULDN": {
+    "name": "VISHNU S NAIR",
+    "college": "AMAL JYOTHI COLLEGE OF ENGINEERING",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-BQZUS": {
+    "name": "Deepak Yadav",
+    "college": "NITC",
+    "events": ["Standup Comedy"],
+    "date": ["2023-03-12"]
+  },
+  "R23-CCLDT": {
+    "name": "Kavya O",
+    "college": "Federal Institute Of Science And Technology  Angamaly",
+    "events": [
+      "Bharathanatyam",
+      "Classical Music Solo",
+      "Mappilapattu",
+      "Mono Act"
+    ],
+    "date": ["2023-03-12", "2023-03-11", "2023-03-11", ""]
+  },
+  "R23-EGQEB": {
+    "name": "Amal Varghese",
+    "college": "Amal Jyothi College of Engineering  Kottayam",
+    "events": ["Acoustics"],
+    "date": ["2023-03-12"]
+  },
+  "R23-KTLMS": {
+    "name": "BINSIL TV",
+    "college": "Dr Ambedkar arts and science college periya   kasaragod",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-DASST": {
+    "name": "KARTHIK MANORANJAN",
+    "college": "NIT Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ZPDXC": {
+    "name": "Sachin Umendran",
+    "college": "Model engineering college  Thrikkakara",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-CWVTK": {
+    "name": "Mann Saxena",
+    "college": "National institute of technology Calicut",
+    "events": ["Just A Minute"],
+    "date": ["2023-03-10"]
+  },
+  "R23-DLZMH": {
+    "name": "Shashank K s",
+    "college": "Amrita school of Ayurveda",
+    "events": ["Freestyle"],
+    "date": ["2023-03-11"]
+  },
+  "R23-MCXDP": {
+    "name": "Nabeel sha",
+    "college": "College of applied science  thamarassery",
+    "events": ["Mappilapattu", "Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-11", "2023-03-10"]
+  },
+  "R23-AXXLE": {
+    "name": "ANZIL ASLAM K U",
+    "college": "GEC THRISSUR",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-CZSGQ": {
+    "name": "Muhammed anwaf",
+    "college": "NIT  CALICUT",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-AESQP": {
+    "name": "Akash Pradeep",
+    "college": "JJMMC",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-WHUHP": {
+    "name": "Shinu Mathew Shaji",
+    "college": "College of engineering chengannur",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-ZRFQC": {
+    "name": "Naeem Niaz",
+    "college": "nitc",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-FETMP": {
+    "name": "Aiwin",
+    "college": "Nit Calicut",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-LFOYX": {
+    "name": "RESHMI R S",
+    "college": "LBSITW POOJAPPURA",
+    "events": ["Cut Clash"],
+    "date": [""]
+  },
+  "R23-XMKYW": {
+    "name": "Amit Malgol",
+    "college": "Nitc",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-NTOWT": {
+    "name": "Akshay Manikumar",
+    "college": "YOUNUS COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-WPXLC": {
+    "name": "Sayooj rs",
+    "college": "Nitc",
+    "events": ["Just A Minute"],
+    "date": ["2023-03-10"]
+  },
+  "R23-AUURN": {
+    "name": "Antony Paul",
+    "college": "Christ College of Engineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-RBAGU": {
+    "name": "Farrhan",
+    "college": "College of Architecture Trivandrum",
+    "events": ["Cut Clash"],
+    "date": [""]
+  },
+  "R23-ADUDM": {
+    "name": "Rima shereef v",
+    "college": "Govt engineering college Thrissur",
+    "events": ["Word Smith"],
+    "date": ["2023-03-10"]
+  },
+  "R23-NEAFO": {
+    "name": "Rohit Reji",
+    "college": "NITC",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-PHBJS": {
+    "name": "Jerry Jose",
+    "college": "Indian Institute of Technology  Madras",
+    "events": [
+      "Debate",
+      "Just A Minute",
+      "Spell Bee",
+      "Spell Bee",
+      "What's The Good Word"
+    ],
+    "date": [
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10"
+    ]
+  },
+  "R23-JFWWR": {
+    "name": "Vaishali Gopalan",
+    "college": "Bishop Heber College",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-YLEAQ": {
+    "name": "Jeevan saradhy .S",
+    "college": "University of kerala karyavattam  campus thiruvananthapuram",
+    "events": ["Freestyle", "Tangled"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-XEEPV": {
+    "name": "Sreyas Joseph",
+    "college": "St joseph collage of communication kottayam",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-GEERP": {
+    "name": "Kommireddy Raja uday vardhan",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-JTATT": {
+    "name": "A Jaimie John",
+    "college": "National Institute of Technology  Calicut",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-JBOWW": {
+    "name": "Nikhil Sreeraj",
+    "college": "NIT Calicut",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-IQJPQ": {
+    "name": "Muhammed Shaan M",
+    "college": "Adi Shankara Institute of Engineering and Technology",
+    "events": ["Anthakshari", "Anthakshari", "Treasure Hunt", "Western Solo"],
+    "date": ["2023-03-10", "2023-03-10", "2023-03-11", "2023-03-12"]
+  },
+  "R23-MSRDY": {
+    "name": "",
+    "college": "",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-VCWRP": {
+    "name": "Khushi Nahata",
+    "college": "Nitc",
+    "events": ["Mr & Ms RAGAM"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ILRTD": {
+    "name": "Vaishavi",
+    "college": "Nitc",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-AAJYE": {
+    "name": "Dharmendra chauhan",
+    "college": "NIT CALICUT",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-SFUFN": {
+    "name": "Alina Gomez F U",
+    "college": "College of Engineering Pathanapuram",
+    "events": ["Western Solo", "Western Solo"],
+    "date": ["2023-03-12", "2023-03-12"]
+  },
+  "R23-SVLTP": {
+    "name": "Sanjana P.S",
+    "college": "Mar Athansius college of Engineering",
+    "events": ["Panache"],
+    "date": ["2023-03-10"]
+  },
+  "R23-TQCYF": {
+    "name": "Adwaith Nishin",
+    "college": "Adi Shankara Engineering college",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-DFYTT": {
+    "name": "Amna Bint Ashraf",
+    "college": "Muthoot institute of technology and science",
+    "events": ["Classical Music Solo", "Mappilapattu"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-NFCCU": {
+    "name": "ALKA B SHAJI",
+    "college": "NITV",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-IYGUB": {
+    "name": "Hasna Ishak",
+    "college": "Government Law College  Kozhikode",
+    "events": ["Crime Scene Investigation", "Mock Court", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11", "2023-03-11"]
+  },
+  "R23-OFLXQ": {
+    "name": "Akash Ajay",
+    "college": "College Of Engineering Kallooppaara",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-GJVUY": {
+    "name": "Shibin Fazil",
+    "college": "NITC",
+    "events": ["Treasure Hunt", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-XWFZD": {
+    "name": "Manzoor",
+    "college": "MBITS",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-HGHUK": {
+    "name": "Abhiram k r",
+    "college": "MG clg   TVPM",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ZMKRD": {
+    "name": "P Varun",
+    "college": "NIT Calicut",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-WVYOR": {
+    "name": "Devalakshmi K m",
+    "college": "Scms school of architecture",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-LYMNO": {
+    "name": "Abhimanue anu",
+    "college": "Mg clg",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-BTZLI": {
+    "name": "Parvathy Narayanan",
+    "college": "KMCT DENTAL COLLEGE",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-FDPQM": {
+    "name": "Lulu fathima",
+    "college": "Darunnujoom college of arts and science Perambra",
+    "events": ["Just A Minute", "Word Smith"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-PBVAD": {
+    "name": "Sayand P",
+    "college": "Federal Institute of Science and Technology",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-NUKQJ": {
+    "name": "Danie Mathew",
+    "college": "Christ College (Autonomous)  Irinjalakuda",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-PEAMA": {
+    "name": "Hemanth",
+    "college": "8184827428",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-NAZJJ": {
+    "name": "Shahabas Aman",
+    "college": "GEC PALAKKAD",
+    "events": ["Movie Spoof"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ZXQBF": {
+    "name": "Aswin Anand",
+    "college": "Amrita Vishwa Vidhyapeetham Coimbatore",
+    "events": ["Acoustics"],
+    "date": ["2023-03-12"]
+  },
+  "R23-MNFZB": {
+    "name": "Athul.G",
+    "college": "College of engineering kallooppara",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-KPLOF": {
+    "name": "Vishal Babu",
+    "college": "St.Aloysius College   Thrissur",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-LMZEJ": {
+    "name": "T NISHANTH KUMAR",
+    "college": "IIT BHUBANESWAR",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-NZQRQ": {
+    "name": "Crescent P",
+    "college": "NIT Calicut",
+    "events": ["Debate", "VALORANT"],
+    "date": ["2023-03-10", ""]
+  },
+  "R23-FCESI": {
+    "name": "Aarsha V S",
+    "college": "Amal Jyothi College of Engineering Kanjirappally",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-SHIPV": {
+    "name": "Venus Thomas",
+    "college": "FISAT",
+    "events": ["Bharathanatyam", "Classical Music Solo", "Mono Act"],
+    "date": ["2023-03-12", "2023-03-11", ""]
+  },
+  "R23-RDZXF": {
+    "name": "Sarath R",
+    "college": "Mar Baselios College of Engineering and Technology",
+    "events": ["Western Solo", "Western Solo"],
+    "date": ["2023-03-12", "2023-03-12"]
+  },
+  "R23-AXCVM": {
+    "name": "Nevin Gladson Varughese",
+    "college": "National Institute of Technology Calicut",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-CXZHO": {
+    "name": "Pranav P R",
+    "college": "CUSAT",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-YRNKK": {
+    "name": "Ajaykumar b shep",
+    "college": "Trinity College of pharmacy pune",
+    "events": ["Word Smith"],
+    "date": ["2023-03-10"]
+  },
+  "R23-GIGFF": {
+    "name": "Sreelakshmi K J",
+    "college": "National institute of Technology Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-QZZKU": {
+    "name": "Shreya",
+    "college": "IIT guwahati",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-SWRBE": {
+    "name": "Albert CP",
+    "college": "CET",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-RJDCF": {
+    "name": "Mathew Tharakan",
+    "college": "Jubilee mission medical college",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-OCYVB": {
+    "name": "Christo Joseph Sajan",
+    "college": "Saintgits College of engineering",
+    "events": [
+      "Mr & Ms RAGAM",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt"
+    ],
+    "date": [
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11"
+    ]
+  },
+  "R23-NMPTB": {
+    "name": "Aravind p menon",
+    "college": "Adi shankara institute of engineering and technology",
+    "events": ["Anthakshari", "Anthakshari", "Dumb Charades", "Treasure Hunt"],
+    "date": ["2023-03-10", "2023-03-10", "2023-03-10", "2023-03-11"]
+  },
+  "R23-JFWWA": {
+    "name": "Rennie  John Jacob",
+    "college": "University  of kerala karyavattam campus Thiruvananthapuram",
+    "events": ["Freestyle", "Tangled"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-HMCMO": {
+    "name": "Balu Krishna. S",
+    "college": "Sree Buddha College Of Engineering  Pattoor",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-SOVFH": {
+    "name": "karthik k",
+    "college": "st thomas college of engineering",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-XNSDR": {
+    "name": "Dhakshitha Gouru",
+    "college": "National Institute of technology Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-EHBYS": {
+    "name": "Geethanjali T S",
+    "college": "TOC H institute of science and technology",
+    "events": ["Tangled"],
+    "date": ["2023-03-11"]
+  },
+  "R23-CUNCA": {
+    "name": "Akkumon T A",
+    "college": "College of Engineering Adoor",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-BUJGN": {
+    "name": "SALMAN P S",
+    "college": "College of engineering adoor",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-QGYOP": {
+    "name": "Ajmal",
+    "college": "Mar ivanios",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-WCTMV": {
+    "name": "Kadambala Dilleswararao",
+    "college": "NATIONAL INSTITUTE OF TECHNOLOGY CALICUT",
+    "events": ["Mr & Ms RAGAM"],
+    "date": ["2023-03-11"]
+  },
+  "R23-HYBSC": {
+    "name": "Niranjan T",
+    "college": "Hindu College  University of Delhi",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-YWEFR": {
+    "name": "Megha C M",
+    "college": "Christ College ( Autonomous)Irinjalakuda",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-JHYRY": {
+    "name": "Anjal Joshi",
+    "college": "College of Engineering Vadakara",
+    "events": ["Face To Face"],
+    "date": ["2023-03-12"]
+  },
+  "R23-PDAYC": {
+    "name": "Nikhil K",
+    "college": "Nit calicut",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-LYKLZ": {
+    "name": "Amit Kumar",
+    "college": "NITC",
+    "events": ["Sketching", "Sketching", "Spell Bee"],
+    "date": ["2023-03-12", "2023-03-12", "2023-03-10"]
+  },
+  "R23-SLOYE": {
+    "name": "Vishnu v",
+    "college": "St Aloysius college Thrissur",
+    "events": ["Standup Comedy"],
+    "date": ["2023-03-12"]
+  },
+  "R23-CVRVE": {
+    "name": "ROHIT FRANCIS",
+    "college": "Sree Chitra Thirunal College Of Engineering",
+    "events": ["Freestyle"],
+    "date": ["2023-03-11"]
+  },
+  "R23-BUAPI": {
+    "name": "Anu poulose",
+    "college": "Maharajas collage Ernakulam",
+    "events": [
+      "Debate",
+      "Dumb Charades",
+      "Just A Minute",
+      "Mr & Ms RAGAM",
+      "Reporter",
+      "Reporter"
+    ],
+    "date": [
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-10",
+      "2023-03-10"
+    ]
+  },
+  "R23-SQQVG": {
+    "name": "Afeefa Roshan",
+    "college": "Nitc",
+    "events": ["Debate", "Just A Minute"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-YOITJ": {
+    "name": "NANDAGOPAL M",
+    "college": "Nit Calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-UPPQX": {
+    "name": "Shahina",
+    "college": "scms school of architecture",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-DOHUY": {
+    "name": "Pradeep Kumar",
+    "college": "St xaviers",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-VEAVU": {
+    "name": "Shahad Islam N",
+    "college": "Government Engineering Collage Idukki",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-HBGLA": {
+    "name": "Hima P Das",
+    "college": "NIT Calicut",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-FMGVV": {
+    "name": "Gopika S",
+    "college": "Amal Jyothi College of Engineering",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-KJYLM": {
+    "name": "Anju Preetham G",
+    "college": "NIT Calicut",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ZONVX": {
+    "name": "Yagnavajjala chandra sekhar",
+    "college": "Raman bhavan 1",
+    "events": ["Dumb Charades", "Treasure Hunt"],
+    "date": ["2023-03-10", "2023-03-11"]
+  },
+  "R23-IUPGT": {
+    "name": "Sreenand Ashok",
+    "college": "College of Engineering Thalassery",
+    "events": ["Pixel"],
+    "date": ["2023-03-12"]
+  },
+  "R23-TSJYK": {
+    "name": "Boney M",
+    "college": "IISER THIRUVANANTHAPURAM",
+    "events": ["Pixel"],
+    "date": ["2023-03-12"]
+  },
+  "R23-CGXEK": {
+    "name": "Afham",
+    "college": "UTS",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-XCNBY": {
+    "name": "Shashank Singit",
+    "college": "National Institute of Technology-Karnataka",
+    "events": ["Mock Court", "Quiz Open General"],
+    "date": ["2023-03-11", "2023-03-12"]
+  },
+  "R23-BKSDG": {
+    "name": "SANJAY B",
+    "college": "Govt. engineering college palakkad",
+    "events": ["Dance off", "Freestyle"],
+    "date": ["", "2023-03-11"]
+  },
+  "R23-UGDPL": {
+    "name": "SUDHEESH SIVASANKARAN",
+    "college": "Sree Kerala Varma College",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-TRFRP": {
+    "name": "Smriti Rajeev",
+    "college": "NIT Calicut",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ROTWZ": {
+    "name": "Arathi K",
+    "college": "AL IRSHAD ARTS AND SCIENCE COLLEGE FOR WOMEN",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-BGCGG": {
+    "name": "Arunima M",
+    "college": "NIT C",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-KOZMT": {
+    "name": "Anirudhan Jay",
+    "college": "VIT University  Vellore.",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-ESCFE": {
+    "name": "JOHAN C BINU",
+    "college": "NIT CALICUT",
+    "events": ["String Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-QVKME": {
+    "name": "Kaushik S Nandan",
+    "college": "NITK",
+    "events": ["Quiz College General", "Quiz Open General"],
+    "date": ["2023-03-11", "2023-03-12"]
+  },
+  "R23-DOKXG": {
+    "name": "Anisha B",
+    "college": "University of Kerala - Karyavattom Campus",
+    "events": ["Freestyle", "Word Smith"],
+    "date": ["2023-03-11", "2023-03-10"]
+  },
+  "R23-ZRPRE": {
+    "name": "Rahemath",
+    "college": "AL IRSHAD ARTS AND SCIENCE COLLEGE FOR WOMEN",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-XGZFQ": {
+    "name": "Shahana B Faizal",
+    "college": "Govt engineering college bartonhill",
+    "events": ["Quiz College Sports"],
+    "date": ["2023-03-11"]
+  },
+  "R23-WHFIM": {
+    "name": "Anena pp",
+    "college": "Providence Women's College Kozhikode",
+    "events": ["Mime"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ZHTQD": {
+    "name": "Diljith P D",
+    "college": "NIT C",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-EWPCE": {
+    "name": "Vaishnavi A S",
+    "college": "Government Engineering College Bartonhill  Thiruvananthapuram",
+    "events": ["Quiz College Sports"],
+    "date": ["2023-03-11"]
+  },
+  "R23-IYVJR": {
+    "name": "R-Thulasi Ram",
+    "college": "Nitc",
+    "events": ["Dumb Charades", "Treasure Hunt"],
+    "date": ["2023-03-10", "2023-03-11"]
+  },
+  "R23-GMFTB": {
+    "name": "Anandhu shaji",
+    "college": "Govt DB college thalayolaparambu",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-XTHXL": {
+    "name": "Pradhama Pradeep",
+    "college": "Kristy Jyothi College of Management Technology",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-CZEMQ": {
+    "name": "Abin kochumon",
+    "college": "Amaljyothi",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-OTMKS": {
+    "name": "Jatin Goyal",
+    "college": "NIT Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-RRRKK": {
+    "name": "Fahad Sajeem",
+    "college": "Marian engineering college",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-IABPW": {
+    "name": "Abhirami",
+    "college": "National University of Advanced Legal Studies  Kochi  India",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-NSEKE": {
+    "name": "GANTA KARTHIKEYA Kushal kumar",
+    "college": "Nit Calicut",
+    "events": [
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt"
+    ],
+    "date": [
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11"
+    ]
+  },
+  "R23-IVPBJ": {
+    "name": "ANKITA LAL T.S",
+    "college": "SCMS SCHOOL OF ARCHITECTURE",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-IOKFH": {
+    "name": "Abhijith A",
+    "college": "TKM INSTITUTE OF TECHNOLOGY",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-MEUHU": {
+    "name": "Niranjana Prasad",
+    "college": "National Institute of technology CALICUT",
+    "events": ["Tal Se Tal Mila"],
+    "date": ["2023-03-12"]
+  },
+  "R23-VHFAH": {
+    "name": "Adarsh Jayan",
+    "college": "College of engineering trivandrum",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-JKKDJ": {
+    "name": "AREN ALEX",
+    "college": "National Institute Of Technology Calicut",
+    "events": ["COD MOBILE", "E-FOOTBALL"],
+    "date": ["", ""]
+  },
+  "R23-JYVUT": {
+    "name": "Adith Pola",
+    "college": "NIT Calicut",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-TFXET": {
+    "name": "Sidharth Lanka",
+    "college": "National Institute of Technology Karnataka",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-JOGQW": {
+    "name": "Lavudiya Rajashekar",
+    "college": "NIT Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ZXOVE": {
+    "name": "Ushas Thej Chenumalla",
+    "college": "National institute of technology Calicut",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-OSWGG": {
+    "name": "Athul Raj K",
+    "college": "NIT Surat",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-AJIDU": {
+    "name": "Aryan saxena",
+    "college": "NITC",
+    "events": ["Mr & Ms RAGAM", "Quiz College General", "Quiz College Sports"],
+    "date": ["2023-03-11", "2023-03-11", "2023-03-11"]
+  },
+  "R23-MEQPJ": {
+    "name": "SREELAL S",
+    "college": "TKM College Of Engineering  Kollam",
+    "events": ["Mappilapattu"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ZMXHU": {
+    "name": "Shane George Thomas",
+    "college": "Cochin University of Science and Technology",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-JRERQ": {
+    "name": "SIVAPRIYA K",
+    "college": "Govt. College of Engineering Kannur",
+    "events": ["Panache"],
+    "date": ["2023-03-10"]
+  },
+  "R23-RCXBU": {
+    "name": "Lekshmi Jyorhish",
+    "college": "Nit Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-IGGQO": {
+    "name": "BAGINESH M B",
+    "college": "TKM institute of technology",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-LRMXL": {
+    "name": "Nivin Prasad",
+    "college": "NIT Calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-JSTMN": {
+    "name": "M.Indumathi",
+    "college": "NIT Calicut",
+    "events": [
+      "Dumb Charades",
+      "Dumb Charades",
+      "Dumb Charades",
+      "Dumb Charades",
+      "Dumb Charades",
+      "Sketching"
+    ],
+    "date": [
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-12"
+    ]
+  },
+  "R23-HIDIK": {
+    "name": "Ershaad Parambath",
+    "college": "Nitc",
+    "events": ["Scene Stealers"],
+    "date": [""]
+  },
+  "R23-CAOTU": {
+    "name": "Pinaki Mishra",
+    "college": "IIM K",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-KGWGV": {
+    "name": "Nithin S Pillai",
+    "college": "College Of Engineering Chengannur",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-ZASTD": {
+    "name": "Libin K Biju",
+    "college": "Saintgits College Of Engineering",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-IRBHH": {
+    "name": "N. Yuvaraj",
+    "college": "Guru Nanak College",
+    "events": ["Mime", "Movie Spoof"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-BQSAR": {
+    "name": "VAISHNAV RAVEENDRAN",
+    "college": "Amrita Vishwa Vidyapeetham",
+    "events": ["Acoustics"],
+    "date": ["2023-03-12"]
+  },
+  "R23-LRSSF": {
+    "name": "Abab",
+    "college": "Saintgits college is engineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-HIQGY": {
+    "name": "Vignesh P K",
+    "college": "LMCST",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-WJDDQ": {
+    "name": "Muhamad Raneef",
+    "college": "Union Christian College  Aluva",
+    "events": ["Kolkali"],
+    "date": ["2023-02-11"]
+  },
+  "R23-BEMVY": {
+    "name": "Muhamad Shabin",
+    "college": "Marian College of Arts and Science",
+    "events": ["Cut Clash", "Short Film Competition (Students)"],
+    "date": ["", ""]
+  },
+  "R23-LGUSE": {
+    "name": "Aditya Harish",
+    "college": "NITK",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-WJRCG": {
+    "name": "Azad Anvar",
+    "college": "FISAT",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-AZLII": {
+    "name": "Athulya C A",
+    "college": "AISAT",
+    "events": [
+      "Crime Scene Investigation",
+      "Slam Poetry",
+      "Spell Bee",
+      "Treasure Hunt",
+      "What's The Good Word",
+      "Word Smith"
+    ],
+    "date": [
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-10",
+      "2023-03-10"
+    ]
+  },
+  "R23-TZIJQ": {
+    "name": "Alfina Shakes",
+    "college": "Mar Ivanios College",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-AUYJJ": {
+    "name": "Akash S",
+    "college": "Sree Narayana Institute of Technology",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-JURPB": {
+    "name": "MOHAMMED SABIR. K",
+    "college": "NITC",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-LQDRQ": {
+    "name": "Noel Philip",
+    "college": "College of Architecture Trivandrum",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-LRPHG": {
+    "name": "Mahendra Varma",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-AUPXR": {
+    "name": "Maria John",
+    "college": "National institute of technology Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-YGJNI": {
+    "name": "Neha S",
+    "college": "National Institute of Technology Calicut",
+    "events": ["Tal Se Tal Mila"],
+    "date": ["2023-03-12"]
+  },
+  "R23-QINEL": {
+    "name": "Muhammed Arshaque",
+    "college": "Duhss Panakkad",
+    "events": ["Duff Muttu"],
+    "date": ["2023-03-11"]
+  },
+  "R23-AJEKH": {
+    "name": "JOBIN JOY",
+    "college": "St. Joseph's College  Devagiri",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ZCQWA": {
+    "name": "Sanjai Chandrasekaran",
+    "college": "LV Prasad Film institute",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-OPOUF": {
+    "name": "Hanis Mohammed M",
+    "college": "College of engineering Trivandrum",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-HEPOU": {
+    "name": "Alen Vinoy",
+    "college": "Federal institute of science and technology",
+    "events": ["Beat Boxing"],
+    "date": ["2023-03-12"]
+  },
+  "R23-RVZCK": {
+    "name": "Sabyasachi Rahut",
+    "college": "National Institute of Technology Calicut Kerala",
+    "events": ["Classical Music Solo"],
+    "date": ["2023-03-11"]
+  },
+  "R23-JRUWA": {
+    "name": "Chaitali Debnath",
+    "college": "NIFT Kannur",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-AXCOO": {
+    "name": "Daniel",
+    "college": "NITC",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-YEUXK": {
+    "name": "Abijith R",
+    "college": "Nitc",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-WQLXY": {
+    "name": "Sidharth K Prasad",
+    "college": "NIT Calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-YJOPB": {
+    "name": "Anand",
+    "college": "GECBH",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-RBJXP": {
+    "name": "ROYLIN ROBERT",
+    "college": "DSEC",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-PYTCV": {
+    "name": "Anzal Nazar",
+    "college": "Younus College Of Engineering and Technology",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-LNPYR": {
+    "name": "Srinidhi Krishnan",
+    "college": "Adi Shankara Institute of Engineering and Technology",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-DKIDB": {
+    "name": "Suryadev S",
+    "college": "Sree Chitra Thirunal College Of Engineering Tvm",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-FHUHK": {
+    "name": "Suzzanne sadique",
+    "college": "Nitc",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-TZCCA": {
+    "name": "Maria Theresa Paulson",
+    "college": "FISAT",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-YPPUZ": {
+    "name": "Ummu habeeba A",
+    "college": "Markaz English medium school",
+    "events": ["Spell Bee", "Spell Bee"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-UZLBG": {
+    "name": "Athul P P",
+    "college": "NIT CALICUT",
+    "events": ["Mr & Ms RAGAM"],
+    "date": ["2023-03-11"]
+  },
+  "R23-BKWRW": {
+    "name": "Roshini Benson",
+    "college": "Saintgits College Of Engineering",
+    "events": ["Drama"],
+    "date": ["2023-03-12"]
+  },
+  "R23-CABEQ": {
+    "name": "Sourav B Raj",
+    "college": "College of engineering Chengannur",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-AQBLG": {
+    "name": "Sangeeth Jacob Shaji",
+    "college": "NITC",
+    "events": ["Cut Clash", "Debate", "Story Telling", "Treasure Hunt"],
+    "date": ["", "2023-03-10", "2023-03-12", "2023-03-11"]
+  },
+  "R23-ZSZYL": {
+    "name": "Deepak M. John",
+    "college": "Saintgits College of Engineering",
+    "events": [
+      "Mr & Ms RAGAM",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt"
+    ],
+    "date": [
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11"
+    ]
+  },
+  "R23-GMZCA": {
+    "name": "SNEHA JOE M",
+    "college": "NIT Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-OEZBR": {
+    "name": "Abheena Antony P",
+    "college": "SCMS School of Architecture",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-TEDXP": {
+    "name": "Anagha Ajay",
+    "college": "University of Kerala Campus",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-GEORB": {
+    "name": "Vinayan P A",
+    "college": "NIT CALICUT",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-CJSRL": {
+    "name": "Yadhukrishnan u",
+    "college": "Al ameen college edathala",
+    "events": ["Kolkali"],
+    "date": ["2023-02-11"]
+  },
+  "R23-ZIVCA": {
+    "name": "Prateek",
+    "college": "REVA university",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-WONMQ": {
+    "name": "HARIJITH K S",
+    "college": "Saintgits college of engineering",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-VVJBH": {
+    "name": "Eric Victor",
+    "college": "National institute of technology Calicut",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-MTKMI": {
+    "name": "Lina Suresh",
+    "college": "LBS INSTITUTE OF TECHNOLOGY FOR WOMEN",
+    "events": ["Pixel"],
+    "date": ["2023-03-12"]
+  },
+  "R23-DRSOA": {
+    "name": "PEDIREDLA GOWTHAM",
+    "college": "NIT CALICUT",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-WYMMI": {
+    "name": "Alen Denny",
+    "college": "FISAT",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-EWHKY": {
+    "name": "ravichandran",
+    "college": "loyola",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-RZLZQ": {
+    "name": "Rohit Kumar Parbat",
+    "college": "National Institute Of Technology  Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-WVBWZ": {
+    "name": "Samson Sony",
+    "college": "NIT Calicut",
+    "events": ["Debate", "Debate", "Rap Battle"],
+    "date": ["2023-03-10", "2023-03-10", "2023-03-12"]
+  },
+  "R23-TXHCF": {
+    "name": "adarsh thomas santhosh",
+    "college": "SCMS",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-EEKNC": {
+    "name": "Karthik Jayaram",
+    "college": "College of Engineering Trivandrum",
+    "events": ["Debate", "Just A Minute"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-FXXZH": {
+    "name": "Shanet Rose Mulavarickal",
+    "college": "FISAT",
+    "events": [
+      "Bharathanatyam",
+      "Classical Music Solo",
+      "Mappilapattu",
+      "Mono Act"
+    ],
+    "date": ["2023-03-12", "2023-03-11", "2023-03-11", ""]
+  },
+  "R23-HPAPJ": {
+    "name": "Anjali Sreenivas",
+    "college": "Saintgits College of engineering",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-KUQZK": {
+    "name": "Abhirami V. P",
+    "college": "SCMS School of architecture",
+    "events": ["Kavitha Prayanam"],
+    "date": ["2023-03-11"]
+  },
+  "R23-HDYDL": {
+    "name": "Amal Salam",
+    "college": "NIT Calicut",
+    "events": ["Just A Minute", "Word Smith"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-WPMGV": {
+    "name": "Ajay kumar p",
+    "college": "nit calicut",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-PVBLF": {
+    "name": "Mary Ann Mathew",
+    "college": "Avani Institute of Design",
+    "events": ["Just A Minute", "Just A Minute", "Mr & Ms RAGAM", "Reporter"],
+    "date": ["2023-03-10", "2023-03-10", "2023-03-11", "2023-03-10"]
+  },
+  "R23-CCCXJ": {
+    "name": "Treesa Renita Siji",
+    "college": "SCMS School of Architecture",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-PCLWP": {
+    "name": "Aman",
+    "college": "Ksid",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-RBJQJ": {
+    "name": "Anshika Sharma",
+    "college": "Nit Calicut",
+    "events": ["Sketching", "Sketching", "Sketching", "Spell Bee"],
+    "date": ["2023-03-12", "2023-03-12", "2023-03-12", "2023-03-10"]
+  },
+  "R23-RTEHP": {
+    "name": "Riya mariya joy",
+    "college": "Saintgits college of engineering",
+    "events": ["Western Solo", "Western Solo"],
+    "date": ["2023-03-12", "2023-03-12"]
+  },
+  "R23-RZCQR": {
+    "name": "Rahul R Kaimal",
+    "college": "Amrita Vishwa Vidyapeetham Amritapuri",
+    "events": ["Beat Boxing"],
+    "date": ["2023-03-12"]
+  },
+  "R23-IDYLU": {
+    "name": "SHARU R",
+    "college": "Saintgits College of Engineering",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-DGIWX": {
+    "name": "Aadithyn A S",
+    "college": "Mar Ivanios College",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-WBCKX": {
+    "name": "Sai Charith",
+    "college": "NIT CALICUT",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-YWCEO": {
+    "name": "Krishnanand Sagar",
+    "college": "Amal Jyothi College of Engineering",
+    "events": ["Cut Clash"],
+    "date": [""]
+  },
+  "R23-ZOADI": {
+    "name": "P.Sai Shritha",
+    "college": "Nit C",
+    "events": ["Tangled"],
+    "date": ["2023-03-11"]
+  },
+  "R23-JNSKC": {
+    "name": "Sarangi Muraleedas",
+    "college": "National Institute of Technology Calicut",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-WNPJF": {
+    "name": "Mayank Gupta",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-JNZAV": {
+    "name": "Safal M Samad",
+    "college": "Srm university",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-UEHUH": {
+    "name": "Chandrakant V Bellary",
+    "college": "NITC",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ALLMV": {
+    "name": "Aysha Jinan",
+    "college": "government engineering college palakkad",
+    "events": ["Mr & Ms RAGAM", "Standup Comedy"],
+    "date": ["2023-03-11", "2023-03-12"]
+  },
+  "R23-EFDGC": {
+    "name": "Surag Sudhi",
+    "college": "Nit calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-MKLWS": {
+    "name": "Prince",
+    "college": "NIL",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-EIFRQ": {
+    "name": "Tejaswini Shinde",
+    "college": "NIT CALICUT",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-JWKEG": {
+    "name": "Megha Ghosh",
+    "college": "NIT CALICUT",
+    "events": [
+      "Crime Scene Investigation",
+      "Eastern Solo",
+      "Mr & Ms RAGAM",
+      "Tangled"
+    ],
+    "date": ["2023-03-11", "2023-03-11", "2023-03-11", "2023-03-11"]
+  },
+  "R23-KLOOT": {
+    "name": "Mogullapally Sudheekshna",
+    "college": "Nit Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-EYCPG": {
+    "name": "Faris",
+    "college": "NITC",
+    "events": ["Alfaz"],
+    "date": ["2023-03-12"]
+  },
+  "R23-OJETT": {
+    "name": "Emmanuel Augustine",
+    "college": "College of engineering Trivandrum",
+    "events": ["Just A Minute", "Reporter"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-GVVYC": {
+    "name": "Ashwin",
+    "college": "Nitc",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-HIZEP": {
+    "name": "Alan Biju",
+    "college": "St. Joseph's College ( Autonomous )  Devagiri.",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-PZFRV": {
+    "name": "Sahil Habeeb",
+    "college": "University of Georgia",
+    "events": ["Rap Battle"],
+    "date": ["2023-03-12"]
+  },
+  "R23-VVBAQ": {
+    "name": "Mahadevan S",
+    "college": "National Institute of Technology  Calicut",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-XWWIS": {
+    "name": "Merin Sebastian",
+    "college": "Federal Institute of Science and Technology",
+    "events": ["Classical Music Solo", "Mappilapattu", "Mono Act"],
+    "date": ["2023-03-11", "2023-03-11", ""]
+  },
+  "R23-MTGGJ": {
+    "name": "shreya",
+    "college": "nitc",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-GAIAZ": {
+    "name": "THUSHAR GEETH M S",
+    "college": "Collage of Engineering Perumon",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-NLRWW": {
+    "name": "Amina M.K",
+    "college": "Nitc Calicut",
+    "events": ["Kavitha Prayanam"],
+    "date": ["2023-03-11"]
+  },
+  "R23-FRRUF": {
+    "name": "S HARIS",
+    "college": "Nit Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-KXGBX": {
+    "name": "Ananthu Satheesh S",
+    "college": "Mar Gregorios college of law",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-UMIFB": {
+    "name": "Akhila Vincent",
+    "college": "St. Joseph's college  Devagiri  kozhikode",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ABXWW": {
+    "name": "Shivam maheshwari",
+    "college": "Nit calicut",
+    "events": ["Story Telling"],
+    "date": ["2023-03-12"]
+  },
+  "R23-NWTHV": {
+    "name": "Surya Narayanan",
+    "college": "Mahaguru institute of technology",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-FFMDA": {
+    "name": "Atul nagaraj Nambiar",
+    "college": "Lbs college of engineering",
+    "events": ["Beat Boxing"],
+    "date": ["2023-03-12"]
+  },
+  "R23-DBPZZ": {
+    "name": "Shalin John Mathews",
+    "college": "NITC",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-EHLTS": {
+    "name": "Alan Jacob Bijoy",
+    "college": "Lourde matha of  science and technology",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-DNVDL": {
+    "name": "Hamna Sherif",
+    "college": "SCMS school of architecture",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-KTXYC": {
+    "name": "Gouri S Kumar",
+    "college": "College of Engineering Perumon",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-ABWZZ": {
+    "name": "Akash S B",
+    "college": "College Of Engineering  Thiruvanthapuram",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-TEWIR": {
+    "name": "Abel Mani Roy",
+    "college": "NIT calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-YFJJE": {
+    "name": "Madhav Menon",
+    "college": "National Institute of Technology Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-VZVPE": {
+    "name": "Abhirav",
+    "college": "College of engineering adoor",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-BWFHD": {
+    "name": "Adwaith AP",
+    "college": "College of engineering Trivandrum",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-SVLRY": {
+    "name": "Nishitha",
+    "college": "Nit Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-IYYWW": {
+    "name": "Ayisha shahana at",
+    "college": "Mes college of arts and sciences",
+    "events": ["Oppana"],
+    "date": ["2023-03-12"]
+  },
+  "R23-QXYRS": {
+    "name": "Abhishek S Thampy",
+    "college": "ASIET Kalady",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-WUAQT": {
+    "name": "DHANIYEL DARVESH",
+    "college": "MAMO COLLEGE",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-UJKVE": {
+    "name": "Nirmal Shibu",
+    "college": "NITC",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-RRSNL": {
+    "name": "Bharat Godara",
+    "college": "Nit Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-BFFRK": {
+    "name": "Anup S",
+    "college": "NITC",
+    "events": ["Pixel"],
+    "date": ["2023-03-12"]
+  },
+  "R23-KLOMW": {
+    "name": "Gautham Adithya",
+    "college": "NIT CALICUT",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-IWKAI": {
+    "name": "Abhishek MS",
+    "college": "Lourdes Matha College",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-OPWRG": {
+    "name": "Alby",
+    "college": "lourdes matha college of science and technology",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-WIRZC": {
+    "name": "ANOODSUNIL",
+    "college": "VKCET",
+    "events": ["Quiz College Sports"],
+    "date": ["2023-03-11"]
+  },
+  "R23-KGKEZ": {
+    "name": "Abhishek",
+    "college": "RSET",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-QZZVS": {
+    "name": "Joel Pat David",
+    "college": "College of Engineering Trivandrum",
+    "events": ["Improv", "Western Solo", "Western Solo"],
+    "date": ["2023-03-12", "2023-03-12", "2023-03-12"]
+  },
+  "R23-IACKT": {
+    "name": "A M MUHAMMED AMEER",
+    "college": "Saintgits College Of f Engineering ngineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-VIAMY": {
+    "name": "Madhavi M Nair",
+    "college": "Amrita Vishwa Vidyapeetham  Coimbatore",
+    "events": ["Eastern Solo", "Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-11", "2023-03-10"]
+  },
+  "R23-XFFMQ": {
+    "name": "Abhinav Rajesh",
+    "college": "NITC",
+    "events": ["Movie Spoof"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ONIZL": {
+    "name": "VARANASI SRI SITARAM KOWSHIK",
+    "college": "NIT CALICUT",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-YXWOX": {
+    "name": "Mayank Bisht",
+    "college": "NIT Calicut",
+    "events": [
+      "Alfaz",
+      "Debate",
+      "Eastern Solo",
+      "Improv",
+      "Just A Minute",
+      "Mr & Ms RAGAM",
+      "Slam Poetry",
+      "Story Telling",
+      "Word Smith"
+    ],
+    "date": [
+      "2023-03-12",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-12",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-12",
+      "2023-03-10"
+    ]
+  },
+  "R23-LBADO": {
+    "name": "Pawan Vigil",
+    "college": "Vidya academy of science and technology",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-POXTJ": {
+    "name": "Sinchan Dutta",
+    "college": "FISAT",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-NOCON": {
+    "name": "Jeffin C Bency",
+    "college": "TKM College of Engineering",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-WCSAT": {
+    "name": "Sreelakshmi EV",
+    "college": "Government Engineering college Thrissur",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-KYDFW": {
+    "name": "Avinash Kumar v",
+    "college": "Fathima Mata National College",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-PKAIE": {
+    "name": "K Charukesh",
+    "college": "National institute of technology Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-XOFXQ": {
+    "name": "Rishikesh rs",
+    "college": "Mohandas college of engineering and technology",
+    "events": [
+      "Short Film Competition (Professionals)",
+      "Short Film Competition (Students)"
+    ],
+    "date": ["", ""]
+  },
+  "R23-MYEZY": {
+    "name": "Soumyakanta Sahoo",
+    "college": "NITK",
+    "events": ["Crime Scene Investigation", "Mock Court"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-XTAWA": {
+    "name": "Basil Eldho",
+    "college": "College of engineering Chengannur",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-EORXM": {
+    "name": "Haripriya P Nambiar",
+    "college": "Mar Ivanios",
+    "events": ["Kavitha Prayanam"],
+    "date": ["2023-03-11"]
+  },
+  "R23-QAOOQ": {
+    "name": "Anukul Nidhi",
+    "college": "NIT Calicut",
+    "events": ["String Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-HDTED": {
+    "name": "M Krishnaprasad Varma",
+    "college": "NITC",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-RCCTE": {
+    "name": "Kevin lalu",
+    "college": "SJCET",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-RWVIC": {
+    "name": "Christine Maria Jose",
+    "college": "Amal Jyothi College Of Engineering",
+    "events": ["Quiz Open Mela"],
+    "date": ["2023-03-12"]
+  },
+  "R23-NCAEO": {
+    "name": "GANGINENI VARSHITH",
+    "college": "NIT CALICUT",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-HTLLG": {
+    "name": "Rohit Paul John",
+    "college": "NIT  Calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-NUBSL": {
+    "name": "Ashly Varghese Menachery",
+    "college": "Bharat Mata School of Legal Studies",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-KYKPJ": {
+    "name": "Sabitha salim",
+    "college": "Csl thodupuzha",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-NZZNA": {
+    "name": "Roshan Koshy Jose",
+    "college": "Govt. Model Engineering College",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-UYGMN": {
+    "name": "Sethu B",
+    "college": "ST Aloysius college",
+    "events": ["Standup Comedy"],
+    "date": ["2023-03-12"]
+  },
+  "R23-LESFS": {
+    "name": "FATHIMA LIYANA",
+    "college": "CO OPERATIVE SCHOOL OF LAW",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-RPUOZ": {
+    "name": "Thejaswini S",
+    "college": "National Institute of technology Calicut",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-KIAHD": {
+    "name": "Haripriya K Prakasan",
+    "college": "Government Engineering College Sreekrishnapuram",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-AIZHP": {
+    "name": "Nandapriya T",
+    "college": "Christ College (Autonomous) irinjalakuda",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-PFPRW": {
+    "name": "Shanid",
+    "college": "MES Arts and science collage  naravoor  koothparamb",
+    "events": ["Kolkali"],
+    "date": ["2023-02-11"]
+  },
+  "R23-ZQQXN": {
+    "name": "Mihir",
+    "college": "CET Trivandrum",
+    "events": ["Reporter"],
+    "date": ["2023-03-10"]
+  },
+  "R23-QMZVY": {
+    "name": "GOPIKA C",
+    "college": "GEC Palakkad",
+    "events": ["Mono Act"],
+    "date": [""]
+  },
+  "R23-ZGOPH": {
+    "name": "Ananthu M P",
+    "college": "College Of Engineering Chegannur",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-ICKGI": {
+    "name": "Sajeev R",
+    "college": "MAR BASELIOS COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-DFFZA": {
+    "name": "Muhammad Zashil",
+    "college": "NIT-C",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-OVQRV": {
+    "name": "Naif N",
+    "college": "NITC",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-PPPKE": {
+    "name": "Akash P",
+    "college": "NITC",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-IUMFZ": {
+    "name": "Sarah Susan Denise",
+    "college": "MBCET",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ELUUV": {
+    "name": "Sibi Saravanan",
+    "college": "IIT Madras",
+    "events": ["Scene Stealers"],
+    "date": [""]
+  },
+  "R23-RWBQY": {
+    "name": "ch kamal",
+    "college": "Amrita vishwavidhya peetham",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-RZCNM": {
+    "name": "Jithu Anna Thomas",
+    "college": "Saintgits College of Engineering",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ZIEAB": {
+    "name": "G.Naga Sai Puji",
+    "college": "Nitc",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-INELX": {
+    "name": "Yasir",
+    "college": "National institute of technology Calicut",
+    "events": ["Just A Minute"],
+    "date": ["2023-03-10"]
+  },
+  "R23-KFVUH": {
+    "name": "Swathi pradeepan p",
+    "college": "Kmct college of engineering",
+    "events": ["Kavitha Prayanam"],
+    "date": ["2023-03-11"]
+  },
+  "R23-FTHTA": {
+    "name": "Fareeb k",
+    "college": "Mic college athanikal",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-PLMBT": {
+    "name": "P.Varun",
+    "college": "nit calicut",
+    "events": ["Tangled"],
+    "date": ["2023-03-11"]
+  },
+  "R23-DSGMW": {
+    "name": "Munzir",
+    "college": "NITC",
+    "events": ["Crime Scene Investigation", "Treasure Hunt", "Western Solo"],
+    "date": ["2023-03-11", "2023-03-11", "2023-03-12"]
+  },
+  "R23-VTFRF": {
+    "name": "Akhil",
+    "college": "St. Albert college",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-AMRAY": {
+    "name": "Adheela S",
+    "college": "College of engineering perumon",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-BEBMQ": {
+    "name": "Joel Regi Thomas",
+    "college": "NITC",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-NHWFG": {
+    "name": "Surya",
+    "college": "Amrita Vishwa Vidyapeetham",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-IFFFJ": {
+    "name": "Renit Thomas Sebastian",
+    "college": "Saintgits college of engineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-LJDLP": {
+    "name": "GADI KEDHAREESWAR",
+    "college": "NITC",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-OKQKT": {
+    "name": "A Veda Mokshajna",
+    "college": "NITC",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-RDIYP": {
+    "name": "Subith Sathisha",
+    "college": "National institute of technology Karnataka surathkhal",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-AZVGS": {
+    "name": "Aditya Acura",
+    "college": "Nit Calicuy",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-UXHWB": {
+    "name": "SREELAKAHMI C C",
+    "college": "AMAL JYOTHI COLLEGE OF ENGINEERING",
+    "events": ["Mono Act"],
+    "date": [""]
+  },
+  "R23-MMYRZ": {
+    "name": "Parvathi Ambareesh",
+    "college": "Rajagiri School of Engineering & Technology",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-MQXDJ": {
+    "name": "Sagar S",
+    "college": "Amrita Vishwa Vidyapeetham",
+    "events": ["Beat Boxing"],
+    "date": ["2023-03-12"]
+  },
+  "R23-DIROR": {
+    "name": "Meenakshi Prakash",
+    "college": "Cooperative school of law",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ZSSKJ": {
+    "name": "Kota.HarshaVardhan",
+    "college": "NITC",
+    "events": ["Dumb Charades", "Dumb Charades", "Dumb Charades"],
+    "date": ["2023-03-10", "2023-03-10", "2023-03-10"]
+  },
+  "R23-XYFPH": {
+    "name": "DASARI NAGA KIRAN BABU",
+    "college": "NIT CALICUT",
+    "events": ["Dumb Charades", "Treasure Hunt"],
+    "date": ["2023-03-10", "2023-03-11"]
+  },
+  "R23-QCGFO": {
+    "name": "J S VIVEK",
+    "college": "Mahaguru Institute of Technology",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-PYHQE": {
+    "name": "Suzanne James",
+    "college": "College of Engineering Chengannur",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-CAQHW": {
+    "name": "Rohan K",
+    "college": "National Institute Of Technology  Calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-KNIEN": {
+    "name": "Karri Lahari",
+    "college": "Nitc",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-YXIHE": {
+    "name": "Harikrishnan H",
+    "college": "Saintgits college of engineering",
+    "events": [
+      "Mr & Ms RAGAM",
+      "Mr & Ms RAGAM",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt",
+      "Treasure Hunt"
+    ],
+    "date": [
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11",
+      "2023-03-11"
+    ]
+  },
+  "R23-IHBQQ": {
+    "name": "Boyina Yuktha",
+    "college": "National Institute of Technology Calicut",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-IRDNO": {
+    "name": "MUHIL S K",
+    "college": "Amrita Vishva Vidhyapeetham",
+    "events": ["Pixel"],
+    "date": ["2023-03-12"]
+  },
+  "R23-ZZOXQ": {
+    "name": "Akhil s vijay",
+    "college": "Rajendra institute of medical science",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-ZNKOE": {
+    "name": "Prathith Chivukula",
+    "college": "College of Engineering Trivandrum",
+    "events": ["Quiz College General", "Quiz College Sports"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-ERHKC": {
+    "name": "Nibin Bv",
+    "college": "Vimal jyothil engineering college kannur",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-WWSMS": {
+    "name": "Afrad Muhamed Basheer",
+    "college": "University of Technology Sydney",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-FSJAQ": {
+    "name": "Avanthika Rajesh",
+    "college": "Amrita Vishwa Vidyapeetham",
+    "events": ["Tangled"],
+    "date": ["2023-03-11"]
+  },
+  "R23-BAKKW": {
+    "name": "Harshavardhan Thunikipati",
+    "college": "NITC",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-NJXWJ": {
+    "name": "B Gokul krishna",
+    "college": "Model engineering college  thrikkakara",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-JHMXZ": {
+    "name": "ADITHIYAN R",
+    "college": "NIT CALICUT",
+    "events": ["Kavitha Prayanam", "Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-11", "2023-03-10"]
+  },
+  "R23-LEGDH": {
+    "name": "GADHA G",
+    "college": "Government Engineering college Thrissur",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-BNDFX": {
+    "name": "Benjamin Francis",
+    "college": "Amal Jyothi College of Engineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-VIXMQ": {
+    "name": "Amal Zakkaria",
+    "college": "YOUNUS COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-OHJJE": {
+    "name": "Satya Prakash Palai",
+    "college": "NIT Calicut",
+    "events": ["Mr & Ms RAGAM"],
+    "date": ["2023-03-11"]
+  },
+  "R23-YLAMW": {
+    "name": "Mahek Mahesh Rukadikar",
+    "college": "NIT Calicut",
+    "events": ["Crime Scene Investigation", "Improv", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-12", "2023-03-11"]
+  },
+  "R23-XZIOI": {
+    "name": "Siya U K",
+    "college": "KMCT college of engineering",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-BSEHI": {
+    "name": "RONALDO BIJU",
+    "college": "NIT CALICUT",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-XJEEH": {
+    "name": "Nandhurkrishna S",
+    "college": "NIT calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-XTKQK": {
+    "name": "Afreen Anish",
+    "college": "Nit Calicut",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-RSHWJ": {
+    "name": "Ananya Raju",
+    "college": "NITC",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-YVTEM": {
+    "name": "Nazra Muhad",
+    "college": "Nit calicut",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-CURNX": {
+    "name": "DEVIKA RAJEEV P.",
+    "college": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
+    "events": ["Slam Poetry", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-HPOII": {
+    "name": "Anjitha K Sundar",
+    "college": "Mar Baselios College of Engineering  Thiruvananthapuram",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-PJLFZ": {
+    "name": "Rishana C",
+    "college": "St. Joseph's college (Autonomous ) Devagiri  Kozhikode",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-BCNDX": {
+    "name": "RISHIKESH T NAIR",
+    "college": "Amrita School of Engineering  Amritapuri",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-YQVSH": {
+    "name": "Karthik B",
+    "college": "SCTCE",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-MMNCW": {
+    "name": "Gokul m",
+    "college": "SCMS SCHOOL OF ARCHITECTURE",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-EIVXI": {
+    "name": "KOUSIK",
+    "college": "NITC",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-CGXXM": {
+    "name": "Melvin Manoj",
+    "college": "NIT CALICUT",
+    "events": ["Debate", "Debate"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-WRODK": {
+    "name": "Devu P Das",
+    "college": "NIT CALICUT",
+    "events": ["Face To Face", "Sketching"],
+    "date": ["2023-03-12", "2023-03-12"]
+  },
+  "R23-KECLT": {
+    "name": "Avanthika V",
+    "college": "Al Irshad Arts And Science College For Women Omessery",
+    "events": ["Kavitha Prayanam", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-NBBQB": {
+    "name": "Jyotsna Raja",
+    "college": "NIT Calicut",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-IREFP": {
+    "name": "Goutham Krishna. S",
+    "college": "St. Joseph's College  Devagiri",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-VCRIT": {
+    "name": "ASHIR VP",
+    "college": "VIT Vellore",
+    "events": ["Quiz College Sports"],
+    "date": ["2023-03-11"]
+  },
+  "R23-DWNPQ": {
+    "name": "Nasnas N",
+    "college": "Ss",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-IUKKR": {
+    "name": "Rabeeh p",
+    "college": "Mamo college",
+    "events": ["Kolkali"],
+    "date": ["2023-02-11"]
+  },
+  "R23-DTMBR": {
+    "name": "Rahul Meena",
+    "college": "NIT Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-KLNZE": {
+    "name": "Vinay",
+    "college": "Nit Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-HQWTM": {
+    "name": "atheena p r",
+    "college": "college of engineering  trivandrum",
+    "events": ["Just A Minute"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ABBLJ": {
+    "name": "Sudeep.P.S",
+    "college": "Adi Shankara Institute Of Engineering And Technology",
+    "events": [
+      "Anthakshari",
+      "Anthakshari",
+      "Dumb Charades",
+      "Kavitha Prayanam",
+      "Treasure Hunt"
+    ],
+    "date": [
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-11"
+    ]
+  },
+  "R23-OTOQT": {
+    "name": "Sita",
+    "college": "National institute of technology calicut",
+    "events": ["Mr & Ms RAGAM"],
+    "date": ["2023-03-11"]
+  },
+  "R23-TJFEX": {
+    "name": "Akshay Anil",
+    "college": "TKM college of engineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-EHLEF": {
+    "name": "viraj naikade",
+    "college": "seamedu college",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-XCHVM": {
+    "name": "Abhiram.S",
+    "college": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING  TRIVANDRUM",
+    "events": [
+      "Classical Music Solo",
+      "Rajan Memorial Light Music Competition"
+    ],
+    "date": ["2023-03-11", "2023-03-10"]
+  },
+  "R23-LWENI": {
+    "name": "ARVIN JOSEPH",
+    "college": "Toc H Institute of Science and Technology",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-WOFMU": {
+    "name": "SREELAKSHMI P V",
+    "college": "CO OPERATIVE SCHOOL OF LAW",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ISJGT": {
+    "name": "Aleena Mary George",
+    "college": "NITC",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-GISUM": {
+    "name": "Augusto Varghese",
+    "college": "Amal Jyothi College of Engineering Kanjirapally",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-XVOWV": {
+    "name": "sachin sahadev",
+    "college": "Thunchath Ezhuthachan Malayalam University",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-OFYGX": {
+    "name": "TIARA VIJU",
+    "college": "National institute of technology Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-QBPCT": {
+    "name": "Sarah Elizabeth Paul",
+    "college": "Nit Calicut",
+    "events": [
+      "Crime Scene Investigation",
+      "Dance off",
+      "Dumb Charades",
+      "Sketching"
+    ],
+    "date": ["2023-03-11", "", "2023-03-10", "2023-03-12"]
+  },
+  "R23-PVJVU": {
+    "name": "Sanjai.C.Babu",
+    "college": "AISAT",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-JJCPR": {
+    "name": "Akshit",
+    "college": "NITC",
+    "events": ["Debate", "Dumb Charades"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-TMPJZ": {
+    "name": "Johann B Simon",
+    "college": "NITC",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-EWDNL": {
+    "name": "Kadali Sai Sri Ram",
+    "college": "NitC",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-NPWEH": {
+    "name": "Satwik Gadanayak",
+    "college": "Nitc",
+    "events": ["Panache"],
+    "date": ["2023-03-10"]
+  },
+  "R23-LZIVY": {
+    "name": "Amen Noushad",
+    "college": "Nitc",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-OSBTE": {
+    "name": "Aravind A",
+    "college": "SREE CHITHRA THIRUNAL COLLEGE OF ENGINERRING   PAPPANAMCODE   TVM",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-RHXLJ": {
+    "name": "Adith Binu",
+    "college": "College of engineering trivandrum",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-AUYQG": {
+    "name": "Suvardhan Dileep",
+    "college": "NIT Calicit",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-ZQVWJ": {
+    "name": "Kirtan kumar",
+    "college": "NIT calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-IJRUX": {
+    "name": "Neeraj  ER",
+    "college": "Infratech Thrissur",
+    "events": ["Dance off", "Freestyle"],
+    "date": ["", "2023-03-11"]
+  },
+  "R23-JHAUR": {
+    "name": "Mohammed safwan",
+    "college": "Lbscek",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-SVXVN": {
+    "name": "RIYANA SOSA CHERIYAN",
+    "college": "ALBERTIAN INSTITUTE OF SCIENCE AND TECHNOLOGY KALAMASSERY",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-ONWKC": {
+    "name": "Jameer KB",
+    "college": "Open",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-YXXYX": {
+    "name": "Abhinav C",
+    "college": "Sree sankaracharya University of Sanskrit kalady",
+    "events": ["Mime"],
+    "date": ["2023-03-11"]
+  },
+  "R23-OKUKS": {
+    "name": "Mithun Krishna",
+    "college": "College of engineering attingal",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-MBACQ": {
+    "name": "Vinay",
+    "college": "Nit Calicut",
+    "events": ["Dumb Charades", "Dumb Charades"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-KNHXX": {
+    "name": "Munawer ahammed kv",
+    "college": "IUHSS Parappur",
+    "events": ["Duff Muttu"],
+    "date": ["2023-03-11"]
+  },
+  "R23-WGSCA": {
+    "name": "Rohit Raj",
+    "college": "YCET",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-PXUZC": {
+    "name": "Althaf Muhammad",
+    "college": "TKM COLLEGE OF ENGINEERING",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-NTOVE": {
+    "name": "Previa k r",
+    "college": "Maharajas collage",
+    "events": ["Debate", "Just A Minute"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-QMIPE": {
+    "name": "Joshua Mani Vinod",
+    "college": "NIT Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-BQEDL": {
+    "name": "Jaseena Arif",
+    "college": "Presidency Universal",
+    "events": ["String Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-VFPSS": {
+    "name": "SHYAM KRISHNA M",
+    "college": "TKMCE KOLLAM",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-FJUTQ": {
+    "name": "Nirupam Shibu",
+    "college": "CET Trivandrum",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-KNMHX": {
+    "name": "VIDHUKRISHNAN",
+    "college": "NIT CALICUT",
+    "events": ["Mr & Ms RAGAM"],
+    "date": ["2023-03-11"]
+  },
+  "R23-VGJXJ": {
+    "name": "Stafan Kuttikal Santhosh",
+    "college": "National Institute of Technology Karnataka",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-BTBSD": {
+    "name": "Allam Sri Sai raghavendra bhoopathi",
+    "college": "Nitc",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-CYTEQ": {
+    "name": "Hiba pp",
+    "college": "Mes art and science college",
+    "events": ["Salt n Pepper"],
+    "date": ["2023-03-12"]
+  },
+  "R23-NYODW": {
+    "name": "Akash Babu",
+    "college": "Saintgits College of Engineering Kottayam",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-PIWGC": {
+    "name": "Arya EH",
+    "college": "scms school of architecture",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-CPCFU": {
+    "name": "Abhijith AM",
+    "college": "Trinity College of engineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-OGQBE": {
+    "name": "Viswas Viswam",
+    "college": "Open",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-ZLSDW": {
+    "name": "Alex Moby",
+    "college": "NITK Surathkal",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-PXXSE": {
+    "name": "Akhilesh A",
+    "college": "LMCST",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-FNWCT": {
+    "name": "Mubashira sulthana",
+    "college": "MES arts and science collage",
+    "events": ["Salt n Pepper"],
+    "date": ["2023-03-12"]
+  },
+  "R23-LIXVV": {
+    "name": "Shakkeel MP",
+    "college": "NIT Calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-SIYXW": {
+    "name": "Asish p j",
+    "college": "Government engineering college thrissur",
+    "events": ["Freestyle"],
+    "date": ["2023-03-11"]
+  },
+  "R23-NAGIS": {
+    "name": "Gowri Nair",
+    "college": "NITC",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-RJAXP": {
+    "name": "Pavithra",
+    "college": "Amrita Vishwa Vidh",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-AXXEB": {
+    "name": "",
+    "college": "",
+    "events": ["Crime Scene Investigation", "Tangled"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-HITAH": {
+    "name": "Mopuri Lakshmi Sai Rajesh",
+    "college": "Fiitjee",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-CCOHI": {
+    "name": "Khushboo Vaish",
+    "college": "NIFT  KANNUR",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-ROIET": {
+    "name": "Joel Peter Joesph",
+    "college": "Sree Chitra Thirunal College Of Engineering",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-OROYC": {
+    "name": "Juan T.S",
+    "college": "NASC",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-TQFMZ": {
+    "name": "Nikitha K Mathew",
+    "college": "NIT Calicut",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-TEQPF": {
+    "name": "BINSHADH BASHEER",
+    "college": "NITC",
+    "events": ["Just A Minute"],
+    "date": ["2023-03-10"]
+  },
+  "R23-RQZIY": {
+    "name": "Jamsheed. M. K",
+    "college": "NIT Calicut",
+    "events": ["Just A Minute", "Mr & Ms RAGAM"],
+    "date": ["2023-03-10", "2023-03-11"]
+  },
+  "R23-APLZB": {
+    "name": "Kedar R Menon",
+    "college": "Amrita Vishwa Vidyapeetham Coimbatore",
+    "events": [
+      "Eastern Solo",
+      "Rajan Memorial Light Music Competition",
+      "Western Solo"
+    ],
+    "date": ["2023-03-11", "2023-03-10", "2023-03-12"]
+  },
+  "R23-OMKJC": {
+    "name": "K.nishanth.reddy",
+    "college": "Nit calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-XXSXT": {
+    "name": "Aayisha S Ahamed",
+    "college": "NIT CALICUT",
+    "events": ["Kavitha Prayanam"],
+    "date": ["2023-03-11"]
+  },
+  "R23-CNXMM": {
+    "name": "Amara.vyshnavi",
+    "college": "Nit Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-TBCTI": {
+    "name": "Mitha. P",
+    "college": "College of engineering Vadakara",
+    "events": ["Chroma", "Face To Face"],
+    "date": ["", "2023-03-12"]
+  },
+  "R23-RHTCY": {
+    "name": "Sooryakanth",
+    "college": "SCMS school of architecture",
+    "events": ["Kavitha Prayanam"],
+    "date": ["2023-03-11"]
+  },
+  "R23-XRMZD": {
+    "name": "Adarsh Abraham Johnson",
+    "college": "TIST",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-KCKNJ": {
+    "name": "Praveena P Sreekumar",
+    "college": "Adi Shankara Institute of Technology  Kalady",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-DCPVV": {
+    "name": "B. Veera Uday Sankar",
+    "college": "Nitc",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-RBCIQ": {
+    "name": "Thomas Biju",
+    "college": "Adoor enginering college",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-VIYOS": {
+    "name": "sanju ganesh",
+    "college": "AVANI INSTITUTE OF DESIGN",
+    "events": ["Acoustics"],
+    "date": ["2023-03-12"]
+  },
+  "R23-DVUTT": {
+    "name": "Basil Joshua Reji",
+    "college": "College of Engineering Trivandrum",
+    "events": [
+      "Dance off",
+      "Improv",
+      "Just A Minute",
+      "Mr & Ms RAGAM",
+      "Standup Comedy"
+    ],
+    "date": ["", "2023-03-12", "2023-03-10", "2023-03-11", "2023-03-12"]
+  },
+  "R23-FUMKB": {
+    "name": "Nikhil Vijay",
+    "college": "NIT Trichy",
+    "events": [
+      "Anthakshari",
+      "Drama",
+      "Dumb Charades",
+      "Eastern Solo",
+      "Improv",
+      "Standup Comedy",
+      "Treasure Hunt",
+      "Western Solo"
+    ],
+    "date": [
+      "2023-03-10",
+      "2023-03-12",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-12",
+      "2023-03-12",
+      "2023-03-11",
+      "2023-03-12"
+    ]
+  },
+  "R23-AWXDR": {
+    "name": "PIRLA MOKSHAGNA SUHAS",
+    "college": "NIT CALICUT",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-XZWFA": {
+    "name": "Greeshma",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-TGUZD": {
+    "name": "Gautham Krishna J L",
+    "college": "Mar Ivanios College",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-BOYOM": {
+    "name": "Alvin Varghese",
+    "college": "Rajiv Gandhi Institute of Technology Kottayam",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-YTGVY": {
+    "name": "Harith Hussain",
+    "college": "SCT COLLEGE OF ENGINEERING",
+    "events": ["Eastern Solo", "String Solo", "Western Solo", "Western Solo"],
+    "date": ["2023-03-11", "2023-03-12", "2023-03-12", "2023-03-12"]
+  },
+  "R23-LLPUQ": {
+    "name": "Amogh",
+    "college": "NIT Calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-MVNVE": {
+    "name": "Jishnu H Nambiar",
+    "college": "Amrita vishwa vidyapeetam",
+    "events": ["Beat Boxing"],
+    "date": ["2023-03-12"]
+  },
+  "R23-GLUYF": {
+    "name": "Deepak",
+    "college": "NITC",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-XRBDE": {
+    "name": "Joey",
+    "college": "College of Engineering Kalloopara",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-IZQUR": {
+    "name": "Geethanjali Manoj Kumar",
+    "college": "National Institute of Technology Karnataka",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-BQMOL": {
+    "name": "Elizabeth Thomas",
+    "college": "Mar Ivanios College",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-WISVV": {
+    "name": "Abdul Rahiman PP",
+    "college": "SCMS SCHOOL OF ARCHITECTURE",
+    "events": ["Mappilapattu", "Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-11", "2023-03-10"]
+  },
+  "R23-LULCL": {
+    "name": "Akhil das M",
+    "college": "Lissah college kaithapoyil",
+    "events": ["Mono Act"],
+    "date": [""]
+  },
+  "R23-VVFAU": {
+    "name": "PARVATHI B.",
+    "college": "NITC",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-IBERS": {
+    "name": "Akash S",
+    "college": "Government Medical College Kottayam",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-VQRLZ": {
+    "name": "B.HARSHA VARDHAN",
+    "college": "NITC",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-MDIYJ": {
+    "name": "abhay pratap singh",
+    "college": "nit calicut",
+    "events": ["Rap Battle"],
+    "date": ["2023-03-12"]
+  },
+  "R23-NTGXV": {
+    "name": "Ahammad Razi",
+    "college": "Goverment Law College Kozhikode",
+    "events": ["Crime Scene Investigation", "Mock Court", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11", "2023-03-11"]
+  },
+  "R23-KLGLG": {
+    "name": "Afshan abbas",
+    "college": "NITC",
+    "events": ["Beat Boxing"],
+    "date": ["2023-03-12"]
+  },
+  "R23-AMAMA": {
+    "name": "Arpana B M",
+    "college": "NITC",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-MRELY": {
+    "name": "Maloth Priyanka",
+    "college": "Nit Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-WYFAJ": {
+    "name": "Amala Saju",
+    "college": "Albertian Institute of Science and Technology Kalamassery",
+    "events": [
+      "Anthakshari",
+      "Crime Scene Investigation",
+      "Salt n Pepper",
+      "Slam Poetry",
+      "Spell Bee",
+      "Treasure Hunt",
+      "What's The Good Word",
+      "Word Smith"
+    ],
+    "date": [
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-12",
+      "2023-03-11",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-10",
+      "2023-03-10"
+    ]
+  },
+  "R23-VKVEV": {
+    "name": "Nandana krishnan",
+    "college": "Saintgits college of engineering",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-FATPK": {
+    "name": "Sreyams",
+    "college": "MA College of Engineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-NGCKQ": {
+    "name": "Nayana Unnikrishnan",
+    "college": "Federal institute of science and technology",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-PLGFJ": {
+    "name": "Muhammed Junaid kv",
+    "college": "Mes college of engineering kuttipuram",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-EXPQZ": {
+    "name": "Adarsh Krishnadas",
+    "college": "NIL",
+    "events": ["Short Film Competition (Professionals)"],
+    "date": [""]
+  },
+  "R23-QRZZP": {
+    "name": "baddukonda rohan sathwik",
+    "college": "NIT CALICUT",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-WJURU": {
+    "name": "Govind N",
+    "college": "NIT CALICUT",
+    "events": [
+      "Crime Scene Investigation",
+      "Quiz College Sports",
+      "Quiz Open Mela",
+      "Treasure Hunt"
+    ],
+    "date": ["2023-03-11", "2023-03-11", "2023-03-12", "2023-03-11"]
+  },
+  "R23-OEITI": {
+    "name": "Maram priyanka",
+    "college": "Nitc",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-FBRRI": {
+    "name": "Paulson Mattekkatt",
+    "college": "Federal Institute of Science And Technology Mookkannoor",
+    "events": ["Chroma"],
+    "date": [""]
+  },
+  "R23-CANQS": {
+    "name": "Aravind Suresh",
+    "college": "College of Engineering Trivandrum",
+    "events": ["Quiz College General", "Quiz College Sports"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-BVSLY": {
+    "name": "Godwin Paul",
+    "college": "Vimal Jyothi Engineering College",
+    "events": ["Beat Boxing"],
+    "date": ["2023-03-12"]
+  },
+  "R23-SDOQV": {
+    "name": "Mukala Balaji",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-HOKZH": {
+    "name": "Gokul Krishna A U",
+    "college": "Amal Jyothi",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-SHDMN": {
+    "name": "Sanjay john tommy",
+    "college": "NITC",
+    "events": ["Just A Minute"],
+    "date": ["2023-03-10"]
+  },
+  "R23-CHXRC": {
+    "name": "Jerrill Shaji",
+    "college": "Saintgits College of Engineering",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-HOYSG": {
+    "name": "Kavya Gangwar",
+    "college": "National Institute of technology calicut",
+    "events": ["Anthakshari", "Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-10", "2023-03-11", "2023-03-11"]
+  },
+  "R23-YIAXI": {
+    "name": "Kevin Paul Babu",
+    "college": "Adi Shankara Institute of Engineering and Technology",
+    "events": ["Freestyle", "Panache"],
+    "date": ["2023-03-11", "2023-03-10"]
+  },
+  "R23-QVFUN": {
+    "name": "Abhishek Joy",
+    "college": "College of engineering ADOOR",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-GVFBK": {
+    "name": "Harshini Babu",
+    "college": "NIT Calicut",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-LHZLX": {
+    "name": "Karan Jacob Mathew",
+    "college": "Vidya Academy of Science and Technology  Thalakottukara",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-ETQKP": {
+    "name": "ANAY RAJ",
+    "college": "NIT Calicut",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-EEVYB": {
+    "name": "Amal Hasin N",
+    "college": "FAROOK college",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-JAWER": {
+    "name": "Balu vishnu vardhan reddy",
+    "college": "Nitc",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-CQNKZ": {
+    "name": "Anand K N",
+    "college": "College of Engineering Trivandrum",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-JLFBV": {
+    "name": "Sanjay G",
+    "college": "Bishop Heber college trichy",
+    "events": ["Mime"],
+    "date": ["2023-03-11"]
+  },
+  "R23-CKTNI": {
+    "name": "Komal Singh Katewad",
+    "college": "Nitc",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-DGXXU": {
+    "name": "Nandana Krishnan",
+    "college": "Saintgits College of Engineering Kottayam",
+    "events": ["Kavitha Prayanam"],
+    "date": ["2023-03-11"]
+  },
+  "R23-FNVKZ": {
+    "name": "POOJA AJIT",
+    "college": "College of engineering Trivandrum",
+    "events": ["String Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-AMPJI": {
+    "name": "Sre",
+    "college": "Nitc",
+    "events": ["Treasure Hunt", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-UVZAE": {
+    "name": "Faheem Shakkir",
+    "college": "Nit Calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-QUWBM": {
+    "name": "Naveen Kumar",
+    "college": "NIT Calicut",
+    "events": [
+      "Dumb Charades",
+      "Dumb Charades",
+      "Dumb Charades",
+      "Dumb Charades"
+    ],
+    "date": ["2023-03-10", "2023-03-10", "2023-03-10", "2023-03-10"]
+  },
+  "R23-EDXRZ": {
+    "name": "Sreerag",
+    "college": "Sahrdaya college of engineering and technology",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-QIQZJ": {
+    "name": "Ishan Binu Sainudeen",
+    "college": "Amrita Vishwa Vidyapeetham  Coimbatore",
+    "events": ["Beat Boxing"],
+    "date": ["2023-03-12"]
+  },
+  "R23-MOWKQ": {
+    "name": "Harsh Jaishanker",
+    "college": "CB.EN.U4EEE21122",
+    "events": ["Mono Act"],
+    "date": [""]
+  },
+  "R23-GHIXS": {
+    "name": "Anika Sembian",
+    "college": "NIT Calicut",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-XZNSK": {
+    "name": "Parthiv A C",
+    "college": "Amrita viswa vidhyapeetham",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-HCZDZ": {
+    "name": "Mohammed Rizal Moidu",
+    "college": "NITC",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-WKQXL": {
+    "name": "Bhavya Lakshmi",
+    "college": "NA",
+    "events": ["Freestyle"],
+    "date": ["2023-03-11"]
+  },
+  "R23-UPAIY": {
+    "name": "James Chettupuzhakkaran",
+    "college": "Jyothi Engineering College",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-ZPCGP": {
+    "name": "NANDANA DV",
+    "college": "NIT CALICUT",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-PDLUK": {
+    "name": "Sabarinath AS",
+    "college": "Lourdes Matha College of Science and Technology",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-RZTRD": {
+    "name": "Nikhil Shaji",
+    "college": "NIT Calicut",
+    "events": ["Mr & Ms RAGAM"],
+    "date": ["2023-03-11"]
+  },
+  "R23-PDJBP": {
+    "name": "Johns saji",
+    "college": "FISAT",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-WNNZR": {
+    "name": "Dev Narayan MA",
+    "college": "NITC",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-CVWWP": {
+    "name": "Imad Ismayil",
+    "college": "Nit calicut",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-ITEZE": {
+    "name": "Sreepriya S",
+    "college": "College of Engineering  Perumon",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-OWLPH": {
+    "name": "Adheena B S",
+    "college": "Marian Engineering College",
+    "events": [
+      "Anthakshari",
+      "Kavitha Prayanam",
+      "Sketching",
+      "Slam Poetry",
+      "Spell Bee"
+    ],
+    "date": [
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-12",
+      "2023-03-11",
+      "2023-03-10"
+    ]
+  },
+  "R23-PLPEL": {
+    "name": "SREEHARI A",
+    "college": "College of Engineering  Kallooppara",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-CISXN": {
+    "name": "Akhila VK",
+    "college": "Mar Athanasius College of engineering",
+    "events": ["Bharathanatyam"],
+    "date": ["2023-03-12"]
+  },
+  "R23-ILPGY": {
+    "name": "Alen Thomas",
+    "college": "College Of Engineering Chengannur",
+    "events": ["Cut Clash"],
+    "date": [""]
+  },
+  "R23-PCULH": {
+    "name": "Nabeel",
+    "college": "Fannan",
+    "events": ["Duff Muttu", "Kolkali"],
+    "date": ["2023-03-11", "2023-02-11"]
+  },
+  "R23-BDTMG": {
+    "name": "Anjana A T",
+    "college": "NITC",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-PARKW": {
+    "name": "Adil Sharaf",
+    "college": "College of engineering Perumon  Kollam",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-EWODX": {
+    "name": "Kasireddy",
+    "college": "Nit calicut",
+    "events": ["Mr & Ms RAGAM", "Mr & Ms RAGAM"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-DILPY": {
+    "name": "Aryan Manoj Murthy",
+    "college": "NITK",
+    "events": ["Improv"],
+    "date": ["2023-03-12"]
+  },
+  "R23-XHNKZ": {
+    "name": "Ganta Dhivya Venkat",
+    "college": "Nitc",
+    "events": ["Dumb Charades", "Dumb Charades"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-BFIQK": {
+    "name": "Ismail zidan",
+    "college": "Farook college",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-DWHXZ": {
+    "name": "Vijval Srinivasan",
+    "college": "Amrita Vishwa Vidyapeetham",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-MNJMK": {
+    "name": "Kyathi",
+    "college": "NITK Surathkal",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-SLJNK": {
+    "name": "HAMEEM ABDULNASSIR",
+    "college": "JYOTHI ENGINEERING COLLEGE",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-GVNWF": {
+    "name": "Bhagath radhakrishnan",
+    "college": "Government arts and science College Calicut",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-BSMUY": {
+    "name": "Alok singh",
+    "college": "NIT Calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-MSTXF": {
+    "name": "Abdul Vahid",
+    "college": "Victoria",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-EAQDR": {
+    "name": "Lenoy John",
+    "college": "NIT Calicut",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-WXBOE": {
+    "name": "Ceya Mariam Jacob",
+    "college": "NIT Calicut",
+    "events": ["Crime Scene Investigation"],
+    "date": ["2023-03-11"]
+  },
+  "R23-RXNXJ": {
+    "name": "ALOK VYAS P G",
+    "college": "NSS ENGINEERING COLLEGE",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-QHCSF": {
+    "name": "Krantikumar Rajesh Warak",
+    "college": "NIT Calicut",
+    "events": [
+      "Alfaz",
+      "Crime Scene Investigation",
+      "Debate",
+      "Drama",
+      "Improv",
+      "Just A Minute",
+      "Kavitha Prayanam",
+      "Mock Court",
+      "Mono Act",
+      "Reporter",
+      "Slam Poetry",
+      "Spell Bee",
+      "Story Telling",
+      "Treasure Hunt",
+      "Word Smith"
+    ],
+    "date": [
+      "2023-03-12",
+      "2023-03-11",
+      "2023-03-10",
+      "2023-03-12",
+      "2023-03-12",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-11",
+      "",
+      "2023-03-10",
+      "2023-03-11",
+      "2023-03-10",
+      "2023-03-12",
+      "2023-03-11",
+      "2023-03-10"
+    ]
+  },
+  "R23-SZRWX": {
+    "name": "S. Krishna Narayan",
+    "college": "NIT Calicut",
+    "events": ["Cut Clash"],
+    "date": [""]
+  },
+  "R23-TBAKW": {
+    "name": "Abhishek B",
+    "college": "Lourdes matha college of science and technology",
+    "events": ["Crime Scene Investigation", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-BCWOP": {
+    "name": "Adwaith Muraleedharan",
+    "college": "NITC CALICUT",
+    "events": ["VALORANT"],
+    "date": [""]
+  },
+  "R23-OJLYL": {
+    "name": "Akshay Raj TV",
+    "college": "College of Engineering Trivandrum",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-PSZNU": {
+    "name": "Krishna Nanda PK",
+    "college": "Federal Institute of science and technology",
+    "events": [
+      "Bharathanatyam",
+      "Classical Music Solo",
+      "Mappilapattu",
+      "Mono Act"
+    ],
+    "date": ["2023-03-12", "2023-03-11", "2023-03-11", ""]
+  },
+  "R23-GFRXG": {
+    "name": "Rijo Reji Mathew",
+    "college": "College Of Engineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-AUOLB": {
+    "name": "Anjana Nair",
+    "college": "College of Engineering Trivandrum",
+    "events": [
+      "Rajan Memorial Light Music Competition",
+      "Western Solo",
+      "Western Solo"
+    ],
+    "date": ["2023-03-10", "2023-03-12", "2023-03-12"]
+  },
+  "R23-GWMFU": {
+    "name": "Akhil dominic varghese",
+    "college": "Amal jyothi college of engeenering kanjirapally",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-VOWHT": {
+    "name": "Akhil Ghosh M S",
+    "college": "Open",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-LJVYE": {
+    "name": "Nirandev a b",
+    "college": "Adishankara institute of engineering and technology kalady",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-KRWPX": {
+    "name": "Saran Earthadathu",
+    "college": "Symbiosis Center for media and communication  pune",
+    "events": ["Short Film Competition (Students)"],
+    "date": [""]
+  },
+  "R23-BNVXN": {
+    "name": "Manaf k",
+    "college": "Grace valley college",
+    "events": ["Kolkali"],
+    "date": ["2023-02-11"]
+  },
+  "R23-IPLJD": {
+    "name": "MOHAMMED IRSHAD CK",
+    "college": "MES MAMPAD COLLEGE",
+    "events": ["Duff Muttu"],
+    "date": ["2023-03-11"]
+  },
+  "R23-PERGR": {
+    "name": "Keertik Chandra",
+    "college": "NIT Trichy",
+    "events": ["Dumb Charades", "Mono Act", "Treasure Hunt"],
+    "date": ["2023-03-10", "", "2023-03-11"]
+  },
+  "R23-CFXOD": {
+    "name": "Karthika Arun Babu",
+    "college": "Nit Calicut",
+    "events": ["Tal Se Tal Mila"],
+    "date": ["2023-03-12"]
+  },
+  "R23-HGXLZ": {
+    "name": "Arun Natarajan",
+    "college": "NITC",
+    "events": [
+      "Crime Scene Investigation",
+      "Debate",
+      "Dumb Charades",
+      "Improv"
+    ],
+    "date": ["2023-03-11", "2023-03-10", "2023-03-10", "2023-03-12"]
+  },
+  "R23-EWMQF": {
+    "name": "Nikitha Remesh",
+    "college": "NIT Calicut",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-BJPKK": {
+    "name": "Nevin Alex Mathew",
+    "college": "National institute of Technology Calicut",
+    "events": ["Pixel"],
+    "date": ["2023-03-12"]
+  },
+  "R23-ZLXBT": {
+    "name": "Jofin",
+    "college": "NITC",
+    "events": ["Quiz Open General"],
+    "date": ["2023-03-12"]
+  },
+  "R23-WEJLN": {
+    "name": "Maria Gapser",
+    "college": "Saintgits college of Engineering",
+    "events": ["Anthakshari"],
+    "date": ["2023-03-10"]
+  },
+  "R23-OYSMV": {
+    "name": "Nandana Raju",
+    "college": "Govt. Law College Trivandrum",
+    "events": ["Rajan Memorial Light Music Competition"],
+    "date": ["2023-03-10"]
+  },
+  "R23-XHETU": {
+    "name": "Ashwin A Nair",
+    "college": "NIT CALICUT",
+    "events": ["COD MOBILE"],
+    "date": [""]
+  },
+  "R23-FSXQJ": {
+    "name": "Arjun Krishna",
+    "college": "NITC",
+    "events": ["Dumb Charades", "Sketching", "Sketching"],
+    "date": ["2023-03-10", "2023-03-12", "2023-03-12"]
+  },
+  "R23-HZNSL": {
+    "name": "C T JOSHUA",
+    "college": "NITC",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-TQUCS": {
+    "name": "Gokul Os",
+    "college": "Sree chira Thirunal College of Engineering",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-UUJEO": {
+    "name": "Anna Merin Joseph",
+    "college": "Govt. Law College Kozhikode",
+    "events": [
+      "Crime Scene Investigation",
+      "Crime Scene Investigation",
+      "Mock Court",
+      "Treasure Hunt"
+    ],
+    "date": ["2023-03-11", "2023-03-11", "2023-03-11", "2023-03-11"]
+  },
+  "R23-NBYSO": {
+    "name": "Angel rose biju",
+    "college": "Csl thodupuzha",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-MUIWE": {
+    "name": "Saartak",
+    "college": "Nitc",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-FAENB": {
+    "name": "Ananthan Surendran",
+    "college": "KMEA College Of Architecture",
+    "events": ["Acoustics"],
+    "date": ["2023-03-12"]
+  },
+  "R23-XBWZJ": {
+    "name": "Midhun k joy",
+    "college": "Csl collage thodupuzha",
+    "events": ["Mock Court"],
+    "date": ["2023-03-11"]
+  },
+  "R23-DPGLG": {
+    "name": "Utsav Kaushal",
+    "college": "National Institute of Technology Calicut",
+    "events": ["Just A Minute"],
+    "date": ["2023-03-10"]
+  },
+  "R23-OZCCT": {
+    "name": "Mohamed Nihal P",
+    "college": "Govt.Engneering college Kozhikode",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-FNKYW": {
+    "name": "Bishal sonar",
+    "college": "NIT Calicut",
+    "events": ["Freestyle", "String Solo", "Tal Se Tal Mila", "Western Solo"],
+    "date": ["2023-03-11", "2023-03-12", "2023-03-12", "2023-03-12"]
+  },
+  "R23-BXNIH": {
+    "name": "Kottakota Venkatasai Narahari Kumandan",
+    "college": "National institute of technology Calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-TQKBT": {
+    "name": "Pavani Gaddam",
+    "college": "Amrita School of Engineering",
+    "events": ["Rajan Memorial Light Music Competition", "Western Solo"],
+    "date": ["2023-03-10", "2023-03-12"]
+  },
+  "R23-TZZGL": {
+    "name": "Sreehari M P",
+    "college": "National Institute of Technology Calicut",
+    "events": ["Mr & Ms RAGAM", "Treasure Hunt"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-XJMPG": {
+    "name": "Vyshna Raj E",
+    "college": "Nitc",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-GYEUH": {
+    "name": "Ronith R Nair",
+    "college": "NITK  Surathkal",
+    "events": ["Quiz College General"],
+    "date": ["2023-03-11"]
+  },
+  "R23-OCCEK": {
+    "name": "POLISETTI BRAHMA TEJA",
+    "college": "NITC",
+    "events": ["Mr & Ms RAGAM", "Mr & Ms RAGAM"],
+    "date": ["2023-03-11", "2023-03-11"]
+  },
+  "R23-KVANX": {
+    "name": "P E Meenakshi",
+    "college": "St Josephs College Devagiri",
+    "events": ["Western Solo"],
+    "date": ["2023-03-12"]
+  },
+  "R23-QTYUE": {
+    "name": "Dhruvan V. K.",
+    "college": "St. Pauls College  Kalamassery",
+    "events": ["Freestyle"],
+    "date": ["2023-03-11"]
+  },
+  "R23-NQORC": {
+    "name": "VIVEK",
+    "college": "Nitc",
+    "events": ["Sketching"],
+    "date": ["2023-03-12"]
+  },
+  "R23-DEGID": {
+    "name": "Kasireddy Rohith Kumar",
+    "college": "National institute of technology Calicut",
+    "events": ["Dumb Charades", "Dumb Charades"],
+    "date": ["2023-03-10", "2023-03-10"]
+  },
+  "R23-RZFCM": {
+    "name": "Premdeep Amarana",
+    "college": "Nit Calicut",
+    "events": ["Treasure Hunt"],
+    "date": ["2023-03-11"]
+  },
+  "R23-TAVKZ": {
+    "name": "adithya sn",
+    "college": "Bharat Mata school of legal studies",
+    "events": ["Debate"],
+    "date": ["2023-03-10"]
+  },
+  "R23-FRKQG": {
+    "name": "Vyshnav M",
+    "college": "Toc h institute of science and technology",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
+  },
+  "R23-IHIIS": {
+    "name": "S B Sanjay Krishna",
+    "college": "NIT CALICUT",
+    "events": ["Spell Bee"],
+    "date": ["2023-03-10"]
+  },
+  "R23-LUBFW": {
+    "name": "Asish.K",
+    "college": "Nit calicut",
+    "events": ["Dumb Charades"],
+    "date": ["2023-03-10"]
+  },
+  "R23-ZICBY": {
+    "name": "ASWIN MAMMEN",
+    "college": "Toc H Institute of Science And Technology",
+    "events": ["E-FOOTBALL"],
+    "date": [""]
   }
 }

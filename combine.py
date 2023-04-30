@@ -1,8 +1,13 @@
 import json
 import os
+import sys
 
 # specify the directory containing the json files
-directory = "/home/SinadShan/dev/webdev/rcertgen/data/data/"
+if(len(sys.argv) < 1):
+    print("Usage: combine.py <PATH TO DIRECTORY>")
+    exit()
+
+directory = sys.argv[1]
 
 # create an empty dictionary to hold the combined data
 combined_data = {}
