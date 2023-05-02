@@ -22122,6 +22122,30 @@
     "workshops": ["FLUTTER APP DEVELOPMENT"],
     "dates": ["12/03/2023"]
   },
+  "R23-FRTEL": {
+    "name": "Asif K",
+    "college": "TKM COLLEGE OF ENGINEERING",
+    "workshops": ["PYTHON"],
+    "dates": ["10/03/2023"]
+  },
+  "R23-POIUY": {
+    "name": "Danish M V",
+    "college": "GOVERNMENT ENGINEER COLLEGE PALAKKAD",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-YUIOP": {
+    "name": "MUhammed Shibin K",
+    "college": "LBS ENGINEERING COLLEGE",
+    "workshops": ["ROBOTICS"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-YAYOP": {
+    "name": "Muhammed Suhan P",
+    "college": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
+    "workshops": ["PUBLIC SPEAKING"],
+    "dates": ["11/03/2023"]
+  },
   "R23-CBDVH": {
     "name": "Ashley Muthirakalayil Binu",
     "college": "Marian Engineering College",
