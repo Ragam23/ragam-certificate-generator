@@ -22098,6 +22098,12 @@
     "workshops": ["DANCE WORKSHOP"],
     "dates": ["10/03/2023"]
   },
+  "R23-ASPFH": {
+    "name": "ASHIF SAHEER T",
+    "college": "MAR ATHANASIUS COLLEGE OF ENGINEERING",
+    "workshops": ["ROBOTICS"],
+    "dates": ["11/03/2023"]
+  },
   "R23-AKDUI": {
     "name": "Nesla P A",
     "college": "College of engineering and management Punnapra",
