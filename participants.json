@@ -6532,11 +6532,23 @@
     "workshops": ["SOLIDWORKS"],
     "dates": ["10/03/2023"]
   },
-  "R23-RKUFO": {
-    "name": "Krishna Nandana",
-    "college": "Tkm College of Engineering",
-    "workshops": ["BASICS OF IC ENGINE AND ECU TUNING"],
+  "R23-TXACY": {
+    "name": "Vishnu Vijayan",
+    "college": "Amal Jyothi College of Engineering",
+    "workshops": ["BASICS OF IC ENGINE & ECU TUNING"],
     "dates": ["11/03/2023"]
+  },
+  "R23-RKUFO": {
+    "name": "Krishna Nandana R",
+    "college": "Tkm College of Engineering",
+    "workshops": ["BASICS OF IC ENGINE AND ECU TUNING","ETHICAL HACKING"],
+    "dates": ["11/03/2023","12/03/2023"]
+  },
+  "R23-RKAFO": {
+    "name": "Muhammed Raees Pareed",
+    "college": "Government Engineering College Thrissur",
+    "workshops": ["PYTHON","ROBOTICS","ETHICAL HACKING"],
+    "dates": ["10/03/2023","11/03/2023","12/03/2023"]
   },
   "R23-OTYLN": {
     "name": "MAUREEN MAHESH NETTO",
