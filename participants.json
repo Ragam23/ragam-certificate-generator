@@ -9097,6 +9097,18 @@
     "dates": ["10/03/2023","11/03/2023"],
     "events": ["Quiz College Sports"]
   },
+  "R23-IQIKG": {
+    "name": "Shahzin",
+    "college": "College of Engineering Thalassery",
+    "workshops": ["PYTHON","ROBOTICS","ETHICAL HACKING"],
+    "dates": ["10/03/2023","11/03/2023","12/03/2023"]
+  },
+  "R23-IQIYU": {
+    "name": "Nijal Nandaa",
+    "college": "College Of Engineering Kidangoor",
+    "workshops": ["FULL STACK WEB DEVELOPMENT"],
+    "dates": ["11/03/2023"]
+  },
   "R23-HGXKX": {
     "name": "Maryam",
     "college": "LBSITW",
