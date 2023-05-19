@@ -9127,6 +9127,12 @@
     "workshops": ["FULL STACK WEB DEVELOPMENT"],
     "dates": ["12/03/2023"]
   },
+  "R23-DESMS": {
+    "name": "Mohammed Jishad",
+    "college": "College of Engineering Trivandrum",
+    "workshops": ["AUTOCAD","DIGITAL MARKETING"],
+    "dates": ["11/03/2023","12/03/2023"]
+  },
   "R23-ERLME": {
     "name": "Saniya Maria Sunoj",
     "college": "Sree Chithra Thirunal College of Engineering",
