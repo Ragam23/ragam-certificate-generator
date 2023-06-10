@@ -31534,6 +31534,12 @@
     "workshops": ["ETHICAL HACKING"],
     "dates": ["12/03/2023"]
   },
+  "R23-FSTQL": {
+    "name": "San Joy Jiji",
+    "college": "Mar Baselious Christian College of engineering",
+    "workshops": ["ROBOTICS"],
+    "dates": ["11/03/2023"]
+  },
   "R23-VTIGC": {
     "name": "Ali Nizar",
     "college": "Valiya koonambai kulathamma engeenering technology",
